@@ -34,6 +34,10 @@ export default function HeroSection () {
      {/* extreme right button*/}
 
 
+
+ 
+
+
   </div>
   {/* top-inner div holding heading para and button */}
 

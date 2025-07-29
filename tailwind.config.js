@@ -1,14 +1,22 @@
 // tailwind.config.js
-module.exports = {
- content: [
-   "./src/**/*.{js,jsx,ts,tsx}", // adjust based on your project
- ],
- theme: {
-   extend: {
-     fontFamily: {
-       inter: ['Inter', 'sans-serif'],
-     },
-   },
+export const content = [
+ "./src/**/*.{js,jsx,ts,tsx}", // adjust based on your project
+];
+export const theme = {
+ extend: {
+  fontFamily: {
+   inter: ['Inter', 'sans-serif'],
+  },
  },
- plugins: [],
+ screens: {
+  'mediumdevice': '600px',
+  'sm': '640px',
+  'md': '768px',
+  'lg': '1024px',
+  'largedevice': '1240px',
+  'xl': '1280px',
+  'largedevice2': '1440px',
+  '2xl': '1536px',
+ }
 };
+export const plugins = [];
