@@ -120,7 +120,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753021916/Vector_6_haxihm.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -198,7 +198,7 @@ md:flex  md:w-[311.5px]  wd:h-[241px]  md:items-center md:gap-[10px] md:self-str
 sm:flex   sm:w-[272.5px]  sm:h-[264px]     sm:items-center sm:gap-[10px] sm:self-stretch sm:rounded-[24px] sm:bg-[url('/path-to-image.jpg')] sm:bg-cover sm:bg-no-repeat sm:bg-center
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753604229/Depositphotos_744752180_XL_uvbz98.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753122772/Depositphotos_736802438_XL_ioisem.png" 
     alt="Descriptive Alt" 
     className="
     w-full h-full object-cover rounded-[24px]
@@ -251,7 +251,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752903001/fa6-solid_user-group_mmpuxd.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -358,7 +358,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752902995/ic_sharp-shield_ylk0d1.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -443,7 +443,7 @@ md:flex   md:w-[250px] md:h-[233px]   md:items-center md:gap-[10px] md:self-stre
 sm:flex   sm:w-[200px]  sw:h-[233px]    sm:items-center sm:gap-[10px] sm:self-stretch sm:rounded-[24px] sm:bg-[url('/path-to-image.jpg')] sm:bg-cover sm:bg-no-repeat sm:bg-center
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753604229/Depositphotos_744752180_XL_uvbz98.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753550607/Depositphotos_295658812_XL_Large_puckuq.png" 
     alt="Descriptive Alt" 
     className="
     w-full h-full object-cover rounded-[24px]

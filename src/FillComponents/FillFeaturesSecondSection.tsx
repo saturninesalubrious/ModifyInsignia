@@ -124,7 +124,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753041259/Vector_10_co3ic6.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -230,7 +230,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006098/Vector_2_x5e4bj.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -266,7 +266,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
 ">
-Real-time analytics
+Modular Architecture
 </h2>
 
 <p className="
@@ -276,7 +276,7 @@ lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450]
 md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
 sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
 ">
-Harness real-time data and insights to make sharper, faster business decisions.
+Build only what you need with plug-and-play components—fully scalable.
 </p>
 
 
@@ -337,7 +337,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006109/Vector_3_xgj80p.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -373,7 +373,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
 ">
-Real-time analytics
+Mobile-First Experience
 </h2>
 
 <p className="
@@ -383,7 +383,7 @@ lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450]
 md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
 sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
 ">
-Harness real-time data and insights to make sharper, faster business decisions.
+Access, manage, and optimize operations on the go with robust system.
 </p>
 
 
@@ -444,7 +444,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006123/material-symbols_enterprise_jjguen.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -480,7 +480,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
 ">
-Real-time analytics
+Enterprise-Grade Security
 </h2>
 
 <p className="
@@ -490,7 +490,7 @@ lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450]
 md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
 sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
 ">
-Harness real-time data and insights to make sharper, faster business decisions.
+We bake in encryption, authentication, and compliance from the ground up.
 </p>
 
 
@@ -551,7 +551,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006130/material-symbols_automation_j49f2v.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -587,7 +587,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
 ">
-Real-time analytics
+Smart Automation
 </h2>
 
 <p className="
@@ -597,7 +597,7 @@ lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450]
 md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
 sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
 ">
-Harness real-time data and insights to make sharper, faster business decisions.
+Automate your repetitive workflows and focus on what matters.
 </p>
 
 
@@ -658,7 +658,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006139/Vector_4_koayas.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -694,7 +694,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
 ">
-Real-time analytics
+Seamless Integrations
 </h2>
 
 <p className="
@@ -704,7 +704,7 @@ lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450]
 md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
 sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
 ">
-Harness real-time data and insights to make sharper, faster business decisions.
+Works effortlessly with your existing tools, APIs, and third-party platforms.
 </p>
 
 

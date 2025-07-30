@@ -418,7 +418,7 @@ lg:flex lg:h-[31px] lg:flex-col lg:justify-center lg:self-stretch lg:text-[#F9F9
 md:flex md:h-[31px] md:flex-col md:justify-center md:self-stretch md:text-[#F9F9F7] md:font-sans md:text-[20px] md:font-medium md:leading-[31px] md:tracking-[-0.6px]
 sm:flex sm:h-[31px] sm:flex-col sm:justify-center sm:self-stretch sm:text-[#F9F9F7] sm:font-sans sm:text-[20px] sm:font-medium sm:leading-[31px] sm:tracking-[-0.6px]
 ">
- Outstanding Service
+Exceptional
 </h2>
 
 
@@ -569,7 +569,7 @@ xl:flex xl:w-[15px] xl:h-[15px] xl:justify-center xl:items-center xl:gap-[10px] 
   md:self-stretch md:text-[rgba(249,249,247,0.85)] md:font-sans md:text-[16px] md:font-medium md:leading-[25px]
   sm:self-stretch sm:text-[rgba(249,249,247,0.85)] sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[25px]
 ">
-  The platform has revolutionized how we manage integrations. It’s fast, secure, and incredibly easy to deploy—saved us weeks in dev time.
+ From automation to analytics, everything just works. It's like having a second engineering team built in.Support is lightning-fast too!
 </h2>
 
 
@@ -600,7 +600,7 @@ xl:flex xl:w-[55px] xl:h-[55px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[55px] 2xl:h-[55px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752939054/anne-peres-plsF6obTgms-unsplash_2_1_iwy89z.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1743222479/irene-strong-TMt3JGoVlng-unsplash_1_1_ljlju2.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -635,7 +635,7 @@ sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[7px] sm:flex-[1_0_0
  md:self-stretch md:text-[#F9F9F7] md:font-sans md:text-[16px] md:font-medium md:leading-[24px] md:tracking-[-0.48px]
  sm:self-stretch sm:text-[#F9F9F7] sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
-Samantha Jones
+John Spencer
 </h2>
 
 
@@ -648,7 +648,7 @@ Samantha Jones
  lg:self-stretch lg:text-white/65 lg:font-sans lg:text-[16px] lg:font-medium lg:leading-[24px] lg:tracking-[-0.48px]
  sm:self-stretch sm:text-white/65 sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
- Freelance Web Developer
+Product Lead
 </h3>
 
 
@@ -711,7 +711,7 @@ lg:flex lg:h-[31px] lg:flex-col lg:justify-center lg:self-stretch lg:text-[#F9F9
 md:flex md:h-[31px] md:flex-col md:justify-center md:self-stretch md:text-[#F9F9F7] md:font-sans md:text-[20px] md:font-medium md:leading-[31px] md:tracking-[-0.6px]
 sm:flex sm:h-[31px] sm:flex-col sm:justify-center sm:self-stretch sm:text-[#F9F9F7] sm:font-sans sm:text-[20px] sm:font-medium sm:leading-[31px] sm:tracking-[-0.6px]
 ">
- Outstanding Service
+ Affordable
 </h2>
 
 
@@ -862,7 +862,7 @@ xl:flex xl:w-[15px] xl:h-[15px] xl:justify-center xl:items-center xl:gap-[10px] 
   md:self-stretch md:text-[rgba(249,249,247,0.85)] md:font-sans md:text-[16px] md:font-medium md:leading-[25px]
   sm:self-stretch sm:text-[rgba(249,249,247,0.85)] sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[25px]
 ">
-  The platform has revolutionized how we manage integrations. It’s fast, secure, and incredibly easy to deploy—saved us weeks in dev time.
+I was honestly surprised at how cost-effective the platform is. We’re getting enterprise-level performance without the enterprise-level pricing.
 </h2>
 
 
@@ -893,7 +893,7 @@ xl:flex xl:w-[55px] xl:h-[55px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[55px] 2xl:h-[55px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752939054/anne-peres-plsF6obTgms-unsplash_2_1_iwy89z.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1743176253/jake-nackos-IF9TK5Uy-KI-unsplash_2_wbhwm7.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -928,7 +928,7 @@ sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[7px] sm:flex-[1_0_0
  md:self-stretch md:text-[#F9F9F7] md:font-sans md:text-[16px] md:font-medium md:leading-[24px] md:tracking-[-0.48px]
  sm:self-stretch sm:text-[#F9F9F7] sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
-Samantha Jones
+Milka Johnson
 </h2>
 
 
@@ -941,7 +941,7 @@ Samantha Jones
  lg:self-stretch lg:text-white/65 lg:font-sans lg:text-[16px] lg:font-medium lg:leading-[24px] lg:tracking-[-0.48px]
  sm:self-stretch sm:text-white/65 sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
- Freelance Web Developer
+Founder
 </h3>
 
 

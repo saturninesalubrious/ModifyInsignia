@@ -87,11 +87,11 @@ Stay informed with the latest health and wellness insights from our experts.
 
 {/* 1st div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:flex-[1_0_0]
-xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:flex-[1_0_0]
-lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:flex-[1_0_0] lg:w-full
-md:flex md:flex-col md:items-start md:gap-[25px] md:flex-[1_0_0] md:w-full
-sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:flex-[1_0_0] sm:w-full
+2xl:flex 2xl:flex-col 2xl:w-[425.333px]  2xl:self-stretch   2xl:items-start 2xl:gap-[25px] 
+xl:flex xl:flex-col  xl:w-[537.5px]   xl:self-stretch   xl:items-start xl:gap-[25px] 
+lg:flex lg:flex-col  lg:w-[422px]   lg:items-start lg:gap-[25px]
+md:flex md:flex-col md:items-start md:gap-[25px]  md:w-full
+sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:w-full
 ">
   
 
@@ -143,7 +143,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-News
+Cloud Computing
 </h6>
 
 </div>
@@ -167,7 +167,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-sans lg:text-[24px] lg:font-medium lg:
 md:self-stretch md:text-[#001D21] md:font-sans md:text-[24px] md:font-medium md:leading-[31px] md:tracking-[-1.56px]
 sm:self-stretch sm:text-[#001D21] sm:font-sans sm:text-[24px] sm:font-medium sm:leading-[31px] sm:tracking-[-1.56px]
 ">
-Maximizing your marketing ROI
+Optimizing Costs with Cloud Infrastructure
 </h2>
 
 <p className="
@@ -177,7 +177,7 @@ lg:self-stretch lg:text-[#585858] lg:font-sans lg:text-[16px] lg:font-[450] lg:l
 md:self-stretch md:text-[#585858] md:font-sans md:text-[16px] md:font-[450] md:leading-[22px]
 sm:self-stretch sm:text-[#585858] sm:font-sans sm:text-[16px] sm:font-[450] sm:leading-[22px]
 ">
-Discover strategies to enhance your marketing return on investment effectively.
+Discover how modern businesses are reducing operational costs and increasing agility with scalable cloud platforms.
 </p>
 
 
@@ -199,11 +199,11 @@ Discover strategies to enhance your marketing return on investment effectively.
 
 {/* 2nd div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:flex-[1_0_0]
-xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:flex-[1_0_0]
-lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:flex-[1_0_0] lg:w-full
-md:flex md:flex-col md:items-start md:gap-[25px] md:flex-[1_0_0] md:w-full
-sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:flex-[1_0_0] sm:w-full
+2xl:flex 2xl:flex-col 2xl:w-[425.333px]  2xl:self-stretch   2xl:items-start 2xl:gap-[25px] 
+xl:flex xl:flex-col  xl:w-[537.5px]   xl:self-stretch   xl:items-start xl:gap-[25px] 
+lg:flex lg:flex-col  lg:w-[422px]   lg:items-start lg:gap-[25px]
+md:flex md:flex-col md:items-start md:gap-[25px]  md:w-full
+sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:w-full
 ">
   
 
@@ -216,7 +216,7 @@ md:h-[500px] md:flex-shrink-0 md:self-stretch md:rounded-[14px] md:relative md:o
 sm:h-[350px] sm:flex-shrink-0 sm:self-stretch sm:rounded-[14px] sm:relative sm:overflow-hidden sm:bg-cover sm:bg-no-repeat sm:bg-center sm:bg-[url('https://your-image-url.com/image.png')]
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752988675/Depositphotos_744752180_XL_dyjeic.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753813506/Depositphotos_709787060_XL_qi5trw.jpg" 
     alt="Background"
     className="
     2xl:absolute 2xl:inset-0 2xl:w-full 2xl:h-full 2xl:object-cover
@@ -255,7 +255,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-News
+Cybersecurity
 </h6>
 
 </div>
@@ -279,7 +279,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-sans lg:text-[24px] lg:font-medium lg:
 md:self-stretch md:text-[#001D21] md:font-sans md:text-[24px] md:font-medium md:leading-[31px] md:tracking-[-1.56px]
 sm:self-stretch sm:text-[#001D21] sm:font-sans sm:text-[24px] sm:font-medium sm:leading-[31px] sm:tracking-[-1.56px]
 ">
-Maximizing your marketing ROI
+Zero Trust Architecture Explained
 </h2>
 
 <p className="
@@ -289,7 +289,7 @@ lg:self-stretch lg:text-[#585858] lg:font-sans lg:text-[16px] lg:font-[450] lg:l
 md:self-stretch md:text-[#585858] md:font-sans md:text-[16px] md:font-[450] md:leading-[22px]
 sm:self-stretch sm:text-[#585858] sm:font-sans sm:text-[16px] sm:font-[450] sm:leading-[22px]
 ">
-Discover strategies to enhance your marketing return on investment effectively.
+Learn how the zero trust model is reshaping security frameworks to safeguard digital assets in an increasingly remote world.
 </p>
 
 
@@ -314,11 +314,11 @@ Discover strategies to enhance your marketing return on investment effectively.
 
 {/* 3rd div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:flex-[1_0_0]
-xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:flex-[1_0_0]
-lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:flex-[1_0_0] lg:w-full
-md:flex md:flex-col md:items-start md:gap-[25px] md:flex-[1_0_0] md:w-full
-sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:flex-[1_0_0] sm:w-full
+2xl:flex 2xl:flex-col 2xl:w-[425.333px]  2xl:self-stretch   2xl:items-start 2xl:gap-[25px] 
+xl:flex xl:flex-col  xl:w-[537.5px]   xl:self-stretch   xl:items-start xl:gap-[25px] 
+lg:flex lg:flex-col  lg:w-[422px]   lg:items-start lg:gap-[25px]
+md:flex md:flex-col md:items-start md:gap-[25px]  md:w-full
+sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:w-full
 ">
   
 
@@ -331,7 +331,7 @@ md:h-[500px] md:flex-shrink-0 md:self-stretch md:rounded-[14px] md:relative md:o
 sm:h-[350px] sm:flex-shrink-0 sm:self-stretch sm:rounded-[14px] sm:relative sm:overflow-hidden sm:bg-cover sm:bg-no-repeat sm:bg-center sm:bg-[url('https://your-image-url.com/image.png')]
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752988675/Depositphotos_744752180_XL_dyjeic.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753814378/Depositphotos_233887380_XL_Large_ec1apz.png" 
     alt="Background"
     className="
     2xl:absolute 2xl:inset-0 2xl:w-full 2xl:h-full 2xl:object-cover
@@ -370,7 +370,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-News
+Product Design
 </h6>
 
 </div>
@@ -394,7 +394,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-sans lg:text-[24px] lg:font-medium lg:
 md:self-stretch md:text-[#001D21] md:font-sans md:text-[24px] md:font-medium md:leading-[31px] md:tracking-[-1.56px]
 sm:self-stretch sm:text-[#001D21] sm:font-sans sm:text-[24px] sm:font-medium sm:leading-[31px] sm:tracking-[-1.56px]
 ">
-Maximizing your marketing ROI
+Design Systems for Scalable Products
 </h2>
 
 <p className="
@@ -404,7 +404,7 @@ lg:self-stretch lg:text-[#585858] lg:font-sans lg:text-[16px] lg:font-[450] lg:l
 md:self-stretch md:text-[#585858] md:font-sans md:text-[16px] md:font-[450] md:leading-[22px]
 sm:self-stretch sm:text-[#585858] sm:font-sans sm:text-[16px] sm:font-[450] sm:leading-[22px]
 ">
-Discover strategies to enhance your marketing return on investment effectively.
+Explore the power of design systems in building cohesive user experiences and accelerating product designing and development.
 </p>
 
 

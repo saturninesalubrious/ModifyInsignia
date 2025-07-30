@@ -5,7 +5,6 @@ import Navbar from "@/components/Navbar";
 import BottomNavbar from "@/components/BottomBlurNavbar";
 import Footbar from "@/components/Footer"
 import FillHeader from "@/FillComponents/FillHeader";
-import Footer from "@/components/Footer";
 import FillFooter from "@/FillComponents/FillFooter";
 
 const geistSans = Geist({

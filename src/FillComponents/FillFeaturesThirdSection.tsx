@@ -111,7 +111,7 @@ md:flex md:h-[500px] md:items-center md:gap-[10px] md:self-stretch md:rounded-[2
 sm:flex sm:h-[350px] sm:items-center sm:gap-[10px] sm:self-stretch sm:rounded-[24px]    sm:bg-center
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753550607/Depositphotos_295658812_XL_Large_puckuq.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753010551/Depositphotos_239052006_XL_mxy2se.png" 
     alt="Descriptive Alt" 
     className="
     w-full h-full object-cover rounded-[24px]
@@ -273,7 +273,7 @@ Data Science
  md:flex-[1_0_0] md:text-[#001D21] md:font-[450] md:text-[36px] md:leading-[45px] md:tracking-[-1.08px] md:font-sans
  sm:flex-[1_0_0] sm:text-[#001D21] sm:font-[450] sm:text-[36px] sm:leading-[45px] sm:tracking-[-1.08px] sm:font-sans
  ">
- AI & Machine Learning
+Data & Analytics
 </h1>
 
 
@@ -286,7 +286,7 @@ md:flex md:h-[500px] md:items-center md:gap-[10px] md:self-stretch md:rounded-[2
 sm:flex sm:h-[350px] sm:items-center sm:gap-[10px] sm:self-stretch sm:rounded-[24px]    sm:bg-center
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753550607/Depositphotos_295658812_XL_Large_puckuq.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753013632/Depositphotos_175139788_XL_wesbgt.png" 
     alt="Descriptive Alt" 
     className="
     w-full h-full object-cover rounded-[24px]
@@ -333,7 +333,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Utilitarian AI
+Data Consulting
 </h6>
 
 </div>
@@ -358,7 +358,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Predictive Analytics
+Data Engineering
 </h6>
 
 </div>
@@ -378,7 +378,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Machine Learning
+Analytics Services
 </h6>
 
 </div>
@@ -398,7 +398,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Data Science
+System Integration
 </h6>
 
 </div>
@@ -473,7 +473,7 @@ Data Science
  md:flex-[1_0_0] md:text-[#001D21] md:font-[450] md:text-[36px] md:leading-[45px] md:tracking-[-1.08px] md:font-sans
  sm:flex-[1_0_0] sm:text-[#001D21] sm:font-[450] sm:text-[36px] sm:leading-[45px] sm:tracking-[-1.08px] sm:font-sans
  ">
- AI & Machine Learning
+Cloud Engineering
 </h1>
 
 
@@ -486,7 +486,7 @@ md:flex md:h-[500px] md:items-center md:gap-[10px] md:self-stretch md:rounded-[2
 sm:flex sm:h-[350px] sm:items-center sm:gap-[10px] sm:self-stretch sm:rounded-[24px]    sm:bg-center
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753550607/Depositphotos_295658812_XL_Large_puckuq.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753014363/Depositphotos_610532936_XL_2_chpi1s.png" 
     alt="Descriptive Alt" 
     className="
     w-full h-full object-cover rounded-[24px]
@@ -533,7 +533,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Utilitarian AI
+Cloud Consulting
 </h6>
 
 </div>
@@ -558,7 +558,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Predictive Analytics
+Cloud Migration
 </h6>
 
 </div>
@@ -578,7 +578,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Machine Learning
+DevSecOps
 </h6>
 
 </div>
@@ -598,7 +598,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Data Science
+Managed Cloud Services
 </h6>
 
 </div>
@@ -661,7 +661,7 @@ md:flex md:h-[500px] md:items-center md:gap-[10px] md:self-stretch md:rounded-[2
 sm:flex sm:h-[350px] sm:items-center sm:gap-[10px] sm:self-stretch sm:rounded-[24px]    sm:bg-center
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753550607/Depositphotos_295658812_XL_Large_puckuq.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753014374/Depositphotos_350872620_XL_1_pkwovx.png" 
     alt="Descriptive Alt" 
     className="
     w-full h-full object-cover rounded-[24px]
@@ -708,7 +708,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Utilitarian AI
+Product Design
 </h6>
 
 </div>
@@ -733,7 +733,7 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Predictive Analytics
+Product Management
 </h6>
 
 </div>
@@ -753,30 +753,11 @@ lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] l
 md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
  sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
 ">
-Machine Learning
+Product Design
 </h6>
 
 </div>
 
-
-<div className="
-2xl:flex 2xl:h-[27px] 2xl:px-[10px] 2xl:py-[6px] 2xl:items-start 2xl:gap-[10px] 2xl:rounded-[4px] 2xl:bg-[#EAEAE7]
-xl:flex xl:h-[27px] xl:px-[10px] xl:py-[6px] xl:items-start xl:gap-[10px] xl:rounded-[4px] xl:bg-[#EAEAE7]
-lg:flex lg:h-[27px] lg:px-[10px] lg:py-[6px] lg:items-start lg:gap-[10px] lg:rounded-[4px] lg:bg-[#EAEAE7]
-md:flex md:h-[27px] md:px-[10px] md:py-[6px] md:items-start md:gap-[10px] md:rounded-[4px] md:bg-[#EAEAE7]
-sm:flex sm:h-[27px] sm:px-[10px] sm:py-[6px] sm:items-start sm:gap-[10px] sm:rounded-[4px] sm:bg-[#EAEAE7]
-">
-<h6 className="
-2xl:text-[#2D4447] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[15px] 2xl:tracking-[0.56px]
-xl:text-[#2D4447] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[15px] xl:tracking-[0.56px]
-lg:text-[#2D4447] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[15px] lg:tracking-[0.56px]
-md:text-[#2D4447] md:font-sans md:text-[14px] md:font-medium md:leading-[15px] md:tracking-[0.56px]
- sm:text-[#2D4447] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[15px] sm:tracking-[0.56px]
-">
-Data Science
-</h6>
-
-</div>
 
 
 

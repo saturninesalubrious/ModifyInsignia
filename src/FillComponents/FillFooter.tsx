@@ -1,3 +1,10 @@
+import FooterGetStartedButton from "@/ButtonVariants/FooterGetStarted";
+import FbNavigationalButton from "@/ButtonVariants/Social";
+
+import InstaNavigationalButton from "@/ButtonVariants/Social2";
+import YoutubeNavigationalButton from "@/ButtonVariants/Social3";
+import TwitterNavigationalButton from "@/ButtonVariants/Social4";
+
 export default function FillFooter () {
 
 
@@ -60,14 +67,7 @@ Ready to elevate your business?
 
 
 
-<button className="
-2xl:flex 2xl:items-center 2xl:w-fit  2xl:justify-center 2xl:gap-[10px] 2xl:px-[24px] 2xl:py-[16px] 2xl:rounded-[12px] 2xl:bg-white 2xl:text-[#1D1D1D] 2xl:text-center 2xl:text-[15px] 2xl:leading-[16px] 2xl:tracking-[0.45px] 2xl:font-[550] 2xl:font-sans
-xl:flex xl:items-center  xl:w-fit   xl:justify-center xl:gap-[10px] xl:px-[24px] xl:py-[16px] xl:rounded-[12px] xl:bg-white xl:text-[#1D1D1D] xl:text-center xl:text-[15px] xl:leading-[16px] xl:tracking-[0.45px] xl:font-[550] xl:font-sans 
-lg:flex lg:items-center lg:w-fit lg:justify-center lg:gap-[10px] lg:px-[24px] lg:py-[16px] lg:rounded-[12px] lg:bg-white lg:text-[#1D1D1D] lg:text-center lg:text-[15px] lg:leading-[16px] lg:tracking-[0.45px] lg:font-[550] lg:font-sans
-md:flex md:items-center w-full md:justify-center md:gap-[10px] md:px-[24px] md:py-[16px] md:rounded-[12px] md:bg-white md:text-[#1D1D1D] md:text-center md:text-[15px] md:leading-[16px] md:tracking-[0.45px] md:font-[550] md:font-sans
-sm:flex sm:items-center sm:justify-center sm:gap-[10px] sm:px-[24px] sm:py-[16px] sm:rounded-[12px] sm:bg-white sm:text-[#1D1D1D] sm:text-center sm:text-[15px] sm:leading-[16px] sm:tracking-[0.45px] sm:font-[550] sm:font-sans">
-  Get Started
-</button>
+<FooterGetStartedButton/>
 
 
 </div>
@@ -121,38 +121,8 @@ sm:flex sm:flex-row sm:items-center sm:gap-[15px] sm:self-stretch sm:justify-aro
 
  {/*icon holding div */}
 
+ <FbNavigationalButton/>
 
- <div className="
- 2xl:flex 2xl:w-[50px] 2xl:h-[50px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  rounded-[55px] border border-[#31494A]
- xl:flex xl:w-[50px] xl:h-[50px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border 
- lg:flex lg:w-[50px] lg:h-[50px]lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border 
- md:flex md:w-[50px] md:h-[50px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border 
- sm:flex sm:w-[50px] sm:h-[50px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border 
- ">
-
- <div className="
-sm:flex sm:w-[20px] sm:h-[20px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[20px] md:h-[20px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[20px] lg:h-[20px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[20px] 2xl:h-[20px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753188880/Vector_12_i8pdf0.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
  {/*icon holding div */} 
 
 
@@ -161,37 +131,7 @@ xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] 
 
 
  {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[50px] 2xl:h-[50px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  rounded-[55px] border border-[#31494A]
- xl:flex xl:w-[50px] xl:h-[50px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border 
- lg:flex lg:w-[50px] lg:h-[50px]lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border 
- md:flex md:w-[50px] md:h-[50px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border 
- sm:flex sm:w-[50px] sm:h-[50px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border 
- ">
-
- <div className="
-sm:flex sm:w-[20px] sm:h-[20px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[20px] md:h-[20px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[20px] lg:h-[20px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[20px] 2xl:h-[20px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753188868/Group_81783_zat013.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
+ <InstaNavigationalButton/>
  {/*icon holding div */} 
  {/*icon holding div */} 
 
@@ -203,37 +143,7 @@ xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] 
 
 
  {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[50px] 2xl:h-[50px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  rounded-[55px] border border-[#31494A]
- xl:flex xl:w-[50px] xl:h-[50px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border 
- lg:flex lg:w-[50px] lg:h-[50px]lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border 
- md:flex md:w-[50px] md:h-[50px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border 
- sm:flex sm:w-[50px] sm:h-[50px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border 
- ">
-
- <div className="
-sm:flex sm:w-[20px] sm:h-[20px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[20px] md:h-[20px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[20px] lg:h-[20px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[20px] 2xl:h-[20px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753188890/Vector_13_qjtjgu.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
+<YoutubeNavigationalButton/>
  {/*icon holding div */} 
 
 
@@ -242,37 +152,7 @@ xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] 
 
 
  {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[50px] 2xl:h-[50px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  rounded-[55px] border border-[#31494A]
- xl:flex xl:w-[50px] xl:h-[50px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border 
- lg:flex lg:w-[50px] lg:h-[50px]lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border 
- md:flex md:w-[50px] md:h-[50px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border 
- sm:flex sm:w-[50px] sm:h-[50px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border 
- ">
-
- <div className="
-sm:flex sm:w-[20px] sm:h-[20px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[20px] md:h-[20px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[20px] lg:h-[20px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[20px] 2xl:h-[20px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753188860/Vector_11_mofa7b.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
+<TwitterNavigationalButton/>
  {/*icon holding div */} 
 
 

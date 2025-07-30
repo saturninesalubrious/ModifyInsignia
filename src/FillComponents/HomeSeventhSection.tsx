@@ -44,22 +44,22 @@ export default function FillHomeSeventhSection () {
 
 
 <h1 className="
-2xl:flex-[1_0_0] 2xl:text-[#001D21] 2xl:font-inter 2xl:text-[54px] 2xl:font-[450] 2xl:leading-[66px] 2xl:tracking-[-1.62px]
-xl:flex-[1_0_0] xl:text-[#001D21] xl:font-inter xl:text-[54px] xl:font-[450] xl:leading-[66px] xl:tracking-[-1.62px]
-lg:flex-[1_0_0] lg:text-[#001D21] lg:font-inter lg:text-[54px] lg:font-[450] lg:leading-[66px] lg:tracking-[-1.62px]
-md:flex-[1_0_0] md:text-[#001D21] md:font-inter md:text-[54px] md:font-[450] md:leading-[66px] md:tracking-[-1.62px]
-sm:flex-[1_0_0] sm:text-[#001D21] sm:font-inter sm:text-[54px] sm:font-[450] sm:leading-[66px] sm:tracking-[-1.62px]
+2xl:flex-[1_0_0] 2xl:text-[#001D21] 2xl:font-sans 2xl:text-[54px] 2xl:font-[450] 2xl:leading-[66px] 2xl:tracking-[-1.62px]
+xl:flex-[1_0_0] xl:text-[#001D21] xl:font-sans xl:text-[54px] xl:font-[450] xl:leading-[66px] xl:tracking-[-1.62px]
+lg:flex-[1_0_0] lg:text-[#001D21] lg:font-sans lg:text-[54px] lg:font-[450] lg:leading-[66px] lg:tracking-[-1.62px]
+md:flex-[1_0_0] md:text-[#001D21] md:font-sans md:text-[54px] md:font-[450] md:leading-[66px] md:tracking-[-1.62px]
+sm:flex-[1_0_0] sm:text-[#001D21] sm:font-sans sm:text-[54px] sm:font-[450] sm:leading-[66px] sm:tracking-[-1.62px]
 ">
 Simplifying complexity, amplifying clarity
 </h1>
 
 
 <p className="
-2xl:flex-[1_0_0] 2xl:text-[rgba(0,29,33,0.65)] 2xl:font-inter 2xl:text-[14px] 2xl:font-medium 2xl:leading-[23px]
-xl:flex-[1_0_0] xl:text-[rgba(0,29,33,0.65)] xl:font-inter xl:text-[14px] xl:font-medium xl:leading-[23px]
-lg:flex-[1_0_0] lg:text-[rgba(0,29,33,0.65)] lg:font-inter lg:text-[14px] lg:font-medium lg:leading-[23px]
-md:flex-[1_0_0] md:text-[rgba(0,29,33,0.65)] md:font-inter md:text-[14px] md:font-medium md:leading-[23px]
-sm:flex-[1_0_0] sm:text-[rgba(0,29,33,0.65)] sm:font-inter sm:text-[14px] sm:font-medium sm:leading-[23px]
+2xl:flex-[1_0_0] 2xl:text-[rgba(0,29,33,0.65)] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[23px]
+xl:flex-[1_0_0] xl:text-[rgba(0,29,33,0.65)] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[23px]
+lg:flex-[1_0_0] lg:text-[rgba(0,29,33,0.65)] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[23px]
+md:flex-[1_0_0] md:text-[rgba(0,29,33,0.65)] md:font-sans md:text-[14px] md:font-medium md:leading-[23px]
+sm:flex-[1_0_0] sm:text-[rgba(0,29,33,0.65)] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[23px]
 ">
 From early-stage ventures to industry leaders, teams across sectors rely on Acelia to streamline operations and make data-backed decisions — all without the overhead of bulky systems.
 </p>
@@ -142,7 +142,7 @@ sm:flex sm:h-[67px] sm:flex-col sm:justify-center sm:shrink-0 sm:self-stretch sm
 
 
 <div className="
-  2xl:w-[350px] 2xl:h-[251px] 2xl:rounded-[24px] 2xl:bg-[url('/path-to-image.jpg')] 2xl:bg-lightgray 2xl:bg-[length:cover] 2xl:bg-no-repeat 2xl:bg-center 2xl:relative 2xl:overflow-hidden
+  2xl:w-[338px] 2xl:h-[251px] 2xl:rounded-[24px] 2xl:bg-[url('/path-to-image.jpg')] 2xl:bg-lightgray 2xl:bg-[length:cover] 2xl:bg-no-repeat 2xl:bg-center 2xl:relative 2xl:overflow-hidden
   xl:w-[350px] xl:h-[251px] xl:rounded-[24px] xl:bg-[url('/path-to-image.jpg')] xl:bg-lightgray xl:bg-[length:cover] xl:bg-no-repeat xl:bg-center xl:relative xl:overflow-hidden
   lg:w-[279px] lg:h-[251px] lg:rounded-[24px] lg:bg-[url('/path-to-image.jpg')] lg:bg-lightgray lg:bg-[length:cover] lg:bg-no-repeat lg:bg-center lg:relative lg:overflow-hidden
   md:w-[303px] md:h-[251px] md:rounded-[24px] md:bg-[url('/path-to-image.jpg')] md:bg-lightgray md:bg-[length:cover] md:bg-no-repeat md:bg-center md:relative md:overflow-hidden
@@ -322,4 +322,3 @@ sm:self-stretch sm:text-white/65 sm:font-sans sm:text-[12px] sm:font-medium sm:l
   )
  
  }
- 

@@ -164,11 +164,11 @@ Connect with your favorite tools—from design and communication to cloud and da
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px] 2xl:flex-[1_0_0] 2xl:bg-[#F3F4F2] rounded-[18px]
- xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px] xl:flex-[1_0_0] xl:bg-[#F3F4F2] 
- lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[45px] lg:p-[90px_56px] lg:flex-[1_0_0] lg:bg-[#F3F4F2]
- md:flex md:flex-col md:justify-center md:items-start md:gap-[45px] md:p-[90px_56px] md:flex-[1_0_0] md:bg-[#F3F4F2]
- sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[45px] sm:p-[90px_56px] sm:flex-[1_0_0] sm:bg-[#F3F4F2]
+ 2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px] 2xl:flex-[1_0_0] 2xl:bg-[#F3F4F2] rounded-[18px] 2xl:self-stretch
+ xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px] xl:flex-[1_0_0] xl:bg-[#F3F4F2] xl:self-stretch
+ lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[45px] lg:p-[90px_56px] lg:flex-[1_0_0] lg:bg-[#F3F4F2] lg:self-stretch
+ md:flex md:flex-col md:justify-center md:items-start md:gap-[45px] md:p-[90px_56px] md:flex-[1_0_0] md:bg-[#F3F4F2] md:self-stretch
+ sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[45px] sm:p-[90px_56px] sm:flex-[1_0_0] sm:bg-[#F3F4F2]  sm:self-stretch
  ">
  
 
@@ -180,7 +180,7 @@ Connect with your favorite tools—from design and communication to cloud and da
  md:flex md:h-[322.397px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:self-stretch md:rounded-[10px] md:bg-[#F3F4F2] md:bg-center
  sm:flex sm:h-[322.397px] sm:p-[20px] sm:flex-col sm:items-start sm:gap-[10px] sm:self-stretch sm:rounded-[10px] sm:bg-[#F3F4F2] sm:bg-center
  ">
-  <img src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753026558/Frame_1000004897_hwbwbu.png" alt="Visual" className="
+  <img src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753026566/Frame_1000004893_hsep5j.png" alt="Visual" className="
  w-full h-full object-contain rounded-[24px]
   " 
   
@@ -205,7 +205,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[24px] lg:leading-[33px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[24px] md:leading-[33px] md:tracking-[-0.72px]
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[24px] sm:leading-[33px] sm:tracking-[-0.72px]
 ">
-Unified Ecosystem
+Built to Fit Right In
 </h2>
 
 <p className="
@@ -215,7 +215,7 @@ lg:self-stretch lg:text-[24px] lg:leading-[32px] lg:font-medium lg:text-[rgba(17
 md:self-stretch md:text-[24px] md:leading-[32px] md:font-medium md:text-[rgba(17,17,17,0.6)] md:tracking-[-0.72px]
 sm:self-stretch sm:text-[24px] sm:leading-[32px] sm:font-medium sm:text-[rgba(17,17,17,0.6)] sm:tracking-[-0.72px]
 ">
-Connect with your favorite tools—from design and communication to cloud and data—to build high-performance tech </p>
+Manage and activate integrations in one place with our intuitive interface—no code or hassle required.</p>
 
 
 

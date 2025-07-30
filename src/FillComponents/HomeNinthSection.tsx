@@ -87,34 +87,59 @@ Explore the standout capabilities that drive exceptional results—designed to s
  sm:flex  sm:justify-center sm:items-center sm:content-center  sm:gap-[100px] sm:self-stretch sm:flex-wrap
 ">
 
- {/* mini div */}
+ {/* mini div 
+ 
+ 
  <div className="
-2xl:flex 2xl:w-[378.667px] 2xl:px-[80px]  2xl:py-[50px] 2xl:flex-col 2xl:justify-center 2xl:items-center 2xl:gap-[10px] bg-[#F3F4F2] 2xl:rounded-[12px]
-xl:flex xl:w-[316.6px] xl:px-[80px]  xl:py-[50px] xl:flex-col xl:justify-center xl:items-center xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[12px]
-lg:flex lg:w-[346.6px] lg:px-[80px]  lg:py-[50px] lg:flex-col lg:justify-center lg:items-center lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[12px]
-md:flex md:w-[269px] md:px-[80px]  md:py-[50px] md:flex-col md:justify-center md:items-center md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[12px]
-sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm:items-center sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[12px]
+sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#001D21]
+md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#001D21]
+lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#001D21]
+xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#001D21]
+2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:rounded-[12px] 2xl:bg-[#001D21]
+">
+
+
+
+
+ <div className="
+ 2xl:flex 2xl:w-[375px] 2xl:h-[150px] 2xl:p-[20px] 2xl:flex-col 2xl:items-center 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ xl:flex xl:w-[330px] xl:h-[150px] xl:p-[20px] xl:flex-col xl:items-center xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
+ lg:flex lg:w-[395px] lg:h-[150px]  lg:p-[20px] lg:flex-col lg:items-center lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
+ md:flex md:w-[275px] md:h-[150px]  md:p-[20px] md:flex-col md:items-center md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
+ sm:flex sm:w-[250px] sm:h-[150px]   sm:p-[20px] sm:flex-col sm:items-center sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[14px]
+ ">
+ 
+ 
+ 
+ */}
+ <div className="
+sm:flex sm:w-[230px] sm:h-[150px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#F3F4F2]
+md:flex md:w-[269px]  md:h-[150px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#F3F4F2]
+lg:flex lg:w-[375px]  lg:h-[150px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#F3F4F2]
+xl:flex xl:w-[375px]  xl:h-[150px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#F3F4F2]
+2xl:flex 2xl:w-[375px]  2xl:h-[150px] 2xl:justify-center 2xl:items-center 2xl:rounded-[12px] 2xl:bg-[#F3F4F2]
 ">
   
 
-<div className="
-  2xl:flex  2xl:flex-col  2xl:items-start  2xl:gap-[10px] 2xl:flex-[1_0_0]  2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:flex-[1_0_0]  xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:flex-[1_0_0]  lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[10px] md:flex-[1_0_0]  md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:flex-[1_0_0]  sm:self-stretch
+  <div className="
+sm:flex sm:w-[225px] sm:h-[100px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0 sm:p-[25px]
+md:flex md:w-[250px] md:h-[100px] md:justify-center md:items-center md:gap-[10px] md:shrink-0 md:p-[25px]
+lg:flex lg:w-[350px] lg:h-[100px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0  lg:p-[25px]
+xl:flex xl:w-[350px] xl:h-[120px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0 xl:p-[25px]
+2xl:flex 2xl:w-[350px] 2xl:h-[120px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0 2xl:p-[25px]
 ">
-  <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934375/3rd_logo_jldzve.png" 
-    alt="Description" 
-    className="2xl:w-full 2xl:h-auto 2xl:object-cover
-    xl:w-full xl:h-auto xl:object-cover
-    lg:w-full lg:h-auto lg:object-cover
-    md:w-full md:h-auto md:object-cover
-    sm:w-full sm:h-auto sm:object-cover
-    
-    " 
-  />
+<img 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934476/5th_logo_1_mtmyng.png" 
+  alt="Icon"
+  className="
+  2xl:w-full 2xl:h-full 2xl:object-contain
+  xl:w-full xl:h-full xl:object-contain
+  lg:w-full lg:h-full lg:object-contain
+  md:w-full md:h-full md:object-contain
+  sm:w-full sm:h-full sm:object-contain
+  "
+
+/>
 </div>
 
 
@@ -124,112 +149,44 @@ sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm
 
 
 
- {/* mini div */}
+ {/* mini div 
+ 
+ sm:flex sm:w-[375px] sm:h-[150px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#F3F4F2]
+md:flex md:w-[375px] md:h-[150px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#F3F4F2]
+lg:flex lg:w-[375px] lg:h-[150px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#F3F4F2]
+xl:flex xl:w-[269px] xl:h-[150px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#F3F4F2]
+2xl:flex 2xl:w-[230px] 2xl:h-[150px] 2xl:justify-center 2xl:items-center 2xl:rounded-[12px] 2xl:bg-[#F3F4F2]
+">
+ 
+ */}
  <div className="
-2xl:flex 2xl:w-[378.667px] 2xl:px-[80px]  2xl:py-[50px] 2xl:flex-col 2xl:justify-center 2xl:items-center 2xl:gap-[10px] bg-[#F3F4F2] 2xl:rounded-[12px]
-xl:flex xl:w-[316.6px] xl:px-[80px]  xl:py-[50px] xl:flex-col xl:justify-center xl:items-center xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[12px]
-lg:flex lg:w-[346.6px] lg:px-[80px]  lg:py-[50px] lg:flex-col lg:justify-center lg:items-center lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[12px]
-md:flex md:w-[269px] md:px-[80px]  md:py-[50px] md:flex-col md:justify-center md:items-center md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[12px]
-sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm:items-center sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[12px]
+sm:flex sm:w-[230px] sm:h-[150px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#F3F4F2]
+md:flex md:w-[269px]  md:h-[150px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#F3F4F2]
+lg:flex lg:w-[375px]  lg:h-[150px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#F3F4F2]
+xl:flex xl:w-[375px]  xl:h-[150px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#F3F4F2]
+2xl:flex 2xl:w-[375px]  2xl:h-[150px] 2xl:justify-center 2xl:items-center 2xl:rounded-[12px] 2xl:bg-[#F3F4F2]
 ">
   
 
-<div className="
-  2xl:flex  2xl:flex-col  2xl:items-start  2xl:gap-[10px] 2xl:flex-[1_0_0]  2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:flex-[1_0_0]  xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:flex-[1_0_0]  lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[10px] md:flex-[1_0_0]  md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:flex-[1_0_0]  sm:self-stretch
+  <div className="
+sm:flex sm:w-[225px] sm:h-[100px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0 sm:p-[25px]
+md:flex md:w-[250px] md:h-[100px] md:justify-center md:items-center md:gap-[10px] md:shrink-0 md:p-[25px]
+lg:flex lg:w-[350px] lg:h-[100px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0  lg:p-[25px]
+xl:flex xl:w-[350px] xl:h-[120px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0 xl:p-[25px]
+2xl:flex 2xl:w-[350px] 2xl:h-[120px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0 2xl:p-[25px]
 ">
-  <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934375/3rd_logo_jldzve.png" 
-    alt="Description" 
-    className="2xl:w-full 2xl:h-auto 2xl:object-cover
-    xl:w-full xl:h-auto xl:object-cover
-    lg:w-full lg:h-auto lg:object-cover
-    md:w-full md:h-auto md:object-cover
-    sm:w-full sm:h-auto sm:object-cover
-    
-    " 
-  />
-</div>
+<img 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934375/3rd_logo_jldzve.png" 
+  alt="Icon"
+  className="
+  2xl:w-full 2xl:h-full 2xl:object-contain
+  xl:w-full xl:h-full xl:object-contain
+  lg:w-full lg:h-full lg:object-contain
+  md:w-full md:h-full md:object-contain
+  sm:w-full sm:h-full sm:object-contain
+  "
 
-
-</div>
- {/* mini div */} 
-
-
-
-
-
-
- {/* mini div */}
- <div className="
-2xl:flex 2xl:w-[378.667px] 2xl:px-[80px]  2xl:py-[50px] 2xl:flex-col 2xl:justify-center 2xl:items-center 2xl:gap-[10px] bg-[#F3F4F2] 2xl:rounded-[12px]
-xl:flex xl:w-[316.6px] xl:px-[80px]  xl:py-[50px] xl:flex-col xl:justify-center xl:items-center xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[12px]
-lg:flex lg:w-[346.6px] lg:px-[80px]  lg:py-[50px] lg:flex-col lg:justify-center lg:items-center lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[12px]
-md:flex md:w-[269px] md:px-[80px]  md:py-[50px] md:flex-col md:justify-center md:items-center md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[12px]
-sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm:items-center sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[12px]
-">
-  
-
-<div className="
-  2xl:flex  2xl:flex-col  2xl:items-start  2xl:gap-[10px] 2xl:flex-[1_0_0]  2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:flex-[1_0_0]  xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:flex-[1_0_0]  lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[10px] md:flex-[1_0_0]  md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:flex-[1_0_0]  sm:self-stretch
-">
-  <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934375/3rd_logo_jldzve.png" 
-    alt="Description" 
-    className="2xl:w-full 2xl:h-auto 2xl:object-cover
-    xl:w-full xl:h-auto xl:object-cover
-    lg:w-full lg:h-auto lg:object-cover
-    md:w-full md:h-auto md:object-cover
-    sm:w-full sm:h-auto sm:object-cover
-    
-    " 
-  />
-</div>
-
-
-</div>
- {/* mini div */} 
-
-
-
-
-
-
- {/* mini div */}
- <div className="
-2xl:flex 2xl:w-[378.667px] 2xl:px-[80px]  2xl:py-[50px] 2xl:flex-col 2xl:justify-center 2xl:items-center 2xl:gap-[10px] bg-[#F3F4F2] 2xl:rounded-[12px]
-xl:flex xl:w-[316.6px] xl:px-[80px]  xl:py-[50px] xl:flex-col xl:justify-center xl:items-center xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[12px]
-lg:flex lg:w-[346.6px] lg:px-[80px]  lg:py-[50px] lg:flex-col lg:justify-center lg:items-center lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[12px]
-md:flex md:w-[269px] md:px-[80px]  md:py-[50px] md:flex-col md:justify-center md:items-center md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[12px]
-sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm:items-center sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[12px]
-">
-  
-
-<div className="
-  2xl:flex  2xl:flex-col  2xl:items-start  2xl:gap-[10px] 2xl:flex-[1_0_0]  2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:flex-[1_0_0]  xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:flex-[1_0_0]  lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[10px] md:flex-[1_0_0]  md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:flex-[1_0_0]  sm:self-stretch
-">
-  <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934375/3rd_logo_jldzve.png" 
-    alt="Description" 
-    className="2xl:w-full 2xl:h-auto 2xl:object-cover
-    xl:w-full xl:h-auto xl:object-cover
-    lg:w-full lg:h-auto lg:object-cover
-    md:w-full md:h-auto md:object-cover
-    sm:w-full sm:h-auto sm:object-cover
-    
-    " 
-  />
+/>
 </div>
 
 
@@ -243,32 +200,33 @@ sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm
 
  {/* mini div */}
  <div className="
-2xl:flex 2xl:w-[378.667px] 2xl:px-[80px]  2xl:py-[50px] 2xl:flex-col 2xl:justify-center 2xl:items-center 2xl:gap-[10px] bg-[#F3F4F2] 2xl:rounded-[12px]
-xl:flex xl:w-[316.6px] xl:px-[80px]  xl:py-[50px] xl:flex-col xl:justify-center xl:items-center xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[12px]
-lg:flex lg:w-[346.6px] lg:px-[80px]  lg:py-[50px] lg:flex-col lg:justify-center lg:items-center lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[12px]
-md:flex md:w-[269px] md:px-[80px]  md:py-[50px] md:flex-col md:justify-center md:items-center md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[12px]
-sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm:items-center sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[12px]
+sm:flex sm:w-[230px] sm:h-[150px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#F3F4F2]
+md:flex md:w-[269px]  md:h-[150px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#F3F4F2]
+lg:flex lg:w-[375px]  lg:h-[150px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#F3F4F2]
+xl:flex xl:w-[375px]  xl:h-[150px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#F3F4F2]
+2xl:flex 2xl:w-[375px]  2xl:h-[150px] 2xl:justify-center 2xl:items-center 2xl:rounded-[12px] 2xl:bg-[#F3F4F2]
 ">
   
 
-<div className="
-  2xl:flex  2xl:flex-col  2xl:items-start  2xl:gap-[10px] 2xl:flex-[1_0_0]  2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:flex-[1_0_0]  xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:flex-[1_0_0]  lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[10px] md:flex-[1_0_0]  md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:flex-[1_0_0]  sm:self-stretch
+  <div className="
+sm:flex sm:w-[225px] sm:h-[100px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0 sm:p-[25px]
+md:flex md:w-[250px] md:h-[100px] md:justify-center md:items-center md:gap-[10px] md:shrink-0 md:p-[25px]
+lg:flex lg:w-[350px] lg:h-[100px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0  lg:p-[25px]
+xl:flex xl:w-[350px] xl:h-[120px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0 xl:p-[25px]
+2xl:flex 2xl:w-[350px] 2xl:h-[120px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0 2xl:p-[25px]
 ">
-  <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934375/3rd_logo_jldzve.png" 
-    alt="Description" 
-    className="2xl:w-full 2xl:h-auto 2xl:object-cover
-    xl:w-full xl:h-auto xl:object-cover
-    lg:w-full lg:h-auto lg:object-cover
-    md:w-full md:h-auto md:object-cover
-    sm:w-full sm:h-auto sm:object-cover
-    
-    " 
-  />
+<img 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934309/Logo_2_nt37s4.png" 
+  alt="Icon"
+  className="
+  2xl:w-full 2xl:h-full 2xl:object-contain
+  xl:w-full xl:h-full xl:object-contain
+  lg:w-full lg:h-full lg:object-contain
+  md:w-full md:h-full md:object-contain
+  sm:w-full sm:h-full sm:object-contain
+  "
+
+/>
 </div>
 
 
@@ -282,32 +240,113 @@ sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm
 
  {/* mini div */}
  <div className="
-2xl:flex 2xl:w-[378.667px] 2xl:px-[80px]  2xl:py-[50px] 2xl:flex-col 2xl:justify-center 2xl:items-center 2xl:gap-[10px] bg-[#F3F4F2] 2xl:rounded-[12px]
-xl:flex xl:w-[316.6px] xl:px-[80px]  xl:py-[50px] xl:flex-col xl:justify-center xl:items-center xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[12px]
-lg:flex lg:w-[346.6px] lg:px-[80px]  lg:py-[50px] lg:flex-col lg:justify-center lg:items-center lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[12px]
-md:flex md:w-[269px] md:px-[80px]  md:py-[50px] md:flex-col md:justify-center md:items-center md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[12px]
-sm:flex sm:w-[230px] sm:px-[50px]  sm:py-[50px] sm:flex-col sm:justify-center sm:items-center sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[12px]
+sm:flex sm:w-[230px] sm:h-[150px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#F3F4F2]
+md:flex md:w-[269px]  md:h-[150px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#F3F4F2]
+lg:flex lg:w-[375px]  lg:h-[150px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#F3F4F2]
+xl:flex xl:w-[375px]  xl:h-[150px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#F3F4F2]
+2xl:flex 2xl:w-[375px]  2xl:h-[150px] 2xl:justify-center 2xl:items-center 2xl:rounded-[12px] 2xl:bg-[#F3F4F2]
 ">
   
 
-<div className="
-  2xl:flex  2xl:flex-col  2xl:items-start  2xl:gap-[10px] 2xl:flex-[1_0_0]  2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:flex-[1_0_0]  xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:flex-[1_0_0]  lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[10px] md:flex-[1_0_0]  md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:flex-[1_0_0]  sm:self-stretch
+  <div className="
+sm:flex sm:w-[225px] sm:h-[100px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0 sm:p-[25px]
+md:flex md:w-[250px] md:h-[100px] md:justify-center md:items-center md:gap-[10px] md:shrink-0 md:p-[25px]
+lg:flex lg:w-[350px] lg:h-[100px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0  lg:p-[25px]
+xl:flex xl:w-[350px] xl:h-[120px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0 xl:p-[25px]
+2xl:flex 2xl:w-[350px] 2xl:h-[120px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0 2xl:p-[25px]
 ">
-  <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934375/3rd_logo_jldzve.png" 
-    alt="Description" 
-    className="2xl:w-full 2xl:h-auto 2xl:object-cover
-    xl:w-full xl:h-auto xl:object-cover
-    lg:w-full lg:h-auto lg:object-cover
-    md:w-full md:h-auto md:object-cover
-    sm:w-full sm:h-auto sm:object-cover
-    
-    " 
-  />
+<img 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934201/4th_logo_l2d73s.png" 
+  alt="Icon"
+  className="
+  2xl:w-full 2xl:h-full 2xl:object-contain
+  xl:w-full xl:h-full xl:object-contain
+  lg:w-full lg:h-full lg:object-contain
+  md:w-full md:h-full md:object-contain
+  sm:w-full sm:h-full sm:object-contain
+  "
+
+/>
+</div>
+
+
+</div>
+ {/* mini div */} 
+
+
+
+
+
+
+ {/* mini div */}
+ <div className="
+sm:flex sm:w-[230px] sm:h-[150px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#F3F4F2]
+md:flex md:w-[269px]  md:h-[150px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#F3F4F2]
+lg:flex lg:w-[375px]  lg:h-[150px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#F3F4F2]
+xl:flex xl:w-[375px]  xl:h-[150px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#F3F4F2]
+2xl:flex 2xl:w-[375px]  2xl:h-[150px] 2xl:justify-center 2xl:items-center 2xl:rounded-[12px] 2xl:bg-[#F3F4F2]
+">
+  
+
+  <div className="
+sm:flex sm:w-[225px] sm:h-[100px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0 sm:p-[25px]
+md:flex md:w-[250px] md:h-[100px] md:justify-center md:items-center md:gap-[10px] md:shrink-0 md:p-[25px]
+lg:flex lg:w-[350px] lg:h-[100px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0  lg:p-[25px]
+xl:flex xl:w-[350px] xl:h-[120px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0 xl:p-[25px]
+2xl:flex 2xl:w-[350px] 2xl:h-[120px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0 2xl:p-[25px]
+">
+<img 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752934143/2nd_logo_uojtxt.png" 
+  alt="Icon"
+  className="
+  2xl:w-full 2xl:h-full 2xl:object-contain
+  xl:w-full xl:h-full xl:object-contain
+  lg:w-full lg:h-full lg:object-contain
+  md:w-full md:h-full md:object-contain
+  sm:w-full sm:h-full sm:object-contain
+  "
+
+/>
+</div>
+
+
+</div>
+ {/* mini div */} 
+
+
+
+
+
+
+ {/* mini div */}
+ <div className="
+sm:flex sm:w-[230px] sm:h-[150px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#F3F4F2]
+md:flex md:w-[269px]  md:h-[150px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#F3F4F2]
+lg:flex lg:w-[375px]  lg:h-[150px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#F3F4F2]
+xl:flex xl:w-[375px]  xl:h-[150px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#F3F4F2]
+2xl:flex 2xl:w-[375px]  2xl:h-[150px] 2xl:justify-center 2xl:items-center 2xl:rounded-[12px] 2xl:bg-[#F3F4F2]
+">
+  
+
+  <div className="
+sm:flex sm:w-[225px] sm:h-[100px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0 sm:p-[25px]
+md:flex md:w-[250px] md:h-[100px] md:justify-center md:items-center md:gap-[10px] md:shrink-0 md:p-[25px]
+lg:flex lg:w-[350px] lg:h-[100px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0  lg:p-[25px]
+xl:flex xl:w-[350px] xl:h-[120px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0 xl:p-[25px]
+2xl:flex 2xl:w-[350px] 2xl:h-[120px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0 2xl:p-[25px]
+">
+<img 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752933871/6th_logo_ol8cku.png" 
+  alt="Icon"
+  className="
+  2xl:w-full 2xl:h-full 2xl:object-contain
+  xl:w-full xl:h-full xl:object-contain
+  lg:w-full lg:h-full lg:object-contain
+  md:w-full md:h-full md:object-contain
+  sm:w-full sm:h-full sm:object-contain
+  "
+
+/>
 </div>
 
 

@@ -112,7 +112,7 @@ sm:h-[350px] sm:flex-shrink-0 sm:self-stretch sm:rounded-[14px] sm:relative sm:o
 
 {/* 1st div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:h-[403px] 2xl:items-end 2xl:gap-[25px] 2xl:flex-[1_0_0] bg-[url(https://res.cloudinary.com/dpxtrzlia/image/upload/v1753160734/KVCzF2HQA07DwMDpRPhHqPlXo_2_arfo87.png)] bg-cover bg-center bg-no-repeat rounded-[24px]
+2xl:flex 2xl:flex-col 2xl:h-[403px] 2xl:items-end 2xl:gap-[25px] 2xl:flex-[1_0_0] bg-[url(https://res.cloudinary.com/dpxtrzlia/image/upload/v1753160698/NFsKLadPlZwC3k6H4bUeX9rfX0_2_kdiycn.png)] bg-cover bg-center bg-no-repeat rounded-[24px]
 xl:flex xl:flex-col xl:h-[403px]  xl:items-start xl:gap-[25px] xl:flex-[1_0_0]
 lg:flex lg:flex-col lg:h-[403px]  lg:items-start lg:gap-[25px] lg:flex-[1_0_0]
 md:flex md:flex-col md:h-[403px]  md:items-start md:gap-[25px] md:shrink-0  md:w-full
@@ -177,7 +177,7 @@ Lead Full-Stack Developer
 
 {/* 1st div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:h-[403px] 2xl:items-end 2xl:gap-[25px] 2xl:flex-[1_0_0] bg-[url(https://res.cloudinary.com/dpxtrzlia/image/upload/v1753160734/KVCzF2HQA07DwMDpRPhHqPlXo_2_arfo87.png)] bg-cover bg-center bg-no-repeat rounded-[24px]
+2xl:flex 2xl:flex-col 2xl:h-[403px] 2xl:items-end 2xl:gap-[25px] 2xl:flex-[1_0_0] bg-[url(https://res.cloudinary.com/dpxtrzlia/image/upload/v1753160745/uuUeDQJIVfpjlA9JrhclPDTMzSI_2_rhblfw.png)] bg-cover bg-center bg-no-repeat rounded-[24px]
 xl:flex xl:flex-col xl:h-[403px]  xl:items-start xl:gap-[25px] xl:flex-[1_0_0]
 lg:flex lg:flex-col lg:h-[403px]  lg:items-start lg:gap-[25px] lg:flex-[1_0_0]
 md:flex md:flex-col md:h-[403px]  md:items-start md:gap-[25px] md:shrink-0  md:w-full
@@ -210,7 +210,7 @@ lg:self-stretch lg:text-[#FFFFFF] lg:font-sans lg:text-[20px] lg:font-medium lg:
 md:self-stretch md:text-[#FFFFFF] md:font-sans md:text-[20px] md:font-medium md:leading-[31px] md:tracking-[-1.56px]
 sm:self-stretch sm:text-[#FFFFFF] sm:font-sans sm:text-[20px] sm:font-medium sm:leading-[31px] sm:tracking-[-1.56px]
 ">
-Ishaan Mehta
+Sanya Rao
 </h2>
 
 <p className="
@@ -220,7 +220,7 @@ lg:self-stretch lg:text-[#CDCECE] lg:font-sans lg:text-[16px] lg:font-[450] lg:l
 md:self-stretch md:text-[#CDCECE] md:font-sans md:text-[16px] md:font-[450] md:leading-[22px]
 sm:self-stretch sm:text-[#CDCECE] sm:font-sans sm:text-[16px] sm:font-[450] sm:leading-[22px]
 ">
-Lead Full-Stack Developer
+Head of Growth & Partnerships
 </p>
 
 
@@ -278,7 +278,7 @@ lg:self-stretch lg:text-[#FFFFFF] lg:font-sans lg:text-[20px] lg:font-medium lg:
 md:self-stretch md:text-[#FFFFFF] md:font-sans md:text-[20px] md:font-medium md:leading-[31px] md:tracking-[-1.56px]
 sm:self-stretch sm:text-[#FFFFFF] sm:font-sans sm:text-[20px] sm:font-medium sm:leading-[31px] sm:tracking-[-1.56px]
 ">
-Ishaan Mehta
+Aneet Sharma
 </h2>
 
 <p className="

@@ -89,7 +89,7 @@ md:flex md:items-center md:gap-[10px] md:self-stretch md:rounded-[24px]  md:bg-[
 sm:flex sm:items-center sm:gap-[10px] sm:self-stretch sm:rounded-[24px] sm:bg-[url('/path-to-image.jpg')] sm:bg-cover sm:bg-no-repeat sm:bg-center
 ">
   <img 
-    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753604229/Depositphotos_744752180_XL_uvbz98.png" 
+    src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753687926/Depositphotos_738276780_XL_Large_ut1pnx.png" 
     alt="Descriptive Alt" 
     className="
     w-full h-full object-cover rounded-[24px]

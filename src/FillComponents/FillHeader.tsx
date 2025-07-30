@@ -1,7 +1,9 @@
 "use client"; // Add this line at the very top
 
+import NavbarContactUsButton from '@/ButtonVariants/ContactUs';
 import Link from 'next/link';
 import React, { useState } from 'react';
+import { usePathname } from 'next/navigation'; // Import usePathname
 
 
 
@@ -14,11 +16,27 @@ export default function FillHeader () {
 
   // State to manage the visibility of the smaller navigation bar
   const [isMobileNavVisible, setIsMobileNavVisible] = useState(false);
+  const pathname = usePathname(); // Get the current path
 
   // Function to toggle the visibility
   const toggleMobileNav = () => {
     setIsMobileNavVisible(!isMobileNavVisible);
   };
+
+
+
+  // Define base classes for all links (no-underline is already there)
+  const baseLinkClasses = "no-underline";
+
+  // Define common classes for the h2 element
+  const baseH2Classes = "font-sans font-medium text-[16px] leading-[20px] tracking-[-0.32px] w-auto";
+
+  // Define classes for active and inactive states
+  const activeLinkTextClasses = "text-white [font-feature-settings:'liga'_off,'clig'_off]";
+  const inactiveLinkTextClasses = "text-white/60 [font-feature-settings:'liga'_off,'clig'_off]"; // Reduced opacity
+
+
+
 
 
 
@@ -119,39 +137,36 @@ sm:flex sm:flex-row sm:items-center sm:gap-[15px] sm:self-stretch
 
 
  
-{/*4 navigator link holder - this div will become hidden in the sm and md breakpoints and it will stay visible in the 2xl,xl and lg breakpoints */}
+{/*4 navigator link holder - this div will become hidden in the sm and md breakpoints and it will stay visible in the 2xl,xl and lg breakpoints
+New functionality i want to add is that if the user is on the home page , then the home link should be highlighted and other opacity should be reduced and when a user is on a specific page then the nav link for that page should be highlighted and other nav links opacity should be reduced
+
+*/}
 <div className="
-2xl:flex 2xl:flex-row 2xl:items-center 2xl:gap-[20px] 2xl:self-stretch  2xl:justify-start
-xl:flex xl:flex-row xl:items-center xl:gap-[20px] xl:self-stretch xl:justify-start
-lg:flex lg:flex-row lg:items-center lg:gap-[20px] lg:self-stretch lg:justify-start
-md:hidden md:flex-row md:items-center md:gap-[20px] md:self-stretch md:justify-center
-sm:hidden sm:flex-row sm:items-center sm:gap-[20px] sm:self-stretch sm:justify-start
+2xl:flex 2xl:flex-row 2xl:items-center 2xl:gap-[28px] 2xl:self-stretch 
+xl:flex xl:flex-row xl:items-center xl:gap-[28px] xl:self-stretch xl:justify-start
+lg:flex lg:flex-row lg:items-center lg:gap-[28px] lg:self-stretch lg:justify-start
+md:hidden md:flex-row md:items-center md:gap-[28px] md:self-stretch md:justify-center
+sm:hidden sm:flex-row sm:items-center sm:gap-[28px] sm:self-stretch sm:justify-start
 
 ">
 
 
 
  {/*home div */}
- <a href="/desired-url" className="w-full no-underline">
-<div className="
- 2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:rounded-[20px]
- xl:flex xl:flex-col xl:items-start xl:gap-[50px] xl:rounded-[20px]
- lg:flex lg:flex-col lg:items-start lg:gap-[50px] lg:rounded-[20px]
- md:flex md:flex-col md:items-start md:gap-[50px] md:rounded-[20px]
- sm:flex sm:flex-col sm:items-start sm:gap-[50px] sm:rounded-[20px]
-">
-  <h2 className="
-    2xl:text-white/75 2xl:[font-feature-settings:'liga'_off,'clig'_off]
-    2xl:font-sans 2xl:font-medium 2xl:text-[18px] 2xl:leading-[20px] 2xl:tracking-[-0.32px] 2xl:w-auto
-    xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px] xl:w-auto
-    lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px] lg:w-auto
-    md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px] md:w-auto
-    sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px] sm:w-auto
+ <Link href="/Home" className={baseLinkClasses}>
+  <div className="
+    2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:rounded-[20px]
+    xl:flex xl:flex-col xl:items-start xl:gap-[50px] xl:rounded-[20px]
+    lg:flex lg:flex-col lg:items-start lg:gap-[50px] lg:rounded-[20px]
+    md:flex md:flex-col md:items-start md:gap-[50px] md:rounded-[20px]
+    sm:flex sm:flex-col sm:items-start sm:gap-[50px] sm:rounded-[20px]
   ">
-    Home
-  </h2>
-</div>
-</a>
+    <h2 className={`${baseH2Classes} ${pathname === '/Home' ? activeLinkTextClasses : inactiveLinkTextClasses}`}>
+      Home
+    </h2>
+  </div>
+ </Link>
+ {/*home div */}
  {/*home div */}
  
 
@@ -160,26 +175,21 @@ sm:hidden sm:flex-row sm:items-center sm:gap-[20px] sm:self-stretch sm:justify-s
 
 
 
-  {/*home div */}
-<div className="
- 2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:rounded-[20px]
- xl:flex xl:flex-col xl:items-start xl:gap-[50px] xl:rounded-[20px]
- lg:flex lg:flex-col lg:items-start lg:gap-[50px] lg:rounded-[20px]
- md:flex md:flex-col md:items-start md:gap-[50px] md:rounded-[20px]
- sm:flex sm:flex-col sm:items-start sm:gap-[50px] sm:rounded-[20px]
-">
-  <h2 className="
-    2xl:text-white/75 2xl:[font-feature-settings:'liga'_off,'clig'_off]
-    2xl:font-sans 2xl:font-medium 2xl:text-[18px] 2xl:leading-[20px] 2xl:tracking-[-0.32px] 2xl:w-auto
-    xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px] xl:w-auto
-    lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px] lg:w-auto
-    md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px] md:w-auto
-    sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px] sm:w-auto
+ {/*Features div */}
+ <Link href="/Features" className={baseLinkClasses}>
+  <div className="
+    2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:rounded-[20px]
+    xl:flex xl:flex-col xl:items-start xl:gap-[50px] xl:rounded-[20px]
+    lg:flex lg:flex-col lg:items-start lg:gap-[50px] lg:rounded-[20px]
+    md:flex md:flex-col md:items-start md:gap-[50px] md:rounded-[20px]
+    sm:flex sm:flex-col sm:items-start sm:gap-[50px] sm:rounded-[20px]
   ">
-    Home
-  </h2>
-</div>
- {/*home div */}
+    <h2 className={`${baseH2Classes} ${pathname === '/Features' ? activeLinkTextClasses : inactiveLinkTextClasses}`}>
+      Features
+    </h2>
+  </div>
+ </Link>
+ {/*Features div */}
 
 
 
@@ -189,52 +199,42 @@ sm:hidden sm:flex-row sm:items-center sm:gap-[20px] sm:self-stretch sm:justify-s
 
 
 
- {/*home div */}
- <div className="
- 2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:rounded-[20px]
- xl:flex xl:flex-col xl:items-start xl:gap-[50px] xl:rounded-[20px]
- lg:flex lg:flex-col lg:items-start lg:gap-[50px] lg:rounded-[20px]
- md:flex md:flex-col md:items-start md:gap-[50px] md:rounded-[20px]
- sm:flex sm:flex-col sm:items-start sm:gap-[50px] sm:rounded-[20px]
-">
-  <h2 className="
-    2xl:text-white/75 2xl:[font-feature-settings:'liga'_off,'clig'_off]
-    2xl:font-sans 2xl:font-medium 2xl:text-[18px] 2xl:leading-[20px] 2xl:tracking-[-0.32px] 2xl:w-auto
-    xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px] xl:w-auto
-    lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px] lg:w-auto
-    md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px] md:w-auto
-    sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px] sm:w-auto
+ {/*About Us div */}
+ <Link href="/AboutUs" className={baseLinkClasses}>
+  <div className="
+    2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:rounded-[20px]
+    xl:flex xl:flex-col xl:items-start xl:gap-[50px] xl:rounded-[20px]
+    lg:flex lg:flex-col lg:items-start lg:gap-[50px] lg:rounded-[20px]
+    md:flex md:flex-col md:items-start md:gap-[50px] md:rounded-[20px]
+    sm:flex sm:flex-col sm:items-start sm:gap-[50px] sm:rounded-[20px]
   ">
-    Home
-  </h2>
-</div>
- {/*home div */}
+    <h2 className={`${baseH2Classes} ${pathname === '/AboutUs' ? activeLinkTextClasses : inactiveLinkTextClasses}`}>
+      About Us
+    </h2>
+  </div>
+ </Link>
+ {/*About Us div */}
 
 
 
 
 
 
- {/*home div */}
- <div className="
- 2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:rounded-[20px]
- xl:flex xl:flex-col xl:items-start xl:gap-[50px] xl:rounded-[20px]
- lg:flex lg:flex-col lg:items-start lg:gap-[50px] lg:rounded-[20px]
- md:flex md:flex-col md:items-start md:gap-[50px] md:rounded-[20px]
- sm:flex sm:flex-col sm:items-start sm:gap-[50px] sm:rounded-[20px]
-">
-  <h2 className="
-    2xl:text-white/75 2xl:[font-feature-settings:'liga'_off,'clig'_off]
-    2xl:font-sans 2xl:font-medium 2xl:text-[18px] 2xl:leading-[20px] 2xl:tracking-[-0.32px] 2xl:w-auto
-    xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px] xl:w-auto
-    lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px] lg:w-auto
-    md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px] md:w-auto
-    sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px] sm:w-auto
+ {/*Blogs div */}
+ <Link href="/Blogs" className={baseLinkClasses}>
+  <div className="
+    2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:rounded-[20px]
+    xl:flex xl:flex-col xl:items-start xl:gap-[50px] xl:rounded-[20px]
+    lg:flex lg:flex-col lg:items-start lg:gap-[50px] lg:rounded-[20px]
+    md:flex md:flex-col md:items-start md:gap-[50px] md:rounded-[20px]
+    sm:flex sm:flex-col sm:items-start sm:gap-[50px] sm:rounded-[20px]
   ">
-    Home
-  </h2>
-</div>
- {/*home div */}
+    <h2 className={`${baseH2Classes} ${pathname === '/Blogs' ? activeLinkTextClasses : inactiveLinkTextClasses}`}>
+      Blogs
+    </h2>
+  </div>
+ </Link>
+ {/*Blogs div */}
 
 
 
@@ -306,14 +306,7 @@ add functionality to this button to toggle the visibility of the bottom smaller 
 
 
 {/*this button will become hidden in the sm and md breakpoints and it will stay visible in the 2xl,xl and lg breakpoints */}
-<button className="
-2xl:flex 2xl:items-center 2xl:w-fit  2xl:justify-center 2xl:gap-[10px] 2xl:px-[24px] 2xl:py-[16px] 2xl:rounded-[12px] 2xl:bg-white 2xl:text-[#1D1D1D] 2xl:text-center 2xl:text-[15px] 2xl:leading-[16px] 2xl:tracking-[0.45px] 2xl:font-[550] 2xl:font-sans
-xl:flex xl:items-center  xl:w-fit   xl:justify-center xl:gap-[10px] xl:px-[24px] xl:py-[16px] xl:rounded-[12px] xl:bg-white xl:text-[#1D1D1D] xl:text-center xl:text-[15px] xl:leading-[16px] xl:tracking-[0.45px] xl:font-[550] xl:font-sans 
-lg:flex lg:items-center lg:w-fit lg:justify-center lg:gap-[10px] lg:px-[24px] lg:py-[16px] lg:rounded-[12px] lg:bg-white lg:text-[#1D1D1D] lg:text-center lg:text-[15px] lg:leading-[16px] lg:tracking-[0.45px] lg:font-[550] lg:font-sans
-md:hidden md:items-center w-full md:justify-center md:gap-[10px] md:px-[24px] md:py-[16px] md:rounded-[12px] md:bg-white md:text-[#1D1D1D] md:text-center md:text-[15px] md:leading-[16px] md:tracking-[0.45px] md:font-[550] md:font-sans
-sm:hidden sm:items-center sm:justify-center sm:gap-[10px] sm:px-[24px] sm:py-[16px] sm:rounded-[12px] sm:bg-white sm:text-[#1D1D1D] sm:text-center sm:text-[15px] sm:leading-[16px] sm:tracking-[0.45px] sm:font-[550] sm:font-sans">
-  Contact Us
-</button>
+<NavbarContactUsButton/>
 {/*this button will become hidden in the sm and md breakpoints and it will stay visible in the 2xl,xl and lg breakpoints */}
 
 

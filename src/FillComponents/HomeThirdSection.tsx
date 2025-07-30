@@ -1,3 +1,5 @@
+import OutlineServicesButton from "@/ButtonVariants/OutlineOurServices";
+
 export default function FillHomeThirdSection () {
 
 
@@ -162,7 +164,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 {/* main icon holder div) */}
 
 <h3 className="
-sm:self-stretch sm:text-[#807F7E] sm:text-center sm:font-medium sm:text-[14px] sm:leading-[23px] sm:[font-feature-settings:'liga_off','clig_off']
+sm:self-stretch sm:text-[#807F7E] sm:text-center sm:font-medium sm:text-[14px] sm:leading-[23px] sm:[font-feature-settings:'liga_off','clig_off'] justify-center 
 md:self-stretch md:text-[#807F7E] md:text-center md:font-medium md:text-[14px] md:leading-[23px] md:[font-feature-settings:'liga_off','clig_off']
 lg:self-stretch lg:text-[#807F7E] lg:text-center lg:font-medium lg:text-[14px] lg:leading-[23px] lg:[font-feature-settings:'liga_off','clig_off']
 xl:flex-1 xl:text-[#807F7E] xl:text-left xl:font-medium xl:text-[14px] xl:leading-[23px] xl:[font-feature-settings:'normal']
@@ -181,7 +183,7 @@ Whether you’re launching a startup or scaling enterprise infrastructure, our p
 
 {/* 2nd main pointer div */}
 <div className="
-sm:flex sm:flex-col sm:items-center sm:gap-[32px] sm:flex-[1_0_0] sm:self-stretch
+sm:flex sm:flex-col sm:items-center sm:gap-[32px] sm:flex-[1_0_0] sm:self-stretch 
 md:flex md:flex-col md:items-center md:gap-[32px] md:flex-[1_0_0] md:self-stretch
 lg:flex lg:flex-col lg:items-center lg:gap-[32px] lg:flex-[1_0_0] lg:self-stretch
 xl:flex xl:flex-row xl:items-center xl:gap-[32px] xl:flex-[initial] xl:self-stretch
@@ -190,7 +192,7 @@ xl:flex xl:flex-row xl:items-center xl:gap-[32px] xl:flex-[initial] xl:self-stre
 
 {/* main icon holder div) */}
 <div className="
-sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#001D21]
+sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:rounded-[12px] sm:bg-[#001D21] 
 md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:rounded-[12px] md:bg-[#001D21]
 lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:rounded-[12px] lg:bg-[#001D21]
 xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:rounded-[12px] xl:bg-[#001D21]
@@ -205,7 +207,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752902989/Vector_1_gwa2mr.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752902995/ic_sharp-shield_ylk0d1.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -222,13 +224,13 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 {/* main icon holder div) */}
 
 <h3 className="
-sm:self-stretch sm:text-[#807F7E] sm:text-center sm:font-medium sm:text-[14px] sm:leading-[23px] sm:[font-feature-settings:'liga_off','clig_off']
+sm:self-stretch sm:text-[#807F7E] sm:text-center sm:font-medium sm:text-[14px] sm:leading-[23px] sm:[font-feature-settings:'liga_off','clig_off'] justify-center 
 md:self-stretch md:text-[#807F7E] md:text-center md:font-medium md:text-[14px] md:leading-[23px] md:[font-feature-settings:'liga_off','clig_off']
 lg:self-stretch lg:text-[#807F7E] lg:text-center lg:font-medium lg:text-[14px] lg:leading-[23px] lg:[font-feature-settings:'liga_off','clig_off']
 xl:flex-1 xl:text-[#807F7E] xl:text-left xl:font-medium xl:text-[14px] xl:leading-[23px] xl:[font-feature-settings:'normal']
 2xl:flex-1 2xl:text-[#807F7E] 2xl:text-left 2xl:font-medium 2xl:text-[14px] 2xl:leading-[23px] 2xl:[font-feature-settings:'normal']
 ">
-Whether you’re launching a startup or scaling enterprise infrastructure, our platform adapts to your unique objectives.
+We safeguard your data and workflows with robust, enterprise-grade security protocols throughout the lifecycle.
 </h3>
 
 </div>
@@ -244,8 +246,8 @@ Whether you’re launching a startup or scaling enterprise infrastructure, our p
 
 {/* 3rd main pointer div */}
 <div className="
-sm:flex sm:flex-col sm:items-center sm:gap-[32px] sm:flex-[1_0_0] sm:self-stretch
-md:flex md:flex-col md:items-center md:gap-[32px] md:flex-[1_0_0] md:self-stretch
+sm:flex sm:flex-col sm:items-center sm:gap-[32px] sm:flex-[1_0_0] sm:self-stretch 
+md:flex md:flex-col md:items-center md:gap-[32px] md:flex-[1_0_0] md:self-stretch 
 lg:flex lg:flex-col lg:items-center lg:gap-[32px] lg:flex-[1_0_0] lg:self-stretch
 xl:flex xl:flex-row xl:items-center xl:gap-[32px] xl:flex-[initial] xl:self-stretch
 2xl:flex 2xl:flex-row 2xl:items-center 2xl:gap-[32px] 2xl:flex-[initial] 2xl:self-stretch
@@ -268,7 +270,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752902989/Vector_1_gwa2mr.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752903001/fa6-solid_user-group_mmpuxd.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -285,13 +287,13 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 {/* main icon holder div) */}
 
 <h3 className="
-sm:self-stretch sm:text-[#807F7E] sm:text-center sm:font-medium sm:text-[14px] sm:leading-[23px] sm:[font-feature-settings:'liga_off','clig_off']
+sm:self-stretch sm:text-[#807F7E] sm:text-center sm:font-medium sm:text-[14px] sm:leading-[23px] sm:[font-feature-settings:'liga_off','clig_off'] justify-center 
 md:self-stretch md:text-[#807F7E] md:text-center md:font-medium md:text-[14px] md:leading-[23px] md:[font-feature-settings:'liga_off','clig_off']
 lg:self-stretch lg:text-[#807F7E] lg:text-center lg:font-medium lg:text-[14px] lg:leading-[23px] lg:[font-feature-settings:'liga_off','clig_off']
 xl:flex-1 xl:text-[#807F7E] xl:text-left xl:font-medium xl:text-[14px] xl:leading-[23px] xl:[font-feature-settings:'normal']
 2xl:flex-1 2xl:text-[#807F7E] 2xl:text-left 2xl:font-medium 2xl:text-[14px] 2xl:leading-[23px] 2xl:[font-feature-settings:'normal']
 ">
-Whether you’re launching a startup or scaling enterprise infrastructure, our platform adapts to your unique objectives.
+Our team collaborates with you to deliver optimal architecture, cost-efficiency, and long-term growth.
 </h3>
 
 </div>
@@ -323,23 +325,7 @@ Whether you’re launching a startup or scaling enterprise infrastructure, our p
 
 
 
-<button className="
-2xl:flex 2xl:items-center 2xl:justify-center 2xl:gap-[10px] 2xl:px-[24px] 2xl:py-[16px] 2xl:rounded-[12px] 2xl:border 2xl:border-[#D7D7D7] 2xl:bg-white
-xl:flex xl:items-center xl:justify-center xl:gap-[10px] xl:px-[24px] xl:py-[16px] xl:rounded-[12px] xl:border xl:border-[#D7D7D7] xl:bg-white
-lg:flex lg:items-center lg:justify-center lg:gap-[10px] lg:px-[24px] lg:py-[16px] lg:rounded-[12px] lg:border lg:border-[#D7D7D7] lg:bg-white
-md:flex md:items-center md:justify-center md:gap-[10px] md:px-[24px] md:py-[16px] md:rounded-[12px] md:border md:border-[#D7D7D7] md:bg-white
-sm:flex sm:items-center sm:justify-center sm:gap-[10px] sm:px-[24px] sm:py-[16px] sm:rounded-[12px] sm:border sm:border-[#D7D7D7] sm:bg-white
-">
-<span className="
-2xl:text-[15px] 2xl:leading-[16px] 2xl:tracking-[0.45px] 2xl:font-[550] 2xl:text-[#1D1D1D] 2xl:text-center 2xl:font-sans
-xl:text-[15px] xl:leading-[16px] xl:tracking-[0.45px] xl:font-[550] xl:text-[#1D1D1D] xl:text-center xl:font-sans
-lg:text-[15px] lg:leading-[16px] lg:tracking-[0.45px] lg:font-[550] lg:text-[#1D1D1D] lg:text-center lg:font-sans
-md:text-[15px] md:leading-[16px] md:tracking-[0.45px] md:font-[550] md:text-[#1D1D1D] md:text-center md:font-sans
-sm:text-[15px] sm:leading-[16px] sm:tracking-[0.45px] sm:font-[550] sm:text-[#1D1D1D] sm:text-center sm:font-sans
-">
-Our services
-</span>
-</button>
+<OutlineServicesButton/>
 
 
 

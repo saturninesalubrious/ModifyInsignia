@@ -119,7 +119,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917509/G7i6ylY371jRoywiHmIZr0own2w_2_hdxiif.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -203,7 +203,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753021840/Vector_5_jjnpra.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -227,7 +227,7 @@ xl:self-stretch xl:text-white xl:text-center xl:text-[20px] xl:font-semibold xl:
 lg:self-stretch lg:text-white lg:text-center lg:text-[20px] lg:font-semibold lg:leading-[30px] lg:tracking-[-0.6px]
 md:self-stretch md:text-white md:text-center md:text-[20px] md:font-semibold md:leading-[30px] md:tracking-[-0.6px]
 ">
-Product Engineering
+AI Solutions
 </h2>
 
 
@@ -292,7 +292,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753041252/Vector_9_sjttn3.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -316,7 +316,7 @@ xl:self-stretch xl:text-white xl:text-center xl:text-[20px] xl:font-semibold xl:
 lg:self-stretch lg:text-white lg:text-center lg:text-[20px] lg:font-semibold lg:leading-[30px] lg:tracking-[-0.6px]
 md:self-stretch md:text-white md:text-center md:text-[20px] md:font-semibold md:leading-[30px] md:tracking-[-0.6px]
 ">
-Product Engineering
+Cloud Infrastructure
 </h2>
 
 
@@ -378,7 +378,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753041259/Vector_10_co3ic6.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -402,7 +402,7 @@ xl:self-stretch xl:text-white xl:text-center xl:text-[20px] xl:font-semibold xl:
 lg:self-stretch lg:text-white lg:text-center lg:text-[20px] lg:font-semibold lg:leading-[30px] lg:tracking-[-0.6px]
 md:self-stretch md:text-white md:text-center md:text-[20px] md:font-semibold md:leading-[30px] md:tracking-[-0.6px]
 ">
-Product Engineering
+Data & Analytics
 </h2>
 
 

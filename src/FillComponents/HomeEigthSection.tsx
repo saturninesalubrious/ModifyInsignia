@@ -125,7 +125,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931415/Group_26892_bwbp86.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -154,11 +154,11 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 
 
  <h3 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-inter 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-inter xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-inter lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
- md:self-stretch md:text-[#FAFAFA] md:font-inter md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-inter sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
+ 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
+ xl:self-stretch xl:text-[#FAFAFA] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
+ lg:self-stretch lg:text-[#FAFAFA] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
+ md:self-stretch md:text-[#FAFAFA] md:font-sans md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
+ sm:self-stretch sm:text-[#FAFAFA] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
  ">
  Data-Driven Quality Control
 </h3>
@@ -166,11 +166,11 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 
 
 <p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-inter 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-inter xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-inter lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
-md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-inter md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-inter sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
+2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
+xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-sans xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
+lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-sans lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
+md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-sans md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
+sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-sans sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
 ">
 Our advanced monitoring and QA systems identify inefficiencies in real-time, enabling continuous optimization with precise management of resources.
 </p>
@@ -210,7 +210,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752930360/Frame_1000005005_occup4.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -239,25 +239,25 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 
 
  <h3 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-inter 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-inter xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-inter lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
- md:self-stretch md:text-[#FAFAFA] md:font-inter md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-inter sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
+ 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
+ xl:self-stretch xl:text-[#FAFAFA] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
+ lg:self-stretch lg:text-[#FAFAFA] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
+ md:self-stretch md:text-[#FAFAFA] md:font-sans md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
+ sm:self-stretch sm:text-[#FAFAFA] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
  ">
- Data-Driven Quality Control
+Expert-Led Implementation
 </h3>
 
 
 
 <p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-inter 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-inter xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-inter lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
-md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-inter md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-inter sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
+2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
+xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-sans xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
+lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-sans lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
+md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-sans md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
+sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-sans sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
 ">
-Our advanced monitoring and QA systems identify inefficiencies in real-time, enabling continuous optimization with precise management of resources.
+Our consultants combine deep domain expertise with practical experience to ensure smooth, impact-driven deployment tailored to your workflows.
 </p>
   
 </div>
@@ -296,7 +296,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931502/Group_81712_buoiu4.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -325,25 +325,25 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 
 
  <h3 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-inter 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-inter xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-inter lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
- md:self-stretch md:text-[#FAFAFA] md:font-inter md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-inter sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
+ 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
+ xl:self-stretch xl:text-[#FAFAFA] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
+ lg:self-stretch lg:text-[#FAFAFA] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
+ md:self-stretch md:text-[#FAFAFA] md:font-sans md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
+ sm:self-stretch sm:text-[#FAFAFA] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
  ">
- Data-Driven Quality Control
+Customer-Centric Outcomes
 </h3>
 
 
 
 <p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-inter 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-inter xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-inter lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
-md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-inter md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-inter sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
+2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
+xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-sans xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
+lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-sans lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
+md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-sans md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
+sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-sans sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
 ">
-Our advanced monitoring and QA systems identify inefficiencies in real-time, enabling continuous optimization with precise management of resources.
+Our solutions are built around your needs, delivering measurable improvements in satisfaction, retention, and overall business value.
 </p>
   
 </div>
@@ -385,7 +385,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931510/Group_1_sjaqlh.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -414,25 +414,25 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 
 
  <h3 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-inter 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-inter xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-inter lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
- md:self-stretch md:text-[#FAFAFA] md:font-inter md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-inter sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
+ 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
+ xl:self-stretch xl:text-[#FAFAFA] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
+ lg:self-stretch lg:text-[#FAFAFA] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
+ md:self-stretch md:text-[#FAFAFA] md:font-sans md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
+ sm:self-stretch sm:text-[#FAFAFA] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
  ">
- Data-Driven Quality Control
+Smart Automation & Integrations
 </h3>
 
 
 
 <p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-inter 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-inter xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-inter lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
-md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-inter md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-inter sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
+2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
+xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-sans xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
+lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-sans lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
+md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-sans md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
+sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-sans sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
 ">
-Our advanced monitoring and QA systems identify inefficiencies in real-time, enabling continuous optimization with precise management of resources.
+From CRM to cloud, we connect your tools and automate repetitive workflows — helping you reduce manual effort and scale seamlessly.
 </p>
   
 </div>

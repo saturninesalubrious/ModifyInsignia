@@ -150,21 +150,21 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
  ">
 
  <h2 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-medium 2xl:text-[18px] 2xl:leading-[27px] 2xl:tracking-[-0.54px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px]
- md:self-stretch md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px]
+ 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-medium 2xl:text-[18px] 2xl:leading-[27px] 2xl:tracking-[-0.54px] 2xl:font-sans
+ xl:self-stretch xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px] xl:font-sans 
+ lg:self-stretch lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px] lg:font-sans
+ md:self-stretch md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px] md:font-sans
+ sm:self-stretch sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px] sm:font-sans
  ">
  Real-time performance insights
 </h2>
 
 <p className="
-2xl:self-stretch 2xl:text-[18px] 2xl:leading-[24px] 2xl:tracking-[-0.54px] 2xl:font-medium 2xl:text-[rgba(250,250,250,0.60)]
-xl:self-stretch xl:text-[18px] xl:leading-[24px] xl:tracking-[-0.54px] xl:font-medium xl:text-[rgba(250,250,250,0.60)]
-lg:self-stretch lg:text-[18px] lg:leading-[24px] lg:tracking-[-0.54px] lg:font-medium lg:text-[rgba(250,250,250,0.60)]
-md:self-stretch md:text-[18px] md:leading-[24px] md:tracking-[-0.54px] md:font-medium md:text-[rgba(250,250,250,0.60)]
-sm:self-stretch sm:text-[18px] sm:leading-[24px] sm:tracking-[-0.54px] sm:font-medium sm:text-[rgba(250,250,250,0.60)]
+2xl:self-stretch 2xl:text-[18px] 2xl:leading-[24px] 2xl:tracking-[-0.54px] 2xl:font-medium 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans
+xl:self-stretch xl:text-[18px] xl:leading-[24px] xl:tracking-[-0.54px] xl:font-medium xl:text-[rgba(250,250,250,0.60)]  xl:font-sans
+lg:self-stretch lg:text-[18px] lg:leading-[24px] lg:tracking-[-0.54px] lg:font-medium lg:text-[rgba(250,250,250,0.60)] lg:font-sans
+md:self-stretch md:text-[18px] md:leading-[24px] md:tracking-[-0.54px] md:font-medium md:text-[rgba(250,250,250,0.60)] md:font-sans
+sm:self-stretch sm:text-[18px] sm:leading-[24px] sm:tracking-[-0.54px] sm:font-medium sm:text-[rgba(250,250,250,0.60)] sm:font-sans 
 ">
 Gain deep visibility into your system’s behavior with live performance dashboards powered by AI and monitoring tools.
 </p>
@@ -214,7 +214,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917509/G7i6ylY371jRoywiHmIZr0own2w_2_hdxiif.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -242,23 +242,23 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
  ">
 
  <h2 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-medium 2xl:text-[18px] 2xl:leading-[27px] 2xl:tracking-[-0.54px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px]
- md:self-stretch md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px]
+ 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-medium 2xl:text-[18px] 2xl:leading-[27px] 2xl:tracking-[-0.54px] 2xl:font-sans
+ xl:self-stretch xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px] xl:font-sans
+ lg:self-stretch lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px] lg:font-sans
+ md:self-stretch md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px] md:font-sans
+ sm:self-stretch sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px] sm:font-sans
  ">
- Real-time performance insights
+Cross-platform compatibility
 </h2>
 
 <p className="
-2xl:self-stretch 2xl:text-[18px] 2xl:leading-[24px] 2xl:tracking-[-0.54px] 2xl:font-medium 2xl:text-[rgba(250,250,250,0.60)]
-xl:self-stretch xl:text-[18px] xl:leading-[24px] xl:tracking-[-0.54px] xl:font-medium xl:text-[rgba(250,250,250,0.60)]
-lg:self-stretch lg:text-[18px] lg:leading-[24px] lg:tracking-[-0.54px] lg:font-medium lg:text-[rgba(250,250,250,0.60)]
-md:self-stretch md:text-[18px] md:leading-[24px] md:tracking-[-0.54px] md:font-medium md:text-[rgba(250,250,250,0.60)]
-sm:self-stretch sm:text-[18px] sm:leading-[24px] sm:tracking-[-0.54px] sm:font-medium sm:text-[rgba(250,250,250,0.60)]
+2xl:self-stretch 2xl:text-[18px] 2xl:leading-[24px] 2xl:tracking-[-0.54px] 2xl:font-medium 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans
+xl:self-stretch xl:text-[18px] xl:leading-[24px] xl:tracking-[-0.54px] xl:font-medium xl:text-[rgba(250,250,250,0.60)] xl:font-sans
+lg:self-stretch lg:text-[18px] lg:leading-[24px] lg:tracking-[-0.54px] lg:font-medium lg:text-[rgba(250,250,250,0.60)] lg:font-sans
+md:self-stretch md:text-[18px] md:leading-[24px] md:tracking-[-0.54px] md:font-medium md:text-[rgba(250,250,250,0.60)] md:font-sans
+sm:self-stretch sm:text-[18px] sm:leading-[24px] sm:tracking-[-0.54px] sm:font-medium sm:text-[rgba(250,250,250,0.60)] sm:font-sans
 ">
-Gain deep visibility into your system’s behavior with live performance dashboards powered by AI and monitoring tools.
+Deliver seamless user experiences across devices with our responsive and mobile-optimized app development.
 </p>
 
 
@@ -345,7 +345,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917520/ZXlFWhKtqk4tYq7ooq4jUDDOZM_2_iiucbr.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -373,23 +373,23 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
  ">
 
  <h2 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-medium 2xl:text-[18px] 2xl:leading-[27px] 2xl:tracking-[-0.54px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px]
- md:self-stretch md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px]
+ 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-medium 2xl:text-[18px] 2xl:leading-[27px] 2xl:tracking-[-0.54px]  2xl:font-sans
+ xl:self-stretch xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px] xl:font-sans
+ lg:self-stretch lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px] lg:font-sans
+ md:self-stretch md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px] md:font-sans
+ sm:self-stretch sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px] sm:font-sans
  ">
- Real-time performance insights
+Custom workflows
 </h2>
 
 <p className="
-2xl:self-stretch 2xl:text-[18px] 2xl:leading-[24px] 2xl:tracking-[-0.54px] 2xl:font-medium 2xl:text-[rgba(250,250,250,0.60)]
-xl:self-stretch xl:text-[18px] xl:leading-[24px] xl:tracking-[-0.54px] xl:font-medium xl:text-[rgba(250,250,250,0.60)]
-lg:self-stretch lg:text-[18px] lg:leading-[24px] lg:tracking-[-0.54px] lg:font-medium lg:text-[rgba(250,250,250,0.60)]
-md:self-stretch md:text-[18px] md:leading-[24px] md:tracking-[-0.54px] md:font-medium md:text-[rgba(250,250,250,0.60)]
-sm:self-stretch sm:text-[18px] sm:leading-[24px] sm:tracking-[-0.54px] sm:font-medium sm:text-[rgba(250,250,250,0.60)]
+2xl:self-stretch 2xl:text-[18px] 2xl:leading-[24px] 2xl:tracking-[-0.54px] 2xl:font-medium 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans
+xl:self-stretch xl:text-[18px] xl:leading-[24px] xl:tracking-[-0.54px] xl:font-medium xl:text-[rgba(250,250,250,0.60)] xl:font-sans
+lg:self-stretch lg:text-[18px] lg:leading-[24px] lg:tracking-[-0.54px] lg:font-medium lg:text-[rgba(250,250,250,0.60)] lg:font-sans
+md:self-stretch md:text-[18px] md:leading-[24px] md:tracking-[-0.54px] md:font-medium md:text-[rgba(250,250,250,0.60)] md:font-sans
+sm:self-stretch sm:text-[18px] sm:leading-[24px] sm:tracking-[-0.54px] sm:font-medium sm:text-[rgba(250,250,250,0.60)] sm:font-sans
 ">
-Gain deep visibility into your system’s behavior with live performance dashboards powered by AI and monitoring tools.
+Streamline complex dev processes with fully customizable automation pipelines and CI/CD integrations.
 </p>
 
 
@@ -437,7 +437,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917528/BLTOsLWy1jjqmHHsLe8LtoyaNI_3_keazhi.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -465,23 +465,23 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
  ">
 
  <h2 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-medium 2xl:text-[18px] 2xl:leading-[27px] 2xl:tracking-[-0.54px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px]
- md:self-stretch md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px]
+ 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-medium 2xl:text-[18px] 2xl:leading-[27px] 2xl:tracking-[-0.54px] 2xl:font-sans
+ xl:self-stretch xl:text-[#FAFAFA] xl:font-medium xl:text-[18px] xl:leading-[27px] xl:tracking-[-0.54px] xl:font-sans
+ lg:self-stretch lg:text-[#FAFAFA] lg:font-medium lg:text-[18px] lg:leading-[27px] lg:tracking-[-0.54px] lg:font-sans
+ md:self-stretch md:text-[#FAFAFA] md:font-medium md:text-[18px] md:leading-[27px] md:tracking-[-0.54px]  md:font-sans
+ sm:self-stretch sm:text-[#FAFAFA] sm:font-medium sm:text-[18px] sm:leading-[27px] sm:tracking-[-0.54px]  sm:font-sans
  ">
- Real-time performance insights
+Enterprise-grade security
 </h2>
 
 <p className="
-2xl:self-stretch 2xl:text-[18px] 2xl:leading-[24px] 2xl:tracking-[-0.54px] 2xl:font-medium 2xl:text-[rgba(250,250,250,0.60)]
-xl:self-stretch xl:text-[18px] xl:leading-[24px] xl:tracking-[-0.54px] xl:font-medium xl:text-[rgba(250,250,250,0.60)]
-lg:self-stretch lg:text-[18px] lg:leading-[24px] lg:tracking-[-0.54px] lg:font-medium lg:text-[rgba(250,250,250,0.60)]
-md:self-stretch md:text-[18px] md:leading-[24px] md:tracking-[-0.54px] md:font-medium md:text-[rgba(250,250,250,0.60)]
-sm:self-stretch sm:text-[18px] sm:leading-[24px] sm:tracking-[-0.54px] sm:font-medium sm:text-[rgba(250,250,250,0.60)]
+2xl:self-stretch 2xl:text-[18px] 2xl:leading-[24px] 2xl:tracking-[-0.54px] 2xl:font-medium 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans
+xl:self-stretch xl:text-[18px] xl:leading-[24px] xl:tracking-[-0.54px] xl:font-medium xl:text-[rgba(250,250,250,0.60)] xl:font-sans
+lg:self-stretch lg:text-[18px] lg:leading-[24px] lg:tracking-[-0.54px] lg:font-medium lg:text-[rgba(250,250,250,0.60)] lg:font-sans
+md:self-stretch md:text-[18px] md:leading-[24px] md:tracking-[-0.54px] md:font-medium md:text-[rgba(250,250,250,0.60)] md:font-sans
+sm:self-stretch sm:text-[18px] sm:leading-[24px] sm:tracking-[-0.54px] sm:font-medium sm:text-[rgba(250,250,250,0.60)] sm:font-sans
 ">
-Gain deep visibility into your system’s behavior with live performance dashboards powered by AI and monitoring tools.
+Protect your infrastructure and data with advanced security protocols, encryption, and compliance-ready frameworks.
 </p>
 
 

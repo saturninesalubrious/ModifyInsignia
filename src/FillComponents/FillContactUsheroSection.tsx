@@ -359,7 +359,7 @@ lg:self-stretch lg:text-[#2D4447] lg:font-sans lg:text-[20px] lg:font-medium lg:
 md:self-stretch md:text-[#2D4447] md:font-sans md:text-[20px] md:font-medium md:leading-[31px] md:tracking-[-1.56px]
 sm:self-stretch sm:text-[#2D4447] sm:font-sans sm:text-[20px] sm:font-medium sm:leading-[31px] sm:tracking-[-1.56px]
 ">
-Consulting@gmail.com
+sales@insigniaconsultancy.com
 </h2>
 
 
@@ -395,7 +395,7 @@ lg:self-stretch lg:text-[#2D4447] lg:font-sans lg:text-[20px] lg:font-medium lg:
 md:self-stretch md:text-[#2D4447] md:font-sans md:text-[20px] md:font-medium md:leading-[31px] md:tracking-[-1.56px]
 sm:self-stretch sm:text-[#2D4447] sm:font-sans sm:text-[20px] sm:font-medium sm:leading-[31px] sm:tracking-[-1.56px]
 ">
-+1 (123) 456-7890
++15107099142
 </h2>
 
 
@@ -434,7 +434,7 @@ lg:self-stretch lg:text-[#2D4447] lg:font-sans lg:text-[20px] lg:font-medium lg:
 md:self-stretch md:text-[#2D4447] md:font-sans md:text-[20px] md:font-medium md:leading-[31px] md:tracking-[-1.56px]
 sm:self-stretch sm:text-[#2D4447] sm:font-sans sm:text-[20px] sm:font-medium sm:leading-[31px] sm:tracking-[-1.56px]
 ">
-456 Business Ave, New York, NY
+806 W Coffin St, Dennision, TX USA
 </h2>
 
 
@@ -483,14 +483,14 @@ sm:flex sm:flex-row sm:items-center sm:gap-[15px] sm:self-stretch
  ">
 
  <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
+sm:flex sm:w-[20px] sm:h-[20px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
+md:flex md:w-[20px] md:h-[20px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
+lg:flex lg:w-[20px] lg:h-[20px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
+xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
+2xl:flex 2xl:w-[20px] 2xl:h-[20px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753188880/Vector_12_i8pdf0.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -522,14 +522,14 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
  ">
 
  <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
+sm:flex sm:w-[20px] sm:h-[20px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
+md:flex md:w-[20px] md:h-[20px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
+lg:flex lg:w-[20px] lg:h-[20px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
+xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
+2xl:flex 2xl:w-[20px] 2xl:h-[20px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753188868/Group_81783_zat013.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -563,14 +563,14 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
  ">
 
  <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
+sm:flex sm:w-[20px] sm:h-[20px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
+md:flex md:w-[20px] md:h-[20px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
+lg:flex lg:w-[20px] lg:h-[20px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
+xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
+2xl:flex 2xl:w-[20px] 2xl:h-[20px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753188890/Vector_13_qjtjgu.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -602,14 +602,14 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
  ">
 
  <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
+sm:flex sm:w-[20px] sm:h-[20px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
+md:flex md:w-[20px] md:h-[20px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
+lg:flex lg:w-[20px] lg:h-[20px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
+xl:flex xl:w-[20px] xl:h-[20px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
+2xl:flex 2xl:w-[20px] 2xl:h-[20px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753188860/Vector_11_mofa7b.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain

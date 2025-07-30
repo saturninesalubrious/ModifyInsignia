@@ -213,7 +213,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752930360/Frame_1000005005_occup4.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -249,7 +249,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
 ">
-Real-time analytics
+Agile Execution
 </h2>
 
 <p className="
@@ -259,7 +259,7 @@ lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450]
 md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
 sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
 ">
-Harness real-time data and insights to make sharper, faster business decisions.
+Using iterative delivery models, we build and deploy features with speed and precision
 </p>
 
 
@@ -328,7 +328,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752927791/Frame_1000005004_goqjwj.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -364,7 +364,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
 ">
-Real-time analytics
+Continuous Optimization
 </h2>
 
 <p className="
@@ -374,7 +374,7 @@ lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450]
 md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
 sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
 ">
-Harness real-time data and insights to make sharper, faster business decisions.
+We don’t stop at delivery. We analyze, adapt, and fine-tune solutions for performance
 </p>
 
 
@@ -448,7 +448,7 @@ xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752917499/TUy33ttumlXut3M4U8wuILYrJA_2_usdawi.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752902989/Vector_1_gwa2mr.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -484,7 +484,7 @@ lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px
 md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
 sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
 ">
-Real-time analytics
+Discovery & Alignment
 </h2>
 
 <p className="
@@ -494,7 +494,7 @@ lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450]
 md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
 sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
 ">
-Harness real-time data and insights to make sharper, faster business decisions.
+We begin by understanding your business challenges, goals, and existing systems
 </p>
 
 
