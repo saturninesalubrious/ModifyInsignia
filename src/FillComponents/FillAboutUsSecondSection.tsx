@@ -89,7 +89,7 @@ Get to know the values and principles that define how we work, innovate, and gro
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px] self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[261.3px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[279px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -195,7 +195,7 @@ We believe in pushing the boundaries of what's possible.
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px] self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[261.3px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[279px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -302,7 +302,7 @@ Your success is our mission. We build long-term relationships.
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px] self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[261.3px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-full md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -409,7 +409,7 @@ Designers, engineers, analysts, and strategists—working as one.
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[628px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[628px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px] self-stretch
  xl:flex xl:w-[535px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[419.5px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[279px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -522,7 +522,7 @@ We move fast, learn quickly, and pivot when needed. Agile isn’t just a method 
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[628px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[628px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px] self-stretch
  xl:flex xl:w-[535px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[419.5px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[279px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]

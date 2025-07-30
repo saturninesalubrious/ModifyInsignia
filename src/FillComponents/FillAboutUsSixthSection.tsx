@@ -90,11 +90,11 @@ At Insignia, we don’t just provide solutions — we build digital ecosystems t
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[645.5px] 2xl:h-[686.4px]  2xl:shrink-0  2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px]  2xl:bg-[#F3F4F2] rounded-[18px]
- xl:flex   xl:w-[552.5px] xl:h-[710.4px] xl:shrink-0   xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px]  xl:bg-[#F3F4F2]  
- lg:flex lg:w-full lg:flex-col lg:justify-center  lg:shrink-0   lg:items-start lg:gap-[45px] lg:p-[90px_56px]  lg:bg-[#F3F4F2]
- md:flex  md:w-full  md:flex-col md:justify-center  md:shrink-0   md:items-start md:gap-[45px] md:p-[90px_56px]  md:bg-[#F3F4F2]
- sm:flex sm:w-full  sm:flex-col sm:justify-center  sm:shrink-0    sm:items-start sm:gap-[45px] sm:p-[90px_56px]  sm:bg-[#F3F4F2]
+ 2xl:flex 2xl:w-[645.5px] 2xl:h-[686.4px]   2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px]  2xl:bg-[#F3F4F2] rounded-[18px] self-stretch 
+ xl:flex   xl:w-[552.5px] xl:h-[710.4px]   xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px]  xl:bg-[#F3F4F2]  
+ lg:flex lg:w-full lg:flex-col lg:justify-center     lg:items-start lg:gap-[45px] lg:p-[90px_56px]  lg:bg-[#F3F4F2]
+ md:flex  md:w-full  md:flex-col md:justify-center    md:items-start md:gap-[45px] md:p-[90px_56px]  md:bg-[#F3F4F2]
+ sm:flex sm:w-full  sm:flex-col sm:justify-center     sm:items-start sm:gap-[45px] sm:p-[90px_56px]  sm:bg-[#F3F4F2]
  ">
  
 
@@ -161,7 +161,7 @@ An intelligent web app that empowers professionals to assess themselves across r
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[645.5px] 2xl:h-[686.4px]  2xl:shrink-0  2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px]  2xl:bg-[#F3F4F2] rounded-[18px]
+ 2xl:flex 2xl:w-[645.5px] 2xl:h-[686.4px]  2xl:shrink-0  2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px]  2xl:bg-[#F3F4F2] rounded-[18px] self-stretch 
  xl:flex   xl:w-[552.5px] xl:h-[710.4px] xl:shrink-0   xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px]  xl:bg-[#F3F4F2]  
  lg:flex lg:w-full lg:flex-col lg:justify-center  lg:shrink-0   lg:items-start lg:gap-[45px] lg:p-[90px_56px]  lg:bg-[#F3F4F2]
  md:flex  md:w-full  md:flex-col md:justify-center  md:shrink-0   md:items-start md:gap-[45px] md:p-[90px_56px]  md:bg-[#F3F4F2]
@@ -233,11 +233,11 @@ A seamless web-based platform that connects renters with property owners offerin
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[645.5px] 2xl:h-[686.4px]  2xl:shrink-0  2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px]  2xl:bg-[#F3F4F2] rounded-[18px]
- xl:flex   xl:w-[552.5px] xl:h-[710.4px] xl:shrink-0   xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px]  xl:bg-[#F3F4F2]  
- lg:flex lg:w-full lg:flex-col lg:justify-center  lg:shrink-0   lg:items-start lg:gap-[45px] lg:p-[90px_56px]  lg:bg-[#F3F4F2]
- md:flex  md:w-full  md:flex-col md:justify-center  md:shrink-0   md:items-start md:gap-[45px] md:p-[90px_56px]  md:bg-[#F3F4F2]
- sm:flex sm:w-full  sm:flex-col sm:justify-center  sm:shrink-0    sm:items-start sm:gap-[45px] sm:p-[90px_56px]  sm:bg-[#F3F4F2]
+ 2xl:flex 2xl:w-[645.5px] 2xl:h-[686.4px]    2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px]  2xl:bg-[#F3F4F2] rounded-[18px] self-stretch 
+ xl:flex   xl:w-[552.5px] xl:h-[710.4px]   xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px]  xl:bg-[#F3F4F2]  
+ lg:flex lg:w-full lg:flex-col lg:justify-center   lg:items-start lg:gap-[45px] lg:p-[90px_56px]  lg:bg-[#F3F4F2]
+ md:flex  md:w-full  md:flex-col md:justify-center    md:items-start md:gap-[45px] md:p-[90px_56px]  md:bg-[#F3F4F2]
+ sm:flex sm:w-full  sm:flex-col sm:justify-center      sm:items-start sm:gap-[45px] sm:p-[90px_56px]  sm:bg-[#F3F4F2]
  ">
  
 
@@ -305,11 +305,11 @@ From revitalizing aging homes to designing modern, minimalistic interiors and in
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[645.5px] 2xl:h-[686.4px]  2xl:shrink-0  2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px]  2xl:bg-[#F3F4F2] rounded-[18px]
- xl:flex   xl:w-[552.5px] xl:h-[710.4px] xl:shrink-0   xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px]  xl:bg-[#F3F4F2]  
- lg:flex lg:w-full lg:flex-col lg:justify-center  lg:shrink-0   lg:items-start lg:gap-[45px] lg:p-[90px_56px]  lg:bg-[#F3F4F2]
- md:flex  md:w-full  md:flex-col md:justify-center  md:shrink-0   md:items-start md:gap-[45px] md:p-[90px_56px]  md:bg-[#F3F4F2]
- sm:flex sm:w-full  sm:flex-col sm:justify-center  sm:shrink-0    sm:items-start sm:gap-[45px] sm:p-[90px_56px]  sm:bg-[#F3F4F2]
+ 2xl:flex 2xl:w-[645.5px] 2xl:h-[686.4px]    2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px]  2xl:bg-[#F3F4F2] rounded-[18px]  self-stretch 
+ xl:flex   xl:w-[552.5px] xl:h-[710.4px]   xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px]  xl:bg-[#F3F4F2]  
+ lg:flex lg:w-full lg:flex-col lg:justify-center    lg:items-start lg:gap-[45px] lg:p-[90px_56px]  lg:bg-[#F3F4F2]
+ md:flex  md:w-full  md:flex-col md:justify-center     md:items-start md:gap-[45px] md:p-[90px_56px]  md:bg-[#F3F4F2]
+ sm:flex sm:w-full  sm:flex-col sm:justify-center     sm:items-start sm:gap-[45px] sm:p-[90px_56px]  sm:bg-[#F3F4F2]
  ">
  
 

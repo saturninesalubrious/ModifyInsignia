@@ -4,7 +4,7 @@ import Link from 'next/link';
 export default function  InstaNavigationalButton() {
   return (
     <Link
-      href="/your-dummy-url" // Replace with your actual URL
+      href="https://www.instagram.com/insigniaconsultancy/?hl=en" // Replace with your actual URL
       className="
       // All your existing button styles go here
       2xl:flex 2xl:w-[50px] 2xl:h-[50px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border rounded-[55px] border border-[#31494A]

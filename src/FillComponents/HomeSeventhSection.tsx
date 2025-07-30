@@ -88,7 +88,7 @@ From early-stage ventures to industry leaders, teams across sectors rely on Acel
 
 
 <div className="
-  2xl:w-[690px] 2xl:h-[251px] 2xl:rounded-[24px] 2xl:bg-[url('/path-to-image.jpg')] 2xl:bg-lightgray 2xl:bg-[length:cover] 2xl:bg-no-repeat 2xl:bg-center 2xl:relative 2xl:overflow-hidden
+  2xl:w-[690px] 2xl:h-[251px] 2xl:rounded-[24px] 2xl:bg-[url('/path-to-image.jpg')] 2xl:bg-lightgray 2xl:bg-[length:cover] 2xl:bg-no-repeat 2xl:bg-center 2xl:relative 2xl:overflow-hidden  
   xl:w-[630px] xl:h-[251px] xl:rounded-[24px] xl:bg-[url('/path-to-image.jpg')] xl:bg-lightgray xl:bg-[length:cover] xl:bg-no-repeat xl:bg-center xl:relative xl:overflow-hidden
   lg:w-[580px] lg:h-[251px] lg:rounded-[24px] lg:bg-[url('/path-to-image.jpg')] lg:bg-lightgray lg:bg-[length:cover] lg:bg-no-repeat lg:bg-center lg:relative lg:overflow-hidden
   md:w-full md:h-[251px] md:rounded-[24px] md:bg-[url('/path-to-image.jpg')] md:bg-lightgray md:bg-[length:cover] md:bg-no-repeat md:bg-center md:relative md:overflow-hidden

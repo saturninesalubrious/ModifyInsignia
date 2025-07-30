@@ -89,7 +89,7 @@ Explore the technology stack, core functionalities, and intelligent systems that
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]  self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -195,7 +195,7 @@ Harness real-time data and insights to make sharper, faster business decisions.
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]  self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -302,7 +302,7 @@ Build only what you need with plug-and-play components—fully scalable.
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]  self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -409,7 +409,7 @@ Access, manage, and optimize operations on the go with robust system.
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]  self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -516,7 +516,7 @@ We bake in encryption, authentication, and compliance from the ground up.
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]   self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
@@ -623,7 +623,7 @@ Automate your repetitive workflows and focus on what matters.
 
  {/* mini div */}
  <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]
+ 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px] self-stretch
  xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
  lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
  md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]

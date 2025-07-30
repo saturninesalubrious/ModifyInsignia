@@ -3,7 +3,7 @@
 import { useRouter } from 'next/navigation';
 
 
-export default function GetStartedButton() {
+export default function OutlineServicesButton() {
 
 
   const router = useRouter();

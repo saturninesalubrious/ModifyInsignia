@@ -310,7 +310,7 @@ xl:flex xl:w-[55px] xl:h-[55px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[55px] 2xl:h-[55px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752939054/anne-peres-plsF6obTgms-unsplash_2_1_iwy89z.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753884762/1676242354868_1_1_jjkyvi.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -345,7 +345,7 @@ sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[7px] sm:flex-[1_0_0
  md:self-stretch md:text-[#F9F9F7] md:font-sans md:text-[16px] md:font-medium md:leading-[24px] md:tracking-[-0.48px]
  sm:self-stretch sm:text-[#F9F9F7] sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
-Samantha Jones
+Saket Srivastava
 </h2>
 
 
@@ -358,7 +358,7 @@ Samantha Jones
  lg:self-stretch lg:text-white/65 lg:font-sans lg:text-[16px] lg:font-medium lg:leading-[24px] lg:tracking-[-0.48px]
  sm:self-stretch sm:text-white/65 sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
- Freelance Web Developer
+ Senior Data Scientist
 </h3>
 
 
@@ -600,7 +600,7 @@ xl:flex xl:w-[55px] xl:h-[55px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[55px] 2xl:h-[55px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1743222479/irene-strong-TMt3JGoVlng-unsplash_1_1_ljlju2.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753884777/1675565881414_1_wfbyog.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -635,7 +635,7 @@ sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[7px] sm:flex-[1_0_0
  md:self-stretch md:text-[#F9F9F7] md:font-sans md:text-[16px] md:font-medium md:leading-[24px] md:tracking-[-0.48px]
  sm:self-stretch sm:text-[#F9F9F7] sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
-John Spencer
+Kayla Smith
 </h2>
 
 
@@ -648,7 +648,7 @@ John Spencer
  lg:self-stretch lg:text-white/65 lg:font-sans lg:text-[16px] lg:font-medium lg:leading-[24px] lg:tracking-[-0.48px]
  sm:self-stretch sm:text-white/65 sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
-Product Lead
+Recruitment Manager
 </h3>
 
 
@@ -893,7 +893,7 @@ xl:flex xl:w-[55px] xl:h-[55px] xl:justify-center xl:items-center xl:gap-[10px] 
 2xl:flex 2xl:w-[55px] 2xl:h-[55px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
 ">
 <img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1743176253/jake-nackos-IF9TK5Uy-KI-unsplash_2_wbhwm7.png" 
+  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753884769/1516627207391_1_tzbdbs.png" 
   alt="Icon"
   className="
   2xl:w-full 2xl:h-full 2xl:object-contain
@@ -928,7 +928,7 @@ sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[7px] sm:flex-[1_0_0
  md:self-stretch md:text-[#F9F9F7] md:font-sans md:text-[16px] md:font-medium md:leading-[24px] md:tracking-[-0.48px]
  sm:self-stretch sm:text-[#F9F9F7] sm:font-sans sm:text-[16px] sm:font-medium sm:leading-[24px] sm:tracking-[-0.48px]
 ">
-Milka Johnson
+Suharsh Dikshit
 </h2>
 
 

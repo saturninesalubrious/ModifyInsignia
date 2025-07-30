@@ -108,7 +108,7 @@ sm:flex sm:flex-row sm:items-center sm:gap-[15px] sm:self-stretch
   2xl:flex 2xl:w-[35px] 2xl:h-[35px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
   ">
     <img 
-      src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752835431/Group_18_pg1yqp.png" 
+      src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753882982/unnamed_1_jhmf4q.png" 
       alt="Icon"
       className="
       2xl:w-full 2xl:h-full 2xl:object-contain

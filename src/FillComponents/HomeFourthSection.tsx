@@ -80,7 +80,7 @@ Our platform offers cutting-edge digital products and intelligent solutions—fr
 
  {/* bottom 3 divs holding div */}
  <div className="
- 2xl:flex 2xl:flex-row 2xl:items-center 2xl:gap-[20px] 2xl:self-stretch
+ 2xl:flex 2xl:flex-row 2xl:items-center 2xl:gap-[20px] 2xl:self-stretch 
  xl:flex xl:flex-row xl:items-center xl:gap-[20px] xl:self-stretch
  lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[20px] lg:self-stretch
  md:flex md:flex-col md:justify-center md:items-start md:gap-[20px] md:self-stretch
@@ -94,13 +94,84 @@ Our platform offers cutting-edge digital products and intelligent solutions—fr
 {/* 1st div card
 
 
-*/}
 <div className="
-2xl:flex 2xl:py-[26px] 2xl:px-[25px] 2xl:flex-col 2xl:justify-between 2xl:items-start 2xl:gap-[138px] 2xl:h-full 2xl:rounded-[24px] 2xl:bg-[#0C2D32]
-xl:flex xl:py-[26px] xl:px-[25px] xl:flex-col xl:justify-between xl:items-start xl:gap-[138px] xl:h-full xl:rounded-[24px] xl:bg-[#0C2D32]
-lg:flex lg:py-[26px] lg:px-[25px] lg:flex-col lg:justify-between lg:items-start lg:gap-[138px] lg:h-full lg:rounded-[24px] lg:bg-[#0C2D32]
-md:flex md:py-[26px] md:px-[25px] md:flex-col md:justify-between md:items-start md:gap-[138px] md:h-full md:rounded-[24px] md:bg-[#0C2D32]
-sm:flex sm:py-[26px] sm:px-[25px] sm:flex-col sm:justify-between sm:items-start sm:gap-[138px] sm:h-full sm:rounded-[24px] sm:bg-[#0C2D32]
+ 2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[45px] 2xl:p-[90px_56px] 2xl:flex-[1_0_0] 2xl:bg-[#F3F4F2] rounded-[18px] 2xl:self-stretch
+ xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[45px] xl:p-[90px_56px] xl:flex-[1_0_0] xl:bg-[#F3F4F2] xl:self-stretch
+ lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[45px] lg:p-[90px_56px] lg:flex-[1_0_0] lg:bg-[#F3F4F2] lg:self-stretch
+ md:flex md:flex-col md:justify-center md:items-start md:gap-[45px] md:p-[90px_56px] md:flex-[1_0_0] md:bg-[#F3F4F2] md:self-stretch
+ sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[45px] sm:p-[90px_56px] sm:flex-[1_0_0] sm:bg-[#F3F4F2]  sm:self-stretch
+ ">
+ 
+
+
+ <div className="
+ 2xl:flex 2xl:h-[322.397px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch 2xl:rounded-[10px] 2xl:bg-[#F3F4F2] 2xl:bg-center
+ xl:flex xl:h-[322.397px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:self-stretch xl:rounded-[10px] xl:bg-[#F3F4F2] xl:bg-center
+ lg:flex lg:h-[322.397px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:self-stretch lg:rounded-[10px] lg:bg-[#F3F4F2] lg:bg-center
+ md:flex md:h-[322.397px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:self-stretch md:rounded-[10px] md:bg-[#F3F4F2] md:bg-center
+ sm:flex sm:h-[322.397px] sm:p-[20px] sm:flex-col sm:items-start sm:gap-[10px] sm:self-stretch sm:rounded-[10px] sm:bg-[#F3F4F2] sm:bg-center
+ ">
+  <img src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753026566/Frame_1000004893_hsep5j.png" alt="Visual" className="
+ w-full h-full object-contain rounded-[24px]
+  " 
+  
+  
+  />
+</div>
+
+
+
+<div className="
+2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch
+xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:self-stretch
+lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:self-stretch
+md:flex md:flex-col md:items-start md:gap-[10px] md:self-stretch
+sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:self-stretch
+">
+
+<h2 className="
+2xl:self-stretch 2xl:text-[#001D21] 2xl:font-medium 2xl:text-[24px] 2xl:leading-[33px] 2xl:tracking-[-0.72px] font-sans 
+xl:self-stretch xl:text-[#001D21] xl:font-medium xl:text-[24px] xl:leading-[33px] xl:tracking-[-0.72px]
+lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[24px] lg:leading-[33px] lg:tracking-[-0.72px]
+md:self-stretch md:text-[#001D21] md:font-medium md:text-[24px] md:leading-[33px] md:tracking-[-0.72px]
+sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[24px] sm:leading-[33px] sm:tracking-[-0.72px]
+">
+Built to Fit Right In
+</h2>
+
+<p className="
+2xl:self-stretch 2xl:text-[24px] 2xl:leading-[32px] 2xl:font-medium 2xl:text-[rgba(17,17,17,0.6)] 2xl:tracking-[-0.72px] font-sans
+xl:self-stretch xl:text-[24px] xl:leading-[32px] xl:font-medium xl:text-[rgba(17,17,17,0.6)] xl:tracking-[-0.72px]
+lg:self-stretch lg:text-[24px] lg:leading-[32px] lg:font-medium lg:text-[rgba(17,17,17,0.6)] lg:tracking-[-0.72px]
+md:self-stretch md:text-[24px] md:leading-[32px] md:font-medium md:text-[rgba(17,17,17,0.6)] md:tracking-[-0.72px]
+sm:self-stretch sm:text-[24px] sm:leading-[32px] sm:font-medium sm:text-[rgba(17,17,17,0.6)] sm:tracking-[-0.72px]
+">
+Manage and activate integrations in one place with our intuitive interface—no code or hassle required.</p>
+
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+*/}
+
+
+
+
+<div className="
+2xl:flex 2xl:py-[26px] 2xl:px-[25px] 2xl:flex-col 2xl:justify-start 2xl:items-start 2xl:gap-[138px]  2xl:flex-[1_0_0] 2xl:self-stretch 2xl:rounded-[24px] 2xl:bg-[#0C2D32]
+xl:flex xl:py-[26px] xl:px-[25px] xl:flex-col xl:justify-start xl:items-start xl:gap-[138px] xl:rounded-[24px] xl:bg-[#0C2D32]      xl:flex-[1_0_0] xl:self-stretch
+lg:flex lg:py-[26px] lg:px-[25px] lg:flex-col lg:justify-start lg:items-start lg:gap-[138px]  lg:rounded-[24px] lg:bg-[#0C2D32]      lg:flex-[1_0_0] lg:self-stretch
+md:flex md:py-[26px] md:px-[25px] md:flex-col md:justify-start md:items-start md:gap-[138px]  md:rounded-[24px] md:bg-[#0C2D32]   md:flex-[1_0_0]   md:self-stretch
+sm:flex sm:py-[26px] sm:px-[25px] sm:flex-col sm:justify-start sm:items-start sm:gap-[138px]  sm:rounded-[24px] sm:bg-[#0C2D32]  sm:flex-[1_0_0] sm:self-stretch
 ">
   
 
@@ -173,11 +244,11 @@ A tech transformation strategy helps organizations embrace digital innovation by
 
 {/* 2nd div card */}
 <div className="
-2xl:flex 2xl:py-[26px] 2xl:px-[25px] 2xl:flex-col 2xl:justify-between 2xl:items-start 2xl:gap-[138px] 2xl:h-full 2xl:rounded-[24px] 2xl:bg-[#0C2D32]
-xl:flex xl:py-[26px] xl:px-[25px] xl:flex-col xl:justify-between xl:items-start xl:gap-[138px] xl:h-full xl:rounded-[24px] xl:bg-[#0C2D32]
-lg:flex lg:py-[26px] lg:px-[25px] lg:flex-col lg:justify-between lg:items-start lg:gap-[138px] lg:h-full lg:rounded-[24px] lg:bg-[#0C2D32]
-md:flex md:py-[26px] md:px-[25px] md:flex-col md:justify-between md:items-start md:gap-[138px] md:h-full md:rounded-[24px] md:bg-[#0C2D32]
-sm:flex sm:py-[26px] sm:px-[25px] sm:flex-col sm:justify-between sm:items-start sm:gap-[138px] sm:h-full sm:rounded-[24px] sm:bg-[#0C2D32]
+2xl:flex 2xl:py-[26px] 2xl:px-[25px] 2xl:flex-col 2xl:justify-start 2xl:items-start 2xl:gap-[138px] 2xl:rounded-[24px] 2xl:bg-[#0C2D32]  2xl:flex-[1_0_0] 2xl:self-stretch
+xl:flex xl:py-[26px] xl:px-[25px] xl:flex-col xl:justify-start xl:items-start xl:gap-[138px]  xl:rounded-[24px] xl:bg-[#0C2D32]  xl:flex-[1_0_0] xl:self-stretch
+lg:flex lg:py-[26px] lg:px-[25px] lg:flex-col lg:justify-start lg:items-start lg:gap-[138px]  lg:rounded-[24px] lg:bg-[#0C2D32]  lg:flex-[1_0_0] lg:self-stretch
+md:flex md:py-[26px] md:px-[25px] md:flex-col md:justify-start md:items-start md:gap-[138px]  md:rounded-[24px] md:bg-[#0C2D32] md:flex-[1_0_0] md:self-stretch
+sm:flex sm:py-[26px] sm:px-[25px] sm:flex-col sm:justify-start sm:items-start sm:gap-[138px]  sm:rounded-[24px] sm:bg-[#0C2D32] sm:flex-[1_0_0] sm:self-stretch
 ">
   
 
@@ -256,11 +327,11 @@ Bring your ideas to life with our custom website, mobile app, and web app develo
 
 */}
 <div className="
-2xl:flex 2xl:py-[26px] 2xl:px-[25px] 2xl:flex-col 2xl:justify-between 2xl:items-start 2xl:gap-[138px] 2xl:h-full 2xl:rounded-[24px] 2xl:bg-[#0C2D32]
-xl:flex xl:py-[26px] xl:px-[25px] xl:flex-col xl:justify-between xl:items-start xl:gap-[138px] xl:h-full xl:rounded-[24px] xl:bg-[#0C2D32]
-lg:flex lg:py-[26px] lg:px-[25px] lg:flex-col lg:justify-between lg:items-start lg:gap-[138px] lg:h-full lg:rounded-[24px] lg:bg-[#0C2D32]
-md:flex md:py-[26px] md:px-[25px] md:flex-col md:justify-between md:items-start md:gap-[138px] md:h-full md:rounded-[24px] md:bg-[#0C2D32]
-sm:flex sm:py-[26px] sm:px-[25px] sm:flex-col sm:justify-between sm:items-start sm:gap-[138px] sm:h-full sm:rounded-[24px] sm:bg-[#0C2D32]
+2xl:flex 2xl:py-[26px] 2xl:px-[25px] 2xl:flex-col 2xl:justify-start 2xl:items-start 2xl:gap-[138px]  2xl:rounded-[24px] 2xl:bg-[#0C2D32]   2xl:flex-[1_0_0] 2xl:self-stretch
+xl:flex xl:py-[26px] xl:px-[25px] xl:flex-col xl:justify-start xl:items-start xl:gap-[138px] xl:rounded-[24px] xl:bg-[#0C2D32] xl:flex-[1_0_0] xl:self-stretch
+lg:flex lg:py-[26px] lg:px-[25px] lg:flex-col lg:justify-start lg:items-start lg:gap-[138px]  lg:rounded-[24px] lg:bg-[#0C2D32]   lg:flex-[1_0_0] lg:self-stretch
+md:flex md:py-[26px] md:px-[25px] md:flex-col md:justify-start md:items-start md:gap-[138px]  md:rounded-[24px] md:bg-[#0C2D32]  md:flex-[1_0_0] md:self-stretch
+sm:flex sm:py-[26px] sm:px-[25px] sm:flex-col sm:justify-start sm:items-start sm:gap-[138px]  sm:rounded-[24px] sm:bg-[#0C2D32]  sm:flex-[1_0_0] sm:self-stretch 
 ">
   
 
@@ -289,7 +360,7 @@ sm:flex sm:py-[8px] sm:px-[15px] sm:justify-center sm:items-center sm:gap-[10px]
 
 {/* bottom div */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:items-start 2xl:self-stretch
+2xl:flex 2xl:flex-col 2xl:items-start 2xl:self-stretch 
 xl:flex xl:flex-col xl:items-start xl:self-stretch
 lg:flex lg:flex-col lg:items-start lg:self-stretch
 md:flex md:flex-col md:items-start md:self-stretch

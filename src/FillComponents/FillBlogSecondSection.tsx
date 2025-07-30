@@ -75,7 +75,7 @@ Stay informed with the latest health and wellness insights from our experts.
 
   {/* bottom 6 divs holding div */}
   <div className="
- 2xl:flex 2xl:items-start 2xl:content-start 2xl:gap-[30px] 2xl:self-stretch 2xl:flex-wrap
+ 2xl:flex 2xl:items-start  2xl:justify-center   2xl:content-start 2xl:gap-[30px] 2xl:self-stretch 2xl:flex-wrap
  xl:flex xl:items-start xl:content-start xl:gap-[75px] xl:self-stretch xl:flex-wrap
  lg:flex  lg:justify-center lg:items-center lg:content-center  lg:gap-[50px] lg:self-stretch lg:flex-wrap
  md:flex  md:justify-center md:items-center md:content-center  md:gap-[50px] md:self-stretch md:flex-wrap

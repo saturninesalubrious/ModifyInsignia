@@ -85,22 +85,22 @@ Explore the standout capabilities that drive exceptional results—designed to s
 
 {/* 2 divs holding div */}
 <div className="
- 2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[40px] 2xl:flex-[1_0_0]
-  xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[40px] xl:flex-[1_0_0]
-  lg:flex lg:flex-row lg:items-start lg:gap-[40px] lg:self-stretch
-  md:flex md:flex-row md:items-start md:gap-[40px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[40px] sm:self-stretch
+ 2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[40px] 2xl:flex-[1_0_0] 2xl:self-stretch
+  xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[40px] xl:flex-[1_0_0] xl:self-stretch
+  lg:flex lg:flex-row lg:items-start lg:gap-[40px]  lg:flex-[1_0_0] lg:self-stretch
+  md:flex md:flex-row md:items-start md:gap-[40px] md:self-stretch  md:flex-[1_0_0] 
+  sm:flex sm:flex-col sm:items-start sm:gap-[40px] sm:self-stretch sm:flex-[1_0_0] 
  ">
  
 
 
  {/* 1st div */}
  <div className="
- 2xl:flex 2xl:p-[26px_20px] 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:self-stretch 2xl:rounded-[20px] 2xl:bg-[#0C2D32]
- xl:flex xl:p-[26px_20px] xl:flex-col xl:items-start xl:gap-[50px] xl:self-stretch xl:rounded-[20px] xl:bg-[#0C2D32]
- lg:flex lg:p-[26px_20px] lg:flex-col lg:items-start lg:gap-[50px] lg:self-stretch lg:rounded-[20px] lg:bg-[#0C2D32]
- md:flex md:p-[26px_20px] md:flex-col md:items-start md:gap-[50px] md:self-stretch md:rounded-[20px] md:bg-[#0C2D32]
- sm:flex sm:p-[26px_20px] sm:flex-col sm:items-start sm:gap-[50px] sm:self-stretch sm:rounded-[20px] sm:bg-[#0C2D32]
+ 2xl:flex 2xl:p-[26px_20px] 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:self-stretch  2xl:flex-[1_0_0]   2xl:rounded-[20px] 2xl:bg-[#0C2D32]  justify-start
+ xl:flex xl:p-[26px_20px] xl:flex-col xl:items-start xl:gap-[50px] xl:self-stretch xl:rounded-[20px] xl:bg-[#0C2D32]   xl:flex-[1_0_0] 
+ lg:flex lg:p-[26px_20px] lg:flex-col lg:items-start lg:gap-[50px] lg:self-stretch lg:rounded-[20px] lg:bg-[#0C2D32]   lg:flex-[1_0_0] 
+ md:flex md:p-[26px_20px] md:flex-col md:items-start md:gap-[50px] md:self-stretch md:rounded-[20px] md:bg-[#0C2D32]  md:flex-[1_0_0]
+ sm:flex sm:p-[26px_20px] sm:flex-col sm:items-start sm:gap-[50px] sm:self-stretch sm:rounded-[20px] sm:bg-[#0C2D32]  sm:flex-[1_0_0] 
  ">
 
 
@@ -188,11 +188,11 @@ Gain deep visibility into your system’s behavior with live performance dashboa
 
 {/* 2nd div */}
 <div className="
- 2xl:flex 2xl:p-[26px_20px] 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:self-stretch 2xl:rounded-[20px] 2xl:bg-[#0C2D32]
- xl:flex xl:p-[26px_20px] xl:flex-col xl:items-start xl:gap-[50px] xl:self-stretch xl:rounded-[20px] xl:bg-[#0C2D32]
- lg:flex lg:p-[26px_20px] lg:flex-col lg:items-start lg:gap-[50px] lg:self-stretch lg:rounded-[20px] lg:bg-[#0C2D32]
- md:flex md:p-[26px_20px] md:flex-col md:items-start md:gap-[50px] md:self-stretch md:rounded-[20px] md:bg-[#0C2D32]
- sm:flex sm:p-[26px_20px] sm:flex-col sm:items-start sm:gap-[50px] sm:self-stretch sm:rounded-[20px] sm:bg-[#0C2D32]
+ 2xl:flex 2xl:p-[26px_20px] 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:self-stretch 2xl:rounded-[20px] 2xl:bg-[#0C2D32]  2xl:flex-[1_0_0]  justify-start
+ xl:flex xl:p-[26px_20px] xl:flex-col xl:items-start xl:gap-[50px] xl:self-stretch xl:rounded-[20px] xl:bg-[#0C2D32]  xl:flex-[1_0_0] 
+ lg:flex lg:p-[26px_20px] lg:flex-col lg:items-start lg:gap-[50px] lg:self-stretch lg:rounded-[20px] lg:bg-[#0C2D32]  lg:flex-[1_0_0] 
+ md:flex md:p-[26px_20px] md:flex-col md:items-start md:gap-[50px] md:self-stretch md:rounded-[20px] md:bg-[#0C2D32] md:flex-[1_0_0]
+ sm:flex sm:p-[26px_20px] sm:flex-col sm:items-start sm:gap-[50px] sm:self-stretch sm:rounded-[20px] sm:bg-[#0C2D32] sm:flex-[1_0_0]
  ">
 
 
@@ -308,22 +308,22 @@ sm:flex sm:justify-center sm:items-center sm:gap-[10px] sm:flex-1 sm:self-stretc
 
 {/* 2 divs holding div */}
 <div className="
- 2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[40px] 2xl:flex-[1_0_0]
-  xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[40px] xl:flex-[1_0_0]
-  lg:flex lg:flex-row lg:items-start lg:gap-[40px] lg:self-stretch
-  md:flex md:flex-row md:items-start md:gap-[40px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[40px] sm:self-stretch
+ 2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[40px] 2xl:flex-[1_0_0] 2xl:self-stretch 
+  xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[40px] xl:flex-[1_0_0] xl:self-stretch
+  lg:flex lg:flex-row lg:items-start lg:gap-[40px] lg:self-stretch lg:flex-[1_0_0]
+  md:flex md:flex-row md:items-start md:gap-[40px] md:self-stretch md:flex-[1_0_0]
+  sm:flex sm:flex-col sm:items-start sm:gap-[40px] sm:self-stretch sm:flex-[1_0_0]
  ">
  
 
 
  {/* 1st div */}
  <div className="
- 2xl:flex 2xl:p-[26px_20px] 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:self-stretch 2xl:rounded-[20px] 2xl:bg-[#0C2D32]
- xl:flex xl:p-[26px_20px] xl:flex-col xl:items-start xl:gap-[50px] xl:self-stretch xl:rounded-[20px] xl:bg-[#0C2D32]
- lg:flex lg:p-[26px_20px] lg:flex-col lg:items-start lg:gap-[50px] lg:self-stretch lg:rounded-[20px] lg:bg-[#0C2D32]
- md:flex md:p-[26px_20px] md:flex-col md:items-start md:gap-[50px] md:self-stretch md:rounded-[20px] md:bg-[#0C2D32]
- sm:flex sm:p-[26px_20px] sm:flex-col sm:items-start sm:gap-[50px] sm:self-stretch sm:rounded-[20px] sm:bg-[#0C2D32]
+ 2xl:flex 2xl:p-[26px_20px] 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:self-stretch 2xl:rounded-[20px] 2xl:bg-[#0C2D32] 2xl:flex-[1_0_0]  justify-start
+ xl:flex xl:p-[26px_20px] xl:flex-col xl:items-start xl:gap-[50px] xl:self-stretch xl:rounded-[20px] xl:bg-[#0C2D32] xl:flex-[1_0_0]
+ lg:flex lg:p-[26px_20px] lg:flex-col lg:items-start lg:gap-[50px] lg:self-stretch lg:rounded-[20px] lg:bg-[#0C2D32] lg:flex-[1_0_0] 
+ md:flex md:p-[26px_20px] md:flex-col md:items-start md:gap-[50px] md:self-stretch md:rounded-[20px] md:bg-[#0C2D32]  md:flex-[1_0_0]
+ sm:flex sm:p-[26px_20px] sm:flex-col sm:items-start sm:gap-[50px] sm:self-stretch sm:rounded-[20px] sm:bg-[#0C2D32]  sm:flex-[1_0_0]
  ">
 
 
@@ -411,11 +411,11 @@ Streamline complex dev processes with fully customizable automation pipelines an
 
 {/* 2nd div */}
 <div className="
- 2xl:flex 2xl:p-[26px_20px] 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:self-stretch 2xl:rounded-[20px] 2xl:bg-[#0C2D32]
- xl:flex xl:p-[26px_20px] xl:flex-col xl:items-start xl:gap-[50px] xl:self-stretch xl:rounded-[20px] xl:bg-[#0C2D32]
- lg:flex lg:p-[26px_20px] lg:flex-col lg:items-start lg:gap-[50px] lg:self-stretch lg:rounded-[20px] lg:bg-[#0C2D32]
- md:flex md:p-[26px_20px] md:flex-col md:items-start md:gap-[50px] md:self-stretch md:rounded-[20px] md:bg-[#0C2D32]
- sm:flex sm:p-[26px_20px] sm:flex-col sm:items-start sm:gap-[50px] sm:self-stretch sm:rounded-[20px] sm:bg-[#0C2D32]
+ 2xl:flex 2xl:p-[26px_20px] 2xl:flex-col 2xl:items-start 2xl:gap-[50px] 2xl:self-stretch 2xl:rounded-[20px] 2xl:bg-[#0C2D32] 2xl:flex-[1_0_0] justify-start
+ xl:flex xl:p-[26px_20px] xl:flex-col xl:items-start xl:gap-[50px] xl:self-stretch xl:rounded-[20px] xl:bg-[#0C2D32] xl:flex-[1_0_0]
+ lg:flex lg:p-[26px_20px] lg:flex-col lg:items-start lg:gap-[50px] lg:self-stretch lg:rounded-[20px] lg:bg-[#0C2D32] lg:flex-[1_0_0]
+ md:flex md:p-[26px_20px] md:flex-col md:items-start md:gap-[50px] md:self-stretch md:rounded-[20px] md:bg-[#0C2D32] md:flex-[1_0_0]
+ sm:flex sm:p-[26px_20px] sm:flex-col sm:items-start sm:gap-[50px] sm:self-stretch sm:rounded-[20px] sm:bg-[#0C2D32] sm:flex-[1_0_0]
  ">
 
 

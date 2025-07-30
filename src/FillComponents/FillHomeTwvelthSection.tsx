@@ -87,21 +87,21 @@ Stay informed with the latest health and wellness insights from our experts.
 
 {/* 1st div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:w-[425.333px]  2xl:self-stretch   2xl:items-start 2xl:gap-[25px] 
-xl:flex xl:flex-col  xl:w-[537.5px]   xl:self-stretch   xl:items-start xl:gap-[25px] 
-lg:flex lg:flex-col  lg:w-[422px]   lg:items-start lg:gap-[25px]
-md:flex md:flex-col md:items-start md:gap-[25px]  md:w-full
-sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:w-full
+2xl:flex 2xl:flex-col    2xl:flex-[1_0_0] 2xl:self-stretch  2xl:items-start 2xl:gap-[25px] 
+xl:flex xl:flex-col    xl:flex-[1_0_0]   xl:self-stretch   xl:items-start xl:gap-[25px] 
+lg:flex lg:flex-col   lg:flex-[1_0_0] lg:self-stretch    lg:items-start lg:gap-[25px]
+md:flex md:flex-col md:items-start md:gap-[25px]  md:self-stretch  md:flex-[1_0_0]
+sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:self-stretch  sm:flex-[1_0_0]
 ">
   
 
 {/* image holding div */}
 <div className="
-2xl:h-[331px] 2xl:flex-shrink-0 2xl:self-stretch 2xl:rounded-[14px] 2xl:relative 2xl:overflow-hidden 2xl:bg-cover 2xl:bg-no-repeat 2xl:bg-center 2xl:bg-[url('https://your-image-url.com/image.png')]
-xl:h-[331px] xl:flex-shrink-0 xl:self-stretch xl:rounded-[14px] xl:relative xl:overflow-hidden xl:bg-cover xl:bg-no-repeat xl:bg-center xl:bg-[url('https://your-image-url.com/image.png')]
-lg:h-[500px] lg:flex-shrink-0 lg:self-stretch lg:rounded-[14px] lg:relative lg:overflow-hidden lg:bg-cover lg:bg-no-repeat lg:bg-center lg:bg-[url('https://your-image-url.com/image.png')]
-md:h-[500px] md:flex-shrink-0 md:self-stretch md:rounded-[14px] md:relative md:overflow-hidden md:bg-cover md:bg-no-repeat md:bg-center md:bg-[url('https://your-image-url.com/image.png')]
-sm:h-[350px] sm:flex-shrink-0 sm:self-stretch sm:rounded-[14px] sm:relative sm:overflow-hidden sm:bg-cover sm:bg-no-repeat sm:bg-center sm:bg-[url('https://your-image-url.com/image.png')]
+2xl:h-[331px]  2xl:self-stretch 2xl:rounded-[14px] 2xl:relative 2xl:overflow-hidden 2xl:bg-cover 2xl:bg-no-repeat 2xl:bg-center 2xl:bg-[url('https://your-image-url.com/image.png')]
+xl:h-[331px]  xl:self-stretch xl:rounded-[14px] xl:relative xl:overflow-hidden xl:bg-cover xl:bg-no-repeat xl:bg-center xl:bg-[url('https://your-image-url.com/image.png')]
+lg:h-[500px]  lg:self-stretch lg:rounded-[14px] lg:relative lg:overflow-hidden lg:bg-cover lg:bg-no-repeat lg:bg-center lg:bg-[url('https://your-image-url.com/image.png')]
+md:h-[500px]  md:self-stretch md:rounded-[14px] md:relative md:overflow-hidden md:bg-cover md:bg-no-repeat md:bg-center md:bg-[url('https://your-image-url.com/image.png')]
+sm:h-[350px]  sm:self-stretch sm:rounded-[14px] sm:relative sm:overflow-hidden sm:bg-cover sm:bg-no-repeat sm:bg-center sm:bg-[url('https://your-image-url.com/image.png')]
 ">
   <img 
     src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752988675/Depositphotos_744752180_XL_dyjeic.png" 
@@ -199,11 +199,11 @@ Discover how modern businesses are reducing operational costs and increasing agi
 
 {/* 2nd div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:w-[425.333px]  2xl:self-stretch   2xl:items-start 2xl:gap-[25px] 
-xl:flex xl:flex-col  xl:w-[537.5px]   xl:self-stretch   xl:items-start xl:gap-[25px] 
-lg:flex lg:flex-col  lg:w-[422px]   lg:items-start lg:gap-[25px]
-md:flex md:flex-col md:items-start md:gap-[25px]  md:w-full
-sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:w-full
+2xl:flex 2xl:flex-col     2xl:items-start 2xl:gap-[25px]  flex-[1_0_0] 2xl:self-stretch
+xl:flex xl:flex-col    xl:self-stretch   xl:items-start xl:gap-[25px] 
+lg:flex lg:flex-col    lg:items-start lg:gap-[25px]  lg:self-stretch
+md:flex md:flex-col md:items-start md:gap-[25px]  md:self-stretch
+sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:self-stretch
 ">
   
 
@@ -314,11 +314,11 @@ Learn how the zero trust model is reshaping security frameworks to safeguard dig
 
 {/* 3rd div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:w-[425.333px]  2xl:self-stretch   2xl:items-start 2xl:gap-[25px] 
-xl:flex xl:flex-col  xl:w-[537.5px]   xl:self-stretch   xl:items-start xl:gap-[25px] 
-lg:flex lg:flex-col  lg:w-[422px]   lg:items-start lg:gap-[25px]
-md:flex md:flex-col md:items-start md:gap-[25px]  md:w-full
-sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:w-full
+2xl:flex 2xl:flex-col    2xl:items-start 2xl:gap-[25px]   flex-[1_0_0] 2xl:self-stretch
+xl:flex xl:flex-col     xl:self-stretch   xl:items-start xl:gap-[25px]   
+lg:flex lg:flex-col    lg:items-start lg:gap-[25px]   lg:self-stretch
+md:flex md:flex-col md:items-start md:gap-[25px]  md:self-stretch
+sm:flex sm:flex-col sm:items-start sm:gap-[25px]  sm:self-stretch
 ">
   
 
