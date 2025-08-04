@@ -1,764 +1,378 @@
 export default function FillFeaturesSecondSection () {
-
-
- return ( 
-  <>
-   
-
-   {/* main outer hero section div */}
-   <div className="
-   2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch 2xl:px-[100px] 2xl:py-[65px] 2xl:bg-[#ffff]
-   xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:p-[65px] xl:self-stretch xl:bg-[#ffff]
-   lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:p-[65px] lg:self-stretch lg:bg-[#ffff]
-   md:flex md:flex-col md:items-start md:gap-[10px] md:p-[65px] md:self-stretch md:bg-[#ffff]
-   sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:self-stretch sm:px-[40px] sm:py-[65px] sm:bg-[#ffff]">
-  
-
-
-
-
-
-  {/* content holding div */}
-  <div className="
-  2xl:flex 2xl:flex-col 2xl:items-center 2xl:gap-[80px] 2xl:self-stretch
-  xl:flex xl:flex-col xl:items-center xl:gap-[80px] xl:self-stretch
-  lg:flex lg:flex-col lg:items-center lg:gap-[80px] lg:self-stretch
-  md:flex md:flex-col md:items-center md:gap-[80px] md:self-stretch
-  sm:flex sm:flex-col sm:items-center sm:gap-[80px] sm:self-stretch
-  ">
-
-
-
- {/* top heading + sub-heading holding div 
- 
- md:flex md:flex-col md:items-center md:gap-[20px] md:self-stretch
-sm:flex sm:flex-col sm:items-center sm:gap-[20px] sm:self-stretch
- md:flex md:flex-col md:items-center md:gap-[20px] md:self-stretch md:w-full
-  sm:flex sm:flex-col sm:items-center sm:gap-[20px] sm:self-stretch sm:w-full
-
- */}
-<div className="
-  2xl:flex 2xl:w-[690px] 2xl:flex-col 2xl:items-center 2xl:gap-[20px]
-  xl:flex xl:w-[690px] xl:flex-col xl:items-center xl:gap-[20px]
-  lg:flex lg:w-[690px] lg:flex-col lg:items-center lg:gap-[20px]
-
-
-
-">
-
-
-<h1 className="
-2xl:self-stretch 2xl:text-[#001D21] 2xl:text-center 2xl:font-sans 2xl:text-[48px] 2xl:font-medium 2xl:leading-[59px] 2xl:tracking-[-1.44px]
-xl:self-stretch xl:text-[#001D21] xl:text-center xl:font-sans xl:text-[48px] xl:font-medium xl:leading-[59px] xl:tracking-[-1.44px]
-lg:self-stretch lg:text-[#001D21] lg:text-center lg:font-sans lg:text-[48px] lg:font-medium lg:leading-[59px] lg:tracking-[-1.44px]
-md:self-stretch md:text-[#001D21] md:text-center md:font-sans md:text-[48px] md:font-medium md:leading-[59px] md:tracking-[-1.44px]
-sm:self-stretch sm:text-[#001D21] sm:text-center sm:font-sans sm:text-[48px] sm:font-medium sm:leading-[59px] sm:tracking-[-1.44px]
-">
-What Powers Our Platform Excellence
-</h1>
-
-
-<p className="
-2xl:self-stretch 2xl:text-[rgba(0,29,33,0.65)] 2xl:text-center 2xl:font-inter 2xl:text-[14px] 2xl:font-medium 2xl:leading-[23px]
-xl:self-stretch xl:text-[rgba(0,29,33,0.65)] xl:text-center xl:font-inter xl:text-[14px] xl:font-medium xl:leading-[23px]
-lg:self-stretch lg:text-[rgba(0,29,33,0.65)] lg:text-center lg:font-inter lg:text-[14px] lg:font-medium lg:leading-[23px]
-md:self-stretch md:text-[rgba(0,29,33,0.65)] md:text-center md:font-inter md:text-[14px] md:font-medium md:leading-[23px]
-sm:self-stretch sm:text-[rgba(0,29,33,0.65)] sm:text-center sm:font-inter sm:text-[14px] sm:font-medium sm:leading-[23px]
-">
-Explore the technology stack, core functionalities, and intelligent systems that make our platform adaptive, scalable, and future-ready.
-</p>
-
-
-
-
-</div>
- {/* top heading + sub-heading holding div */}
-
-
-
-
-
- {/* bottom 6 divs holding div */}
- <div className="
- 2xl:flex 2xl:items-start 2xl:content-start 2xl:gap-[68px] 2xl:self-stretch 2xl:flex-wrap
- xl:flex xl:items-start xl:content-start xl:gap-[80px] xl:self-stretch xl:flex-wrap
- lg:flex  lg:justify-center lg:items-center lg:content-center  lg:gap-[104px] lg:self-stretch lg:flex-wrap
- md:flex  md:justify-center md:items-center md:content-center  md:gap-[88px] md:self-stretch md:flex-wrap
- sm:flex  sm:justify-center sm:items-center sm:content-center  sm:gap-[60px] sm:self-stretch sm:flex-wrap
-">
-
- {/* mini div */}
- <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]  self-stretch
- xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
- lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
- md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
- sm:flex sm:w-[250px] sm:p-[20px] sm:flex-col sm:items-start sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[14px]
- ">
-
-
-
- {/* main internal div content here */}
- <div className="
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[25px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:self-stretch
-  ">
-  
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  2xl:bg-[#001D21]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border  xl:bg-[#001D21]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border  lg:bg-[#001D21]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border  md:bg-[#001D21]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border sm:bg-[#001D21]
- ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753041259/Vector_10_co3ic6.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-
-
-{/* bottom div */}
-<div className="
-2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch
-xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[10px] xl:self-stretch
-lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[10px] lg:self-stretch
-md:flex md:flex-col md:justify-center md:items-start md:gap-[10px] md:self-stretch
-sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[10px] sm:self-stretch
-">
-
-<h2 className="
-2xl:self-stretch 2xl:text-[#001D21] 2xl:font-medium 2xl:text-[20px] 2xl:leading-[27px] 2xl:tracking-[-0.6px] 2xl:font-sans
-xl:self-stretch xl:text-[#001D21] xl:font-medium xl:text-[20px] xl:leading-[27px] xl:tracking-[-0.6px]xl:font-sans
-lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px] lg:tracking-[-0.6px] lg:font-sans
-md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
-sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
-">
-Real-time analytics
-</h2>
-
-<p className="
-2xl:self-stretch 2xl:text-[#4E4E4E] 2xl:text-[16px] 2xl:leading-[23px] 2xl:font-[450] 2xl:font-sans
-xl:self-stretch xl:text-[#4E4E4E] xl:text-[16px] xl:leading-[23px] xl:font-[450] xl:font-sans
-lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450] lg:font-sans
-md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
-sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
-">
-Harness real-time data and insights to make sharper, faster business decisions.
-</p>
-
-
- 
-</div>
-{/* bottom div */}
-
-
-</div>
- {/* main internal div content here */}
-
-
-
-
-
-</div>
-
- {/* mini div */} 
-
-
-
-
- {/* mini div */}
- <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]  self-stretch
- xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
- lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
- md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
- sm:flex sm:w-[250px] sm:p-[20px] sm:flex-col sm:items-start sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[14px]
- ">
-
-
-
- {/* main internal div content here */}
- <div className="
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[25px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:self-stretch
-  ">
-  
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  2xl:bg-[#001D21]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border  xl:bg-[#001D21]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border  lg:bg-[#001D21]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border  md:bg-[#001D21]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border sm:bg-[#001D21]
- ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006098/Vector_2_x5e4bj.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-
-
-{/* bottom div */}
-<div className="
-2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch
-xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[10px] xl:self-stretch
-lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[10px] lg:self-stretch
-md:flex md:flex-col md:justify-center md:items-start md:gap-[10px] md:self-stretch
-sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[10px] sm:self-stretch
-">
-
-<h2 className="
-2xl:self-stretch 2xl:text-[#001D21] 2xl:font-medium 2xl:text-[20px] 2xl:leading-[27px] 2xl:tracking-[-0.6px] 2xl:font-sans
-xl:self-stretch xl:text-[#001D21] xl:font-medium xl:text-[20px] xl:leading-[27px] xl:tracking-[-0.6px]xl:font-sans
-lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px] lg:tracking-[-0.6px] lg:font-sans
-md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
-sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
-">
-Modular Architecture
-</h2>
-
-<p className="
-2xl:self-stretch 2xl:text-[#4E4E4E] 2xl:text-[16px] 2xl:leading-[23px] 2xl:font-[450] 2xl:font-sans
-xl:self-stretch xl:text-[#4E4E4E] xl:text-[16px] xl:leading-[23px] xl:font-[450] xl:font-sans
-lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450] lg:font-sans
-md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
-sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
-">
-Build only what you need with plug-and-play components—fully scalable.
-</p>
-
-
- 
-</div>
-{/* bottom div */}
-
-
-</div>
- {/* main internal div content here */}
-
-
-
-
-
-</div>
- {/* mini div */} 
-
-
-
-
-
-
- {/* mini div */}
- <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]  self-stretch
- xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
- lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
- md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
- sm:flex sm:w-[250px] sm:p-[20px] sm:flex-col sm:items-start sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[14px]
- ">
-
-
-
- {/* main internal div content here */}
- <div className="
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[25px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:self-stretch
-  ">
-  
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  2xl:bg-[#001D21]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border  xl:bg-[#001D21]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border  lg:bg-[#001D21]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border  md:bg-[#001D21]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border sm:bg-[#001D21]
- ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006109/Vector_3_xgj80p.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-
-
-{/* bottom div */}
-<div className="
-2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch
-xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[10px] xl:self-stretch
-lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[10px] lg:self-stretch
-md:flex md:flex-col md:justify-center md:items-start md:gap-[10px] md:self-stretch
-sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[10px] sm:self-stretch
-">
-
-<h2 className="
-2xl:self-stretch 2xl:text-[#001D21] 2xl:font-medium 2xl:text-[20px] 2xl:leading-[27px] 2xl:tracking-[-0.6px] 2xl:font-sans
-xl:self-stretch xl:text-[#001D21] xl:font-medium xl:text-[20px] xl:leading-[27px] xl:tracking-[-0.6px]xl:font-sans
-lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px] lg:tracking-[-0.6px] lg:font-sans
-md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
-sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
-">
-Mobile-First Experience
-</h2>
-
-<p className="
-2xl:self-stretch 2xl:text-[#4E4E4E] 2xl:text-[16px] 2xl:leading-[23px] 2xl:font-[450] 2xl:font-sans
-xl:self-stretch xl:text-[#4E4E4E] xl:text-[16px] xl:leading-[23px] xl:font-[450] xl:font-sans
-lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450] lg:font-sans
-md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
-sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
-">
-Access, manage, and optimize operations on the go with robust system.
-</p>
-
-
- 
-</div>
-{/* bottom div */}
-
-
-</div>
- {/* main internal div content here */}
-
-
-
-
-
-</div>
- {/* mini div */} 
-
-
-
-
-
-
- {/* mini div */}
- <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]  self-stretch
- xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
- lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
- md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
- sm:flex sm:w-[250px] sm:p-[20px] sm:flex-col sm:items-start sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[14px]
- ">
-
-
-
- {/* main internal div content here */}
- <div className="
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[25px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:self-stretch
-  ">
-  
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  2xl:bg-[#001D21]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border  xl:bg-[#001D21]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border  lg:bg-[#001D21]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border  md:bg-[#001D21]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border sm:bg-[#001D21]
- ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006123/material-symbols_enterprise_jjguen.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-
-
-{/* bottom div */}
-<div className="
-2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch
-xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[10px] xl:self-stretch
-lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[10px] lg:self-stretch
-md:flex md:flex-col md:justify-center md:items-start md:gap-[10px] md:self-stretch
-sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[10px] sm:self-stretch
-">
-
-<h2 className="
-2xl:self-stretch 2xl:text-[#001D21] 2xl:font-medium 2xl:text-[20px] 2xl:leading-[27px] 2xl:tracking-[-0.6px] 2xl:font-sans
-xl:self-stretch xl:text-[#001D21] xl:font-medium xl:text-[20px] xl:leading-[27px] xl:tracking-[-0.6px]xl:font-sans
-lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px] lg:tracking-[-0.6px] lg:font-sans
-md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
-sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
-">
-Enterprise-Grade Security
-</h2>
-
-<p className="
-2xl:self-stretch 2xl:text-[#4E4E4E] 2xl:text-[16px] 2xl:leading-[23px] 2xl:font-[450] 2xl:font-sans
-xl:self-stretch xl:text-[#4E4E4E] xl:text-[16px] xl:leading-[23px] xl:font-[450] xl:font-sans
-lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450] lg:font-sans
-md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
-sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
-">
-We bake in encryption, authentication, and compliance from the ground up.
-</p>
-
-
- 
-</div>
-{/* bottom div */}
-
-
-</div>
- {/* main internal div content here */}
-
-
-
-
-
-</div>
- {/* mini div */} 
-
-
-
-
-
-
- {/* mini div */}
- <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px]   self-stretch
- xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
- lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
- md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
- sm:flex sm:w-[250px] sm:p-[20px] sm:flex-col sm:items-start sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[14px]
- ">
-
-
-
- {/* main internal div content here */}
- <div className="
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[25px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:self-stretch
-  ">
-  
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  2xl:bg-[#001D21]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border  xl:bg-[#001D21]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border  lg:bg-[#001D21]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border  md:bg-[#001D21]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border sm:bg-[#001D21]
- ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006130/material-symbols_automation_j49f2v.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-
-
-{/* bottom div */}
-<div className="
-2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch
-xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[10px] xl:self-stretch
-lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[10px] lg:self-stretch
-md:flex md:flex-col md:justify-center md:items-start md:gap-[10px] md:self-stretch
-sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[10px] sm:self-stretch
-">
-
-<h2 className="
-2xl:self-stretch 2xl:text-[#001D21] 2xl:font-medium 2xl:text-[20px] 2xl:leading-[27px] 2xl:tracking-[-0.6px] 2xl:font-sans
-xl:self-stretch xl:text-[#001D21] xl:font-medium xl:text-[20px] xl:leading-[27px] xl:tracking-[-0.6px]xl:font-sans
-lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px] lg:tracking-[-0.6px] lg:font-sans
-md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
-sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
-">
-Smart Automation
-</h2>
-
-<p className="
-2xl:self-stretch 2xl:text-[#4E4E4E] 2xl:text-[16px] 2xl:leading-[23px] 2xl:font-[450] 2xl:font-sans
-xl:self-stretch xl:text-[#4E4E4E] xl:text-[16px] xl:leading-[23px] xl:font-[450] xl:font-sans
-lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450] lg:font-sans
-md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
-sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
-">
-Automate your repetitive workflows and focus on what matters.
-</p>
-
-
- 
-</div>
-{/* bottom div */}
-
-
-</div>
- {/* main internal div content here */}
-
-
-
-
-
-</div>
- {/* mini div */} 
-
-
-
-
-
-
- {/* mini div */}
- <div className="
- 2xl:flex 2xl:w-[400px] 2xl:p-[20px] 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:bg-[#F3F4F2] 2xl:rounded-[14px] self-stretch
- xl:flex xl:w-[330px] xl:p-[20px] xl:flex-col xl:items-start xl:gap-[10px] xl:bg-[#F3F4F2] xl:rounded-[14px]
- lg:flex lg:w-[395px] lg:p-[20px] lg:flex-col lg:items-start lg:gap-[10px] lg:bg-[#F3F4F2] lg:rounded-[14px]
- md:flex md:w-[275px] md:p-[20px] md:flex-col md:items-start md:gap-[10px] md:bg-[#F3F4F2] md:rounded-[14px]
- sm:flex sm:w-[250px] sm:p-[20px] sm:flex-col sm:items-start sm:gap-[10px] sm:bg-[#F3F4F2] sm:rounded-[14px]
- ">
-
-
-
- {/* main internal div content here */}
- <div className="
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[25px] 2xl:self-stretch
-  xl:flex xl:flex-col xl:items-start xl:gap-[25px] xl:self-stretch
-  lg:flex lg:flex-col lg:items-start lg:gap-[25px] lg:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[25px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[25px] sm:self-stretch
-  ">
-  
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[100px] 2xl:border  2xl:bg-[#001D21]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[100px] xl:border  xl:bg-[#001D21]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[100px] lg:border  lg:bg-[#001D21]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[100px] md:border  md:bg-[#001D21]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[100px] sm:border sm:bg-[#001D21]
- ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006139/Vector_4_koayas.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-
-
-{/* bottom div */}
-<div className="
-2xl:flex 2xl:flex-col 2xl:justify-center 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch
-xl:flex xl:flex-col xl:justify-center xl:items-start xl:gap-[10px] xl:self-stretch
-lg:flex lg:flex-col lg:justify-center lg:items-start lg:gap-[10px] lg:self-stretch
-md:flex md:flex-col md:justify-center md:items-start md:gap-[10px] md:self-stretch
-sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[10px] sm:self-stretch
-">
-
-<h2 className="
-2xl:self-stretch 2xl:text-[#001D21] 2xl:font-medium 2xl:text-[20px] 2xl:leading-[27px] 2xl:tracking-[-0.6px] 2xl:font-sans
-xl:self-stretch xl:text-[#001D21] xl:font-medium xl:text-[20px] xl:leading-[27px] xl:tracking-[-0.6px]xl:font-sans
-lg:self-stretch lg:text-[#001D21] lg:font-medium lg:text-[20px] lg:leading-[27px] lg:tracking-[-0.6px] lg:font-sans
-md:self-stretch md:text-[#001D21] md:font-medium md:text-[20px] md:leading-[27px] md:tracking-[-0.6px] md:font-sans
-sm:self-stretch sm:text-[#001D21] sm:font-medium sm:text-[20px] sm:leading-[27px] sm:tracking-[-0.6px] sm:font-sans
-">
-Seamless Integrations
-</h2>
-
-<p className="
-2xl:self-stretch 2xl:text-[#4E4E4E] 2xl:text-[16px] 2xl:leading-[23px] 2xl:font-[450] 2xl:font-sans
-xl:self-stretch xl:text-[#4E4E4E] xl:text-[16px] xl:leading-[23px] xl:font-[450] xl:font-sans
-lg:self-stretch lg:text-[#4E4E4E] lg:text-[16px] lg:leading-[23px] lg:font-[450] lg:font-sans
-md:self-stretch md:text-[#4E4E4E] md:text-[16px] md:leading-[23px] md:font-[450] md:font-sans
-sm:self-stretch sm:text-[#4E4E4E] sm:text-[16px] sm:leading-[23px] sm:font-[450] sm:font-sans
-">
-Works effortlessly with your existing tools, APIs, and third-party platforms.
-</p>
-
-
- 
-</div>
-{/* bottom div */}
-
-
-</div>
- {/* main internal div content here */}
-
-
-
-
-
-</div>
- {/* mini div */} 
-
-</div>
- {/* bottom 6 divs holding div */}
-
-
-
-
-
-  
-  </div>
-
-  {/* content holding div */}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   </div>
-   {/* main outer hero section div */}
-
-  
-  </>
-  )
- 
- }
+  return (
+    <>
+      {/* main outer hero section div */}
+      {/* Base styles apply for all screens, padding adjusts for larger ones */}
+      <div className="
+        flex flex-col items-start gap-[10px] self-stretch bg-[#ffff] /* Base styles for below sm and up */
+        px-[20px] py-[40px] /* Default padding for extra small screens */
+        sm:px-[40px] sm:py-[65px] /* Adjust padding for small screens */
+        md:p-[65px] /* Adjust padding for medium screens, py will be 65px as it cascades from sm */
+        lg:p-[65px] /* Adjust padding for large screens */
+        xl:p-[65px] /* Adjust padding for extra-large screens */
+        2xl:px-[100px] 2xl:py-[65px] /* Adjust padding for 2xl screens */
+      ">
+
+        {/* content holding div */}
+        {/* Default to column layout for small screens, change to row for xl and up. Constrain width for larger screens */}
+        <div className="
+          flex flex-col items-center gap-[80px] self-stretch w-full /* Base styles for below sm and up, default to full width */
+          lg:max-w-screen-xl lg:mx-auto /* Constrain width and center for large screens and up */
+          xl:max-w-screen-xl xl:mx-auto /* IMPORTANT: Constrain width and center for XL and 2XL */
+          2xl:max-w-screen-xl 2xl:mx-auto /* Ensures component does not stretch beyond XL */
+        ">
+
+          {/* top heading + sub-heading holding div */}
+          {/* Base flex, width, and centering for this div. Specific width for lg and up. */}
+          <div className="
+            flex flex-col items-center gap-[20px] w-full self-stretch mx-auto /* Base styles for below sm and up, centers the div itself */
+            lg:w-[690px] /* Set specific width for lg and up */
+          ">
+
+            <h1 className="
+              self-stretch text-[#001D21] text-center font-sans font-medium tracking-[-1.44px] /* Base text styles for all screens */
+              text-[36px] leading-[44px] /* Default smaller text size for extra small screens */
+              sm:text-[40px] sm:leading-[50px] /* Adjust text size for small screens */
+              md:text-[48px] md:leading-[59px] /* Adjust text size for medium screens and up */
+            ">
+              What Powers Our Platform Excellence
+            </h1>
+
+            <p className="
+              self-stretch text-[rgba(0,29,33,0.65)] text-center font-inter text-[14px] font-medium leading-[23px] /* Base styles for all screens */
+            ">
+              Explore the technology stack, core functionalities, and intelligent systems that make our platform adaptive, scalable, and future-ready.
+            </p>
+
+          </div>
+          {/* top heading + sub-heading holding div */}
+
+          {/* bottom 6 divs holding div (contains 6 mini-divs) */}
+          {/* This parent div manages wrapping, spacing, and centering for the cards */}
+          {/* IMPORTANT: items-stretch ensures all cards in a row have equal height */}
+          <div className="
+            flex flex-wrap justify-center items-stretch content-start /* Base properties for wrapping and starting alignment,  for equal height */
+            gap-[20px] self-stretch /* Default gap for extra small screens */
+            sm:gap-[30px] /* Adjust gap for small screens */
+            md:gap-[40px] /* Adjust gap for medium screens */
+            lg:gap-[104px] /* Adjust gap for large screens (for 2 cards per row) */
+            xl:gap-[80px] /* Adjust gap for extra-large screens (for 3 cards per row) */
+            2xl:gap-[68px] /* Adjust gap for 2xl screens (for 3 cards per row) */
+          ">
+
+            {/* mini div (card structure) - 1 of 6 */}
+            <div className="
+              flex flex-col items-start gap-[10px] bg-[#F3F4F2] rounded-[14px] p-[20px] /* Base card styling */
+              h-auto /* Allow height to adjust based on content */
+              w-full mx-auto flex-none /* Default full width for extra small screens, centers, and prevents grow/shrink */
+              sm:w-[250px] sm:mx-auto sm:flex-none /* Specific width and centering for small screens, prevents grow/shrink */
+              md:w-[275px] md:mx-auto md:flex-none /* Specific width and centering for medium screens, prevents grow/shrink */
+              lg:basis-[calc(50%-52px)] lg:grow lg:shrink lg:mx-0 /* Grow/shrink for lg, preferred basis for 2 cards per row, remove centering */
+              xl:basis-[calc(33.33%-53.33px)] xl:grow xl:shrink xl:mx-0 /* Grow/shrink for xl, preferred basis for 3 cards per row, remove centering */
+              2xl:basis-[calc(33.33%-45.33px)] 2xl:grow 2xl:shrink 2xl:mx-0 /* Grow/shrink for 2xl, preferred basis for 3 cards per row, remove centering */
+            ">
+              {/* main internal div content here */}
+              <div className="
+                flex flex-col items-start gap-[25px] self-stretch /* Base styles for all screens */
+              ">
+                {/*icon holding div */}
+                <div className="
+                  flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[100px] border bg-[#001D21] /* Base styles for all screens */
+                ">
+                  <div className="
+                    flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles for all screens */
+                  ">
+                    <img
+                      src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753041259/Vector_10_co3ic6.png"
+                      alt="Icon"
+                      className="w-full h-full object-contain" /* Base styles for all screens */
+                    />
+                  </div>
+                </div>
+                {/*icon holding div */}
+
+                {/* bottom div (text content) */}
+                <div className="
+                  flex flex-col justify-center items-start gap-[10px] self-stretch /* Base styles for all screens */
+                ">
+                  <h2 className="
+                    self-stretch text-[#001D21] font-medium text-[20px] leading-[27px] tracking-[-0.6px] font-sans /* Base styles for all screens */
+                  ">
+                    Real-time analytics
+                  </h2>
+                  <p className="
+                    self-stretch text-[#4E4E4E] text-[16px] leading-[23px] font-[450] font-sans /* Base styles for all screens */
+                  ">
+                    Harness real-time data and insights to make sharper, faster business decisions.
+                  </p>
+                </div>
+                {/* bottom div */}
+              </div>
+              {/* main internal div content here */}
+            </div>
+
+            {/* mini div (card structure) - 2 of 6 */}
+            <div className="
+              flex flex-col items-start gap-[10px] bg-[#F3F4F2] rounded-[14px] p-[20px] /* Base card styling */
+              h-auto /* Allow height to adjust based on content */
+              w-full mx-auto flex-none /* Default full width for extra small screens, centers, and prevents grow/shrink */
+              sm:w-[250px] sm:mx-auto sm:flex-none /* Specific width and centering for small screens, prevents grow/shrink */
+              md:w-[275px] md:mx-auto md:flex-none /* Specific width and centering for medium screens, prevents grow/shrink */
+              lg:basis-[calc(50%-52px)] lg:grow lg:shrink lg:mx-0 /* Grow/shrink for lg, preferred basis for 2 cards per row, remove centering */
+              xl:basis-[calc(33.33%-53.33px)] xl:grow xl:shrink xl:mx-0 /* Grow/shrink for xl, preferred basis for 3 cards per row, remove centering */
+              2xl:basis-[calc(33.33%-45.33px)] 2xl:grow 2xl:shrink 2xl:mx-0 /* Grow/shrink for 2xl, preferred basis for 3 cards per row, remove centering */
+            ">
+              {/* main internal div content here */}
+              <div className="
+                flex flex-col items-start gap-[25px] self-stretch /* Base styles for all screens */
+              ">
+                {/*icon holding div */}
+                <div className="
+                  flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[100px] border bg-[#001D21] /* Base styles for all screens */
+                ">
+                  <div className="
+                    flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles for all screens */
+                  ">
+                    <img
+                      src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006098/Vector_2_x5e4bj.png"
+                      alt="Icon"
+                      className="w-full h-full object-contain" /* Base styles for all screens */
+                    />
+                  </div>
+                </div>
+                {/*icon holding div */}
+
+                {/* bottom div (text content) */}
+                <div className="
+                  flex flex-col justify-center items-start gap-[10px] self-stretch /* Base styles for all screens */
+                ">
+                  <h2 className="
+                    self-stretch text-[#001D21] font-medium text-[20px] leading-[27px] tracking-[-0.6px] font-sans /* Base styles for all screens */
+                  ">
+                    Modular Architecture
+                  </h2>
+                  <p className="
+                    self-stretch text-[#4E4E4E] text-[16px] leading-[23px] font-[450] font-sans /* Base styles for all screens */
+                  ">
+                    Build only what you need with plug-and-play components—fully scalable.
+                  </p>
+                </div>
+                {/* bottom div */}
+              </div>
+              {/* main internal div content here */}
+            </div>
+
+            {/* mini div (card structure) - 3 of 6 */}
+            <div className="
+              flex flex-col items-start gap-[10px] bg-[#F3F4F2] rounded-[14px] p-[20px] /* Base card styling */
+              h-auto /* Allow height to adjust based on content */
+              w-full mx-auto flex-none /* Default full width for extra small screens, centers, and prevents grow/shrink */
+              sm:w-[250px] sm:mx-auto sm:flex-none /* Specific width and centering for small screens, prevents grow/shrink */
+              md:w-[275px] md:mx-auto md:flex-none /* Specific width and centering for medium screens, prevents grow/shrink */
+              lg:basis-[calc(50%-52px)] lg:grow lg:shrink lg:mx-0 /* Grow/shrink for lg, preferred basis for 2 cards per row, remove centering */
+              xl:basis-[calc(33.33%-53.33px)] xl:grow xl:shrink xl:mx-0 /* Grow/shrink for xl, preferred basis for 3 cards per row, remove centering */
+              2xl:basis-[calc(33.33%-45.33px)] 2xl:grow 2xl:shrink 2xl:mx-0 /* Grow/shrink for 2xl, preferred basis for 3 cards per row, remove centering */
+            ">
+              {/* main internal div content here */}
+              <div className="
+                flex flex-col items-start gap-[25px] self-stretch /* Base styles for all screens */
+              ">
+                {/*icon holding div */}
+                <div className="
+                  flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[100px] border bg-[#001D21] /* Base styles for all screens */
+                ">
+                  <div className="
+                    flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles for all screens */
+                  ">
+                    <img
+                      src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006109/Vector_3_xgj80p.png"
+                      alt="Icon"
+                      className="w-full h-full object-contain" /* Base styles for all screens */
+                    />
+                  </div>
+                </div>
+                {/*icon holding div */}
+
+                {/* bottom div (text content) */}
+                <div className="
+                  flex flex-col justify-center items-start gap-[10px] self-stretch /* Base styles for all screens */
+                ">
+                  <h2 className="
+                    self-stretch text-[#001D21] font-medium text-[20px] leading-[27px] tracking-[-0.6px] font-sans /* Base styles for all screens */
+                  ">
+                    Mobile-First Experience
+                  </h2>
+                  <p className="
+                    self-stretch text-[#4E4E4E] text-[16px] leading-[23px] font-[450] font-sans /* Base styles for all screens */
+                  ">
+                    Access, manage, and optimize operations on the go with robust system.
+                  </p>
+                </div>
+                {/* bottom div */}
+              </div>
+              {/* main internal div content here */}
+            </div>
+
+            {/* mini div (card structure) - 4 of 6 */}
+            <div className="
+              flex flex-col items-start gap-[10px] bg-[#F3F4F2] rounded-[14px] p-[20px] /* Base card styling */
+              h-auto /* Allow height to adjust based on content */
+              w-full mx-auto flex-none /* Default full width for extra small screens, centers, and prevents grow/shrink */
+              sm:w-[250px] sm:mx-auto sm:flex-none /* Specific width and centering for small screens, prevents grow/shrink */
+              md:w-[275px] md:mx-auto md:flex-none /* Specific width and centering for medium screens, prevents grow/shrink */
+              lg:basis-[calc(50%-52px)] lg:grow lg:shrink lg:mx-0 /* Grow/shrink for lg, preferred basis for 2 cards per row, remove centering */
+              xl:basis-[calc(33.33%-53.33px)] xl:grow xl:shrink xl:mx-0 /* Grow/shrink for xl, preferred basis for 3 cards per row, remove centering */
+              2xl:basis-[calc(33.33%-45.33px)] 2xl:grow 2xl:shrink 2xl:mx-0 /* Grow/shrink for 2xl, preferred basis for 3 cards per row, remove centering */
+            ">
+              {/* main internal div content here */}
+              <div className="
+                flex flex-col items-start gap-[25px] self-stretch /* Base styles for all screens */
+              ">
+                {/*icon holding div */}
+                <div className="
+                  flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[100px] border bg-[#001D21] /* Base styles for all screens */
+                ">
+                  <div className="
+                    flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles for all screens */
+                  ">
+                    <img
+                      src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006123/material-symbols_enterprise_jjguen.png"
+                      alt="Icon"
+                      className="w-full h-full object-contain" /* Base styles for all screens */
+                    />
+                  </div>
+                </div>
+                {/*icon holding div */}
+
+                {/* bottom div (text content) */}
+                <div className="
+                  flex flex-col justify-center items-start gap-[10px] self-stretch /* Base styles for all screens */
+                ">
+                  <h2 className="
+                    self-stretch text-[#001D21] font-medium text-[20px] leading-[27px] tracking-[-0.6px] font-sans /* Base styles for all screens */
+                  ">
+                    Enterprise-Grade Security
+                  </h2>
+                  <p className="
+                    self-stretch text-[#4E4E4E] text-[16px] leading-[23px] font-[450] font-sans /* Base styles for all screens */
+                  ">
+                    We bake in encryption, authentication, and compliance from the ground up.
+                  </p>
+                </div>
+                {/* bottom div */}
+              </div>
+              {/* main internal div content here */}
+            </div>
+
+            {/* mini div (card structure) - 5 of 6 */}
+            <div className="
+              flex flex-col items-start gap-[10px] bg-[#F3F4F2] rounded-[14px] p-[20px] /* Base card styling */
+              h-auto /* Allow height to adjust based on content */
+              w-full mx-auto flex-none /* Default full width for extra small screens, centers, and prevents grow/shrink */
+              sm:w-[250px] sm:mx-auto sm:flex-none /* Specific width and centering for small screens, prevents grow/shrink */
+              md:w-[275px] md:mx-auto md:flex-none /* Specific width and centering for medium screens, prevents grow/shrink */
+              lg:basis-[calc(50%-52px)] lg:grow lg:shrink lg:mx-0 /* Grow/shrink for lg, preferred basis for 2 cards per row, remove centering */
+              xl:basis-[calc(33.33%-53.33px)] xl:grow xl:shrink xl:mx-0 /* Grow/shrink for xl, preferred basis for 3 cards per row, remove centering */
+              2xl:basis-[calc(33.33%-45.33px)] 2xl:grow 2xl:shrink 2xl:mx-0 /* Grow/shrink for 2xl, preferred basis for 3 cards per row, remove centering */
+            ">
+              {/* main internal div content here */}
+              <div className="
+                flex flex-col items-start gap-[25px] self-stretch /* Base styles for all screens */
+              ">
+                {/*icon holding div */}
+                <div className="
+                  flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[100px] border bg-[#001D21] /* Base styles for all screens */
+                ">
+                  <div className="
+                    flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles for all screens */
+                  ">
+                    <img
+                      src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006130/material-symbols_automation_j49f2v.png"
+                      alt="Icon"
+                      className="w-full h-full object-contain" /* Base styles for all screens */
+                    />
+                  </div>
+                </div>
+                {/*icon holding div */}
+
+                {/* bottom div (text content) */}
+                <div className="
+                  flex flex-col justify-center items-start gap-[10px] self-stretch /* Base styles for all screens */
+                ">
+                  <h2 className="
+                    self-stretch text-[#001D21] font-medium text-[20px] leading-[27px] tracking-[-0.6px] font-sans /* Base styles for all screens */
+                  ">
+                    Smart Automation
+                  </h2>
+                  <p className="
+                    self-stretch text-[#4E4E4E] text-[16px] leading-[23px] font-[450] font-sans /* Base styles for all screens */
+                  ">
+                    Automate your repetitive workflows and focus on what matters.
+                  </p>
+                </div>
+                {/* bottom div */}
+              </div>
+              {/* main internal div content here */}
+            </div>
+
+            {/* mini div (card structure) - 6 of 6 */}
+            <div className="
+              flex flex-col items-start gap-[10px] bg-[#F3F4F2] rounded-[14px] p-[20px] /* Base card styling */
+              h-auto /* Allow height to adjust based on content */
+              w-full mx-auto flex-none /* Default full width for extra small screens, centers, and prevents grow/shrink */
+              sm:w-[250px] sm:mx-auto sm:flex-none /* Specific width and centering for small screens, prevents grow/shrink */
+              md:w-[275px] md:mx-auto md:flex-none /* Specific width and centering for medium screens, prevents grow/shrink */
+              lg:basis-[calc(50%-52px)] lg:grow lg:shrink lg:mx-0 /* Grow/shrink for lg, preferred basis for 2 cards per row, remove centering */
+              xl:basis-[calc(33.33%-53.33px)] xl:grow xl:shrink xl:mx-0 /* Grow/shrink for xl, preferred basis for 3 cards per row, remove centering */
+              2xl:basis-[calc(33.33%-45.33px)] 2xl:grow 2xl:shrink 2xl:mx-0 /* Grow/shrink for 2xl, preferred basis for 3 cards per row, remove centering */
+            ">
+              {/* main internal div content here */}
+              <div className="
+                flex flex-col items-start gap-[25px] self-stretch /* Base styles for all screens */
+              ">
+                {/*icon holding div */}
+                <div className="
+                  flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[100px] border bg-[#001D21] /* Base styles for all screens */
+                ">
+                  <div className="
+                    flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles for all screens */
+                  ">
+                    <img
+                      src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1753006139/Vector_4_koayas.png"
+                      alt="Icon"
+                      className="w-full h-full object-contain" /* Base styles for all screens */
+                    />
+                  </div>
+                </div>
+                {/*icon holding div */}
+
+                {/* bottom div (text content) */}
+                <div className="
+                  flex flex-col justify-center items-start gap-[10px] self-stretch /* Base styles for all screens */
+                ">
+                  <h2 className="
+                    self-stretch text-[#001D21] font-medium text-[20px] leading-[27px] tracking-[-0.6px] font-sans /* Base styles for all screens */
+                  ">
+                    Seamless Integrations
+                  </h2>
+                  <p className="
+                    self-stretch text-[#4E4E4E] text-[16px] leading-[23px] font-[450] font-sans /* Base styles for all screens */
+                  ">
+                    Works effortlessly with your existing tools, APIs, and third-party platforms.
+                  </p>
+                </div>
+                {/* bottom div */}
+              </div>
+              {/* main internal div content here */}
+            </div>
+
+          </div>
+          {/* bottom 6 divs holding div */}
+
+        </div>
+        {/* content holding div */}
+      </div>
+      {/* main outer hero section div */}
+    </>
+  );
+}

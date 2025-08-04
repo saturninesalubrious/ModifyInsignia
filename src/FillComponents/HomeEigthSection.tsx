@@ -1,484 +1,398 @@
 export default function FillHomeEigthSection () {
 
 
- return ( 
-  <>
+  return ( 
+   <>
+    
+ 
+     {/* main outer hero section div */}
+     <div className="
+    flex flex-col items-start gap-[10px] self-stretch px-[40px] py-[65px] bg-[#001D21]
+    sm:px-[40px] sm:py-[65px]
+    md:p-[65px]
+    lg:p-[65px]
+    xl:p-[65px]
+    2xl:px-[100px] 2xl:py-[65px]
+    ">
    
-
-   {/* main outer hero section div */}
-   <div className="
-   2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch 2xl:px-[100px] 2xl:py-[65px] 2xl:bg-[#001D21]
-   xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:p-[65px] xl:self-stretch xl:bg-[#001D21]
-   lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:p-[65px] lg:self-stretch lg:bg-[#001D21]
-   md:flex md:flex-col md:items-start md:gap-[10px] md:p-[65px] md:self-stretch md:bg-[#001D21]
-   sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:self-stretch sm:px-[40px] sm:py-[65px] sm:bg-[#001D21]">
+ 
+ 
+ 
+ 
+ 
+    {/* content holding div */}
+    {/* This is the div you want to modify */}
+    <div className="
+           flex flex-col  gap-[80px] w-full mx-auto
+           max-w-full /* Ensures it respects parent padding initially */
+           sm:max-w-screen-sm  sm:items-start
+           md:max-w-screen-md  md:items-center
+           lg:max-w-screen-lg lg:items-center
+           xl:max-w-screen-xl  xl:items-start
+           2xl:max-w-screen-2xl  2xl:items-start
+         ">
+ 
+ 
+ 
+  {/* top heading + sub-heading holding div
   
-
-
-
-
-
-  {/* content holding div
-    md:flex md:flex-col md:items-center md:gap-[80px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[80px] sm:self-stretch 
+  md:flex md:flex-col md:items-center md:gap-[20px] md:self-stretch
+ sm:flex sm:flex-col sm:items-center sm:gap-[20px] sm:self-stretch
+  md:flex md:flex-col md:items-center md:gap-[20px] md:self-stretch md:w-full
+   sm:flex sm:flex-col sm:items-center sm:gap-[20px] sm:self-stretch sm:w-full
+ 
   */}
+ <div className="
+             flex flex-col items-center gap-[20px] w-full
+             lg:w-[690px] /* Fixed width for larger screens */
+             xl:w-[690px] /* Center the fixed-width div */
+             2xl:w-[690px]
+           ">
+ 
+ 
+ <h1 className="
+   self-stretch text-[#FAFAFA] font-sans text-[48px] font-medium leading-[59px] tracking-[-1.44px]
+   text-left /* Base style for smallest screens */
+   sm:text-left
+   md:text-center
+   lg:text-center
+   xl:text-left
+   2xl:text-left
+ ">
+ Unlock Business Potential with Our Core Capabilities
+ </h1>
+ 
+ 
+ <p className="
+   self-stretch text-[rgba(250,250,250,0.75)] font-inter text-[14px] font-medium leading-[23px]
+   text-left /* Base style for smallest screens */
+   sm:text-left
+   md:text-center
+   lg:text-center
+   xl:text-left
+   2xl:text-left
+ ">
+ We invest in purpose-built systems and next-gen tools to help businesses like yours scale smarter, adapt faster, and operate more efficiently.
+ </p>
+ 
+ 
+ 
+ 
+ </div>
+  {/* top heading + sub-heading holding div */}
+ 
+ 
+ 
+ 
+ 
+  {/* bottom 4 divs holding div
+  md:flex md:items-center md:justify-center md:gap-[110px] md:self-stretch md:flex-wrap md:w-full
+   lg:flex lg:w-[800px] lg:justify-center lg:items-center lg:w-[800px] lg:gap-[100px] lg:flex-wrap
+  */}
+ <div className="
+   flex flex-col justify-center items-start gap-[80px] self-stretch w-full flex-nowrap /* Base styles for smallest screens */
+   sm:items-start sm:gap-[80px] sm:flex-nowrap sm:w-auto
+ 
+   md:flex-row md:flex-wrap md:justify-center md:items-center md:content-center md:gap-[110px] md:w-auto
+ 
+   lg:flex-row lg:flex-wrap lg:justify-center lg:items-center lg:gap-[100px] lg:w-auto
+ 
+   xl:flex-row xl:flex-nowrap xl:justify-start xl:items-center xl:gap-[70px] xl:w-full
+ 
+   2xl:flex-row 2xl:flex-nowrap 2xl:justify-start 2xl:items-center 2xl:gap-[70px] 2xl:w-full
+ ">
+   
+ 
+  {/* 1st mini div */}
   <div className="
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[80px] 2xl:self-stretch 
-  xl:flex xl:flex-col xl:items-start xl:gap-[80px] xl:self-stretch
-  lg:flex lg:flex-col lg:items-center lg:justify-center lg:gap-[80px] lg:self-stretch 
-  md:flex md:flex-col md:items-center md:justify-center md:gap-[80px] md:self-stretch
-  sm:flex sm:flex-col sm:items-start sm:gap-[80px] sm:self-stretch
+   flex flex-col items-start gap-[40px] self-stretch w-full /* Base styles for smallest screens */
+   sm:w-full
+   md:w-[264px]
+   lg:w-[350px]
+   xl:w-auto xl:flex-[1_0_0]
+   2xl:w-auto 2xl:flex-[1_0_0]
+ ">
+  
+ 
+ 
+  {/*icon holding div */}
+  <div className="
+   flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[12px] border border-[#31494A] bg-[#0C393F] /* Base styles */
   ">
-
-
-
- {/* top heading + sub-heading holding div 
  
- md:flex md:flex-col md:items-center md:gap-[20px] md:self-stretch
-sm:flex sm:flex-col sm:items-center sm:gap-[20px] sm:self-stretch
- md:flex md:flex-col md:items-center md:gap-[20px] md:self-stretch md:w-full
-  sm:flex sm:flex-col sm:items-center sm:gap-[20px] sm:self-stretch sm:w-full
-
- */}
-<div className="
-  2xl:flex 2xl:w-[690px] 2xl:flex-col 2xl:items-center 2xl:gap-[20px]
-  xl:flex xl:w-[690px] xl:flex-col xl:items-center xl:gap-[20px]
-  lg:flex lg:w-[690px] lg:flex-col lg:items-center lg:gap-[20px]
-  
-
-">
-
-
-<h1 className="
-2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:text-left 2xl:font-sans 2xl:text-[48px] 2xl:font-medium 2xl:leading-[59px] 2xl:tracking-[-1.44px]
-xl:self-stretch xl:text-[#FAFAFA] xl:text-left xl:font-sans xl:text-[48px] xl:font-medium xl:leading-[59px] xl:tracking-[-1.44px]
-lg:self-stretch lg:text-[#FAFAFA] lg:text-center lg:font-sans lg:text-[48px] lg:font-medium lg:leading-[59px] lg:tracking-[-1.44px]
-md:self-stretch md:text-[#FAFAFA] md:text-center md:font-sans md:text-[48px] md:font-medium md:leading-[59px] md:tracking-[-1.44px]
-sm:self-stretch sm:text-[#FAFAFA] sm:text-left sm:font-sans sm:text-[48px] sm:font-medium sm:leading-[59px] sm:tracking-[-1.44px]
-">
-Unlock Business Potential with Our Core Capabilities
-</h1>
-
-
-<p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.75)] 2xl:text-left 2xl:font-inter 2xl:text-[14px] 2xl:font-medium 2xl:leading-[23px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.75)] xl:text-left xl:font-inter xl:text-[14px] xl:font-medium xl:leading-[23px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.75)] lg:text-center lg:font-inter lg:text-[14px] lg:font-medium lg:leading-[23px]
-md:self-stretch md:text-[rgba(250,250,250,0.75)] md:text-center md:font-inter md:text-[14px] md:font-medium md:leading-[23px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.75)] sm:text-left sm:font-inter sm:text-[14px] sm:font-medium sm:leading-[23px]
-">
-We invest in purpose-built systems and next-gen tools to help businesses like yours scale smarter, adapt faster, and operate more efficiently.
-</p>
-
-
-
-
-</div>
- {/* top heading + sub-heading holding div */}
-
-
-
-
-
- {/* bottom 4 divs holding div 
- md:flex md:items-center md:justify-center md:gap-[110px] md:self-stretch md:flex-wrap md:w-full
-  lg:flex lg:w-[800px] lg:justify-center lg:items-center lg:w-[800px] lg:gap-[100px] lg:flex-wrap
- */}
-<div className="
-  sm:flex sm:flex-col sm:justify-center sm:items-start sm:gap-[80px] sm:self-stretch sm:flex-nowrap sm:w-auto
-
-  md:flex md:flex-row md:flex-wrap md:justify-center md:items-center md:content-center md:gap-[110px] md:self-stretch md:w-auto
-
-  lg:flex lg:flex-row lg:flex-wrap lg:justify-center lg:items-center lg:gap-[100px] lg:self-stretch lg:w-auto
-
-  xl:flex xl:flex-row  xl:flex-nowrap xl:justify-start xl:items-center xl:gap-[70px] xl:w-full
-
-  2xl:flex 2xl:flex-row 2xl:flex-nowrap 2xl:justify-start 2xl:items-center 2xl:gap-[70px] 2xl:w-full 2xl:self-stretch
-">
-  
-
- {/* 1st mini div */}
- <div className="
- sm:flex sm:flex-col sm:items-start sm:gap-[40px] sm:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[40px] md:w-[264px]
-  lg:flex lg:flex-col lg:items-start lg:gap-[40px] lg:w-[350px]
-  xl:flex xl:flex-col xl:items-start xl:gap-[40px] xl:w-auto xl:flex-[1_0_0]
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[40px] 2xl:w-auto 2xl:flex-[1_0_0]
-">
+  <div className="
+   flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles */
+  ">
+ <img 
+   src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931415/Group_26892_bwbp86.png" 
+   alt="Icon"
+   className="
+   w-full h-full object-contain /* Base styles */
+   "
  
-
-
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[12px] 2xl:border 2xl:border-[#31494A] 2xl:bg-[#0C393F]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[12px] xl:border xl:border-[#31494A] xl:bg-[#0C393F]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[12px] lg:border lg:border-[#31494A] lg:bg-[#0C393F]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[12px] md:border md:border-[#31494A] md:bg-[#0C393F]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[12px] sm:border sm:border-[#31494A] sm:bg-[#0C393F]
- ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931415/Group_26892_bwbp86.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-{/* heading + paragraph holding div */}
- <div className="
- 2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[5px] 2xl:self-stretch
- xl:flex xl:flex-col xl:items-start xl:gap-[5px] xl:self-stretch
- lg:flex lg:flex-col lg:items-start lg:gap-[5px] lg:self-stretch
- md:flex md:flex-col md:items-start md:gap-[5px] md:self-stretch
- sm:flex sm:flex-col sm:items-start sm:gap-[5px] sm:self-stretch
- ">
-
-
- <h3 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
- md:self-stretch md:text-[#FAFAFA] md:font-sans md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
- ">
- Data-Driven Quality Control
-</h3>
-
-
-
-<p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-sans xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-sans lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
-md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-sans md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-sans sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
-">
-Our advanced monitoring and QA systems identify inefficiencies in real-time, enabling continuous optimization with precise management of resources.
-</p>
-  
-</div>
-{/* heading + paragraph holding div */}
-
-</div>
- {/* 1st mini div */}
-
-
- {/* 1st mini div */}
- <div className="
- sm:flex sm:flex-col sm:items-start sm:gap-[40px] sm:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[40px] md:w-[264px]
-  lg:flex lg:flex-col lg:items-start lg:gap-[40px] lg:w-[350px]
-  xl:flex xl:flex-col xl:items-start xl:gap-[40px] xl:w-auto xl:flex-[1_0_0]
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[40px] 2xl:w-auto 2xl:flex-[1_0_0]
-">
+ />
+ </div>
  
-
-
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[12px] 2xl:border 2xl:border-[#31494A] 2xl:bg-[#0C393F]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[12px] xl:border xl:border-[#31494A] xl:bg-[#0C393F]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[12px] lg:border lg:border-[#31494A] lg:bg-[#0C393F]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[12px] md:border md:border-[#31494A] md:bg-[#0C393F]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[12px] sm:border sm:border-[#31494A] sm:bg-[#0C393F]
- ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752930360/Frame_1000005005_occup4.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-{/* heading + paragraph holding div */}
- <div className="
- 2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[5px] 2xl:self-stretch
- xl:flex xl:flex-col xl:items-start xl:gap-[5px] xl:self-stretch
- lg:flex lg:flex-col lg:items-start lg:gap-[5px] lg:self-stretch
- md:flex md:flex-col md:items-start md:gap-[5px] md:self-stretch
- sm:flex sm:flex-col sm:items-start sm:gap-[5px] sm:self-stretch
- ">
-
-
- <h3 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
- md:self-stretch md:text-[#FAFAFA] md:font-sans md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
- ">
-Expert-Led Implementation
-</h3>
-
-
-
-<p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-sans xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-sans lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
-md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-sans md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-sans sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
-">
-Our consultants combine deep domain expertise with practical experience to ensure smooth, impact-driven deployment tailored to your workflows.
-</p>
-  
-</div>
-{/* heading + paragraph holding div */}
-
-</div>
- {/* 1st mini div */}
-
-
-
+ 
+ </div>
+  {/*icon holding div */} 
+ 
+ 
+ {/* heading + paragraph holding div */}
+  <div className="
+   flex flex-col items-start gap-[5px] self-stretch /* Base styles */
+  ">
+ 
+ 
+  <h3 className="
+   self-stretch text-[#FAFAFA] font-sans text-[14px] font-medium leading-[27px] tracking-[-0.42px] /* Base styles */
+  ">
+  Data-Driven Quality Control
+ </h3>
+ 
+ 
+ 
+ <p className="
+   self-stretch text-[rgba(250,250,250,0.60)] font-sans text-[12px] font-medium leading-[22px] tracking-[-0.36px] /* Base styles */
+  ">
+ Our advanced monitoring and QA systems identify inefficiencies in real-time, enabling continuous optimization with precise management of resources.
+ </p>
+   
+ </div>
+ {/* heading + paragraph holding div */}
+ 
+ </div>
+  {/* 1st mini div */}
+ 
+ 
   {/* 1st mini div */}
   <div className="
- sm:flex sm:flex-col sm:items-start sm:gap-[40px] sm:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[40px] md:w-[264px]
-  lg:flex lg:flex-col lg:items-start lg:gap-[40px] lg:w-[350px]
-  xl:flex xl:flex-col xl:items-start xl:gap-[40px] xl:w-auto xl:flex-[1_0_0]
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[40px] 2xl:w-auto 2xl:flex-[1_0_0]
-">
- 
-
-
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[12px] 2xl:border 2xl:border-[#31494A] 2xl:bg-[#0C393F]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[12px] xl:border xl:border-[#31494A] xl:bg-[#0C393F]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[12px] lg:border lg:border-[#31494A] lg:bg-[#0C393F]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[12px] md:border md:border-[#31494A] md:bg-[#0C393F]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[12px] sm:border sm:border-[#31494A] sm:bg-[#0C393F]
+   flex flex-col items-start gap-[40px] self-stretch w-full /* Base styles for smallest screens */
+   sm:w-full
+   md:w-[264px]
+   lg:w-[350px]
+   xl:w-auto xl:flex-[1_0_0]
+   2xl:w-auto 2xl:flex-[1_0_0]
  ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931502/Group_81712_buoiu4.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-{/* heading + paragraph holding div */}
- <div className="
- 2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[5px] 2xl:self-stretch
- xl:flex xl:flex-col xl:items-start xl:gap-[5px] xl:self-stretch
- lg:flex lg:flex-col lg:items-start lg:gap-[5px] lg:self-stretch
- md:flex md:flex-col md:items-start md:gap-[5px] md:self-stretch
- sm:flex sm:flex-col sm:items-start sm:gap-[5px] sm:self-stretch
- ">
-
-
- <h3 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
- md:self-stretch md:text-[#FAFAFA] md:font-sans md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
- ">
-Customer-Centric Outcomes
-</h3>
-
-
-
-<p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-sans xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-sans lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
-md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-sans md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-sans sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
-">
-Our solutions are built around your needs, delivering measurable improvements in satisfaction, retention, and overall business value.
-</p>
   
-</div>
-{/* heading + paragraph holding div */}
-
-</div>
- {/* 1st mini div */}
-
-
-
-
-
-
-  {/* 1st mini div */}
+ 
+ 
+  {/*icon holding div */}
   <div className="
- sm:flex sm:flex-col sm:items-start sm:gap-[40px] sm:self-stretch
-  md:flex md:flex-col md:items-start md:gap-[40px] md:w-[264px]
-  lg:flex lg:flex-col lg:items-start lg:gap-[40px] lg:w-[350px]
-  xl:flex xl:flex-col xl:items-start xl:gap-[40px] xl:w-auto xl:flex-[1_0_0]
-  2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[40px] 2xl:w-auto 2xl:flex-[1_0_0]
-">
+   flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[12px] border border-[#31494A] bg-[#0C393F] /* Base styles */
+  ">
  
-
-
- {/*icon holding div */}
- <div className="
- 2xl:flex 2xl:w-[51px] 2xl:h-[51px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:rounded-[12px] 2xl:border 2xl:border-[#31494A] 2xl:bg-[#0C393F]
- xl:flex xl:w-[51px] xl:h-[51px] xl:justify-center xl:items-center xl:gap-[10px] xl:rounded-[12px] xl:border xl:border-[#31494A] xl:bg-[#0C393F]
- lg:flex lg:w-[51px] lg:h-[51px] lg:justify-center lg:items-center lg:gap-[10px] lg:rounded-[12px] lg:border lg:border-[#31494A] lg:bg-[#0C393F]
- md:flex md:w-[51px] md:h-[51px] md:justify-center md:items-center md:gap-[10px] md:rounded-[12px] md:border md:border-[#31494A] md:bg-[#0C393F]
- sm:flex sm:w-[51px] sm:h-[51px] sm:justify-center sm:items-center sm:gap-[10px] sm:rounded-[12px] sm:border sm:border-[#31494A] sm:bg-[#0C393F]
+  <div className="
+   flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles */
+  ">
+ <img 
+   src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752930360/Frame_1000005005_occup4.png" 
+   alt="Icon"
+   className="
+   w-full h-full object-contain /* Base styles */
+   "
+ 
+ />
+ </div>
+ 
+ 
+ </div>
+  {/*icon holding div */} 
+ 
+ 
+ {/* heading + paragraph holding div */}
+  <div className="
+   flex flex-col items-start gap-[5px] self-stretch /* Base styles */
+  ">
+ 
+ 
+  <h3 className="
+   self-stretch text-[#FAFAFA] font-sans text-[14px] font-medium leading-[27px] tracking-[-0.42px] /* Base styles */
+  ">
+ Expert-Led Implementation
+ </h3>
+ 
+ 
+ 
+ <p className="
+   self-stretch text-[rgba(250,250,250,0.60)] font-sans text-[12px] font-medium leading-[22px] tracking-[-0.36px] /* Base styles */
+  ">
+ Our consultants combine deep domain expertise with practical experience to ensure smooth, impact-driven deployment tailored to your workflows.
+ </p>
+   
+ </div>
+ {/* heading + paragraph holding div */}
+ 
+ </div>
+  {/* 1st mini div */}
+ 
+ 
+ 
+   {/* 1st mini div */}
+   <div className="
+   flex flex-col items-start gap-[40px] self-stretch w-full /* Base styles for smallest screens */
+   sm:w-full
+   md:w-[264px]
+   lg:w-[350px]
+   xl:w-auto xl:flex-[1_0_0]
+   2xl:w-auto 2xl:flex-[1_0_0]
  ">
-
- <div className="
-sm:flex sm:w-[24px] sm:h-[24px] sm:justify-center sm:items-center sm:gap-[10px] sm:shrink-0
-md:flex md:w-[24px] md:h-[24px] md:justify-center md:items-center md:gap-[10px] md:shrink-0
-lg:flex lg:w-[24px] lg:h-[24px] lg:justify-center lg:items-center lg:gap-[10px] lg:shrink-0
-xl:flex xl:w-[24px] xl:h-[24px] xl:justify-center xl:items-center xl:gap-[10px] xl:shrink-0
-2xl:flex 2xl:w-[24px] 2xl:h-[24px] 2xl:justify-center 2xl:items-center 2xl:gap-[10px] 2xl:shrink-0
-">
-<img 
-  src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931510/Group_1_sjaqlh.png" 
-  alt="Icon"
-  className="
-  2xl:w-full 2xl:h-full 2xl:object-contain
-  xl:w-full xl:h-full xl:object-contain
-  lg:w-full lg:h-full lg:object-contain
-  md:w-full md:h-full md:object-contain
-  sm:w-full sm:h-full sm:object-contain
-  "
-
-/>
-</div>
-
-
-</div>
- {/*icon holding div */} 
-
-
-{/* heading + paragraph holding div */}
- <div className="
- 2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[5px] 2xl:self-stretch
- xl:flex xl:flex-col xl:items-start xl:gap-[5px] xl:self-stretch
- lg:flex lg:flex-col lg:items-start lg:gap-[5px] lg:self-stretch
- md:flex md:flex-col md:items-start md:gap-[5px] md:self-stretch
- sm:flex sm:flex-col sm:items-start sm:gap-[5px] sm:self-stretch
- ">
-
-
- <h3 className="
- 2xl:self-stretch 2xl:text-[#FAFAFA] 2xl:font-sans 2xl:text-[14px] 2xl:font-medium 2xl:leading-[27px] 2xl:tracking-[-0.42px]
- xl:self-stretch xl:text-[#FAFAFA] xl:font-sans xl:text-[14px] xl:font-medium xl:leading-[27px] xl:tracking-[-0.42px]
- lg:self-stretch lg:text-[#FAFAFA] lg:font-sans lg:text-[14px] lg:font-medium lg:leading-[27px] lg:tracking-[-0.42px]
- md:self-stretch md:text-[#FAFAFA] md:font-sans md:text-[14px] md:font-medium md:leading-[27px] md:tracking-[-0.42px]
- sm:self-stretch sm:text-[#FAFAFA] sm:font-sans sm:text-[14px] sm:font-medium sm:leading-[27px] sm:tracking-[-0.42px]
- ">
-Smart Automation & Integrations
-</h3>
-
-
-
-<p className="
-2xl:self-stretch 2xl:text-[rgba(250,250,250,0.60)] 2xl:font-sans 2xl:text-[12px] 2xl:font-medium 2xl:leading-[22px] 2xl:tracking-[-0.36px]
-xl:self-stretch xl:text-[rgba(250,250,250,0.60)] xl:font-sans xl:text-[12px] xl:font-medium xl:leading-[22px] xl:tracking-[-0.36px]
-lg:self-stretch lg:text-[rgba(250,250,250,0.60)] lg:font-sans lg:text-[12px] lg:font-medium lg:leading-[22px] lg:tracking-[-0.36px]
-md:self-stretch md:text-[rgba(250,250,250,0.60)] md:font-sans md:text-[12px] md:font-medium md:leading-[22px] md:tracking-[-0.36px]
-sm:self-stretch sm:text-[rgba(250,250,250,0.60)] sm:font-sans sm:text-[12px] sm:font-medium sm:leading-[22px] sm:tracking-[-0.36px]
-">
-From CRM to cloud, we connect your tools and automate repetitive workflows — helping you reduce manual effort and scale seamlessly.
-</p>
   
-</div>
-{/* heading + paragraph holding div */}
-
-</div>
- {/* 1st mini div */}
-
-
-</div>
-
- {/* bottom 4 divs holding div */}
-
-
-
-
-
+ 
+ 
+  {/*icon holding div */}
+  <div className="
+   flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[12px] border border-[#31494A] bg-[#0C393F] /* Base styles */
+  ">
+ 
+  <div className="
+   flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles */
+  ">
+ <img 
+   src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931502/Group_81712_buoiu4.png" 
+   alt="Icon"
+   className="
+   w-full h-full object-contain /* Base styles */
+   "
+ 
+ />
+ </div>
+ 
+ 
+ </div>
+  {/*icon holding div */} 
+ 
+ 
+ {/* heading + paragraph holding div */}
+  <div className="
+   flex flex-col items-start gap-[5px] self-stretch /* Base styles */
+  ">
+ 
+ 
+  <h3 className="
+   self-stretch text-[#FAFAFA] font-sans text-[14px] font-medium leading-[27px] tracking-[-0.42px] /* Base styles */
+  ">
+ Customer-Centric Outcomes
+ </h3>
+ 
+ 
+ 
+ <p className="
+   self-stretch text-[rgba(250,250,250,0.60)] font-sans text-[12px] font-medium leading-[22px] tracking-[-0.36px] /* Base styles */
+  ">
+ Our solutions are built around your needs, delivering measurable improvements in satisfaction, retention, and overall business value.
+ </p>
+   
+ </div>
+ {/* heading + paragraph holding div */}
+ 
+ </div>
+  {/* 1st mini div */}
+ 
+ 
+ 
+ 
+ 
+ 
+   {/* 1st mini div */}
+   <div className="
+   flex flex-col items-start gap-[40px] self-stretch w-full /* Base styles for smallest screens */
+   sm:w-full
+   md:w-[264px]
+   lg:w-[350px]
+   xl:w-auto xl:flex-[1_0_0]
+   2xl:w-auto 2xl:flex-[1_0_0]
+ ">
   
-  </div>
-
-  {/* content holding div */}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+  {/*icon holding div */}
+  <div className="
+   flex w-[51px] h-[51px] justify-center items-center gap-[10px] rounded-[12px] border border-[#31494A] bg-[#0C393F] /* Base styles */
+  ">
+ 
+  <div className="
+   flex w-[24px] h-[24px] justify-center items-center gap-[10px] shrink-0 /* Base styles */
+  ">
+ <img 
+   src="https://res.cloudinary.com/dpxtrzlia/image/upload/v1752931510/Group_1_sjaqlh.png" 
+   alt="Icon"
+   className="
+   w-full h-full object-contain /* Base styles */
+   "
+ 
+ />
+ </div>
+ 
+ 
+ </div>
+  {/*icon holding div */} 
+ 
+ 
+ {/* heading + paragraph holding div */}
+  <div className="
+   flex flex-col items-start gap-[5px] self-stretch /* Base styles */
+  ">
+ 
+ 
+  <h3 className="
+   self-stretch text-[#FAFAFA] font-sans text-[14px] font-medium leading-[27px] tracking-[-0.42px] /* Base styles */
+  ">
+ Smart Automation & Integrations
+ </h3>
+ 
+ 
+ 
+ <p className="
+   self-stretch text-[rgba(250,250,250,0.60)] font-sans text-[12px] font-medium leading-[22px] tracking-[-0.36px] /* Base styles */
+  ">
+ From CRM to cloud, we connect your tools and automate repetitive workflows — helping you reduce manual effort and scale seamlessly.
+ </p>
+   
+ </div>
+ {/* heading + paragraph holding div */}
+ 
+ </div>
+  {/* 1st mini div */}
+ 
+ 
+ </div>
+ 
+  {/* bottom 4 divs holding div */}
+ 
+ 
+ 
+ 
+ 
+   
    </div>
-   {/* main outer hero section div */}
-
-  
-  </>
-  )
  
- }
+   {/* content holding div */}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    </div>
+    {/* main outer hero section div */}
+ 
+   
+   </>
+   )
+  
+  }

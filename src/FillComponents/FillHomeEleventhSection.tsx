@@ -1,106 +1,79 @@
 import OutlineServicesButton from "@/ButtonVariants/OutlineOurServices";
 
 export default function FillHomeEleventhSection () {
-
-
- return ( 
+ return (
   <>
-   
-
    {/* main outer hero section div */}
+   {/* Base styles define layout for smallest screens, then responsive padding for larger ones */}
    <div className="
-   2xl:flex 2xl:flex-col 2xl:items-start 2xl:gap-[10px] 2xl:self-stretch 2xl:px-[100px] 2xl:py-[65px] 2xl:bg-[#ffff]
-   xl:flex xl:flex-col xl:items-start xl:gap-[10px] xl:p-[65px] xl:self-stretch xl:bg-[#ffff]
-   lg:flex lg:flex-col lg:items-start lg:gap-[10px] lg:p-[65px] lg:self-stretch lg:bg-[#ffff]
-   md:flex md:flex-col md:items-start md:gap-[10px] md:p-[65px] md:self-stretch md:bg-[#ffff]
-   sm:flex sm:flex-col sm:items-start sm:gap-[10px] sm:self-stretch sm:px-[40px] sm:py-[65px] sm:bg-[#ffff]">
+     flex flex-col items-start gap-[10px] self-stretch bg-[#ffff] /* Base styles for below sm and up */
+     px-[20px] py-[40px] /* Default padding for very small screens */
+     sm:px-[40px] sm:py-[65px]
+     md:p-[65px] /* md, lg, xl share this padding */
+     lg:p-[65px]
+     xl:p-[65px]
+     2xl:px-[100px] 2xl:py-[65px]
+   ">
   
+    {/* content holding div */}
+    {/* Base styles applied, then responsive adjustments and max-width for larger breakpoints */}
+    <div
+    className="
+      flex flex-col items-start gap-[10px] self-stretch /* Base  properties for below sm and up */
+      rounded-[24px] border-[6px] border-[#1E212B]
+      bg-[url('https://res.cloudinary.com/dpxtrzlia/image/upload/v1752942557/Group_140091_1_i9sleh.png')] bg-cover bg-no-repeat bg-center
+      shadow-[0_5px_10px_0_rgba(0,0,0,0.10),0_15px_30px_0_rgba(0,0,0,0.10),0_20px_40px_0_rgba(0,0,0,0.15)]
+      p-[30px] h-[400px] /* Default height and padding for very small screens */
+      w-full mx-auto /* Ensure it stretches to full width and is centered */
+      
+      sm:h-[650px] sm:p-[54px_57px] /* Adjustments for sm breakpoint */
+      md:h-[650px] md:p-[54px_57px] /* md, lg, xl, 2xl share this height and padding */
+      lg:h-[650px] lg:p-[54px_57px] lg:max-w-screen-xl lg:mx-auto /* Constrain and center for lg */
+      xl:h-[650px] xl:p-[54px_57px] xl:max-w-screen-xl xl:mx-auto /* Constrain and center for xl */
+      2xl:h-[650px] 2xl:p-[54px_57px] 2xl:max-w-screen-2xl 2xl:mx-auto /* Constrain to 2xl screen size and center */
+      /* Note:  is a custom value, ensure your Tailwind config supports arbitrary values for */
+      backdrop-blur-[10px]
+    "
+  >
+    {/* Inner content div (heading, paragraph, button) */}
+    {/* Base styles for flex and width, then responsive width changes */}
+    <div className="
+      flex flex-col items-start gap-[20px] w-full /* Base  and full width for below sm and up */
+      sm:w-[400px]
+      md:w-[500px]
+      lg:w-[690px] /* lg, xl, 2xl share this width */
+      xl:w-[690px]
+      2xl:w-[690px]
+    ">
+      {/* Heading */}
+      {/* Base styles for text properties, then responsive font sizes/line heights */}
+      <h1 className="
+        self-stretch text-[#001D21] text-left font-sans font-medium tracking-[-1.44px] /* Base text styles */
+        text-[34px] leading-[42px] /* Default font size for very small screens */
+        sm:text-[34px] sm:leading-[42px]
+        md:text-[34px] md:leading-[42px]
+        lg:text-[48px] lg:leading-[59px] /* lg, xl, 2xl share this font size */
+        xl:text-[48px] xl:leading-[59px]
+        2xl:text-[48px] 2xl:leading-[59px]
+      ">
+        Unlock Business Potential with Our Core Capabilities
+      </h1>
 
+      {/* Paragraph */}
+      {/* Base styles for text properties */}
+      <p className="
+        self-stretch text-[rgba(0,29,33,0.75)] text-left font-inter text-[14px] font-medium leading-[23px] /* Base text styles */
+      ">
+        We invest in purpose-built systems and next-gen tools to help businesses like yours scale smarter, adapt faster, and operate more efficiently.
+      </p>
 
+      <OutlineServicesButton/>
 
-
-
-  {/* content holding div */}
-  <div
-  className="
-  2xl:flex  2xl:h-[650px]  2xl:p-[54px_57px]  2xl:flex-col 2xl:items-start  2xl:gap-[10px] 2xl:self-stretch 2xl:rounded-[24px] 2xl:border-[6px] 2xl:border-[#1E212B] 2xl:bg-[url('https://res.cloudinary.com/dpxtrzlia/image/upload/v1752942557/Group_140091_1_i9sleh.png')] 2xl:bg-cover 2xl:bg-no-repeat 2xl:bg-center 2xl:backdrop-blur-[10px] 2xl:shadow-[0_5px_10px_0_rgba(0,0,0,0.10),0_15px_30px_0_rgba(0,0,0,0.10),0_20px_40px_0_rgba(0,0,0,0.15)]
-  xl:flex xl:h-[650px] xl:p-[54px_57px] xl:flex-col xl:items-start xl:gap-[10px] xl:self-stretch xl:rounded-[24px] xl:border-[6px] xl:border-[#1E212B] xl:bg-[url('https://res.cloudinary.com/dpxtrzlia/image/upload/v1752942557/Group_140091_1_i9sleh.png')] xl:bg-cover xl:bg-no-repeat xl:bg-center xl:backdrop-blur-[10px] xl:shadow-[0_5px_10px_0_rgba(0,0,0,0.10),0_15px_30px_0_rgba(0,0,0,0.10),0_20px_40px_0_rgba(0,0,0,0.15)]
-  lg:flex lg:h-[650px] lg:p-[54px_57px] lg:flex-col lg:items-start lg:gap-[10px] lg:self-stretch lg:rounded-[24px] lg:border-[6px] lg:border-[#1E212B] lg:bg-[url('https://res.cloudinary.com/dpxtrzlia/image/upload/v1752942557/Group_140091_1_i9sleh.png')] lg:bg-cover lg:bg-no-repeat lg:bg-center lg:backdrop-blur-[10px] lg:shadow-[0_5px_10px_0_rgba(0,0,0,0.10),0_15px_30px_0_rgba(0,0,0,0.10),0_20px_40px_0_rgba(0,0,0,0.15)]
-  md:flex md:h-[650px] md:p-[54px_57px] md:flex-col md:items-start md:gap-[10px] md:self-stretch md:rounded-[24px] md:border-[6px] md:border-[#1E212B] md:bg-[url('https://res.cloudinary.com/dpxtrzlia/image/upload/v1752942557/Group_140091_1_i9sleh.png')] md:bg-cover md:bg-no-repeat md:bg-center md:backdrop-blur-[10px] md:shadow-[0_5px_10px_0_rgba(0,0,0,0.10),0_15px_30px_0_rgba(0,0,0,0.10),0_20px_40px_0_rgba(0,0,0,0.15)]
-  sm:flex sm:h-[650px] sm:p-[54px_57px] sm:flex-col sm:items-start sm:gap-[10px] sm:self-stretch sm:rounded-[24px] sm:border-[6px] sm:border-[#1E212B] sm:bg-[url('https://res.cloudinary.com/dpxtrzlia/image/upload/v1752942557/Group_140091_1_i9sleh.png')] sm:bg-cover sm:bg-no-repeat sm:bg-center sm:backdrop-blur-[10px] sm:shadow-[0_5px_10px_0_rgba(0,0,0,0.10),0_15px_30px_0_rgba(0,0,0,0.10),0_20px_40px_0_rgba(0,0,0,0.15)
-  "
->
-
-
-<div className="
-  2xl:flex 2xl:w-[690px] 2xl:flex-col 2xl:items-start 2xl:gap-[20px]
-  xl:flex xl:w-[690px] xl:flex-col xl:items-start xl:gap-[20px]
-  lg:flex lg:w-[690px] lg:flex-col lg:items-start lg:gap-[20px]
-  md:flex md:w-[500px] md:flex-col md:items-start md:gap-[20px]
-  sm:flex sm:w-[400px] sm:flex-col sm:items-start sm:gap-[20px]
-  
-
-">
-
-
-<h1 className="
-2xl:self-stretch 2xl:text-[#001D21] 2xl:text-left 2xl:font-sans 2xl:text-[48px] 2xl:font-medium 2xl:leading-[59px] 2xl:tracking-[-1.44px]
-xl:self-stretch xl:text-[#001D21] xl:text-left xl:font-sans xl:text-[48px] xl:font-medium xl:leading-[59px] xl:tracking-[-1.44px]
-lg:self-stretch lg:text-[#001D21] lg:text-left lg:font-sans lg:text-[48px] lg:font-medium lg:leading-[59px] lg:tracking-[-1.44px]
-md:self-stretch md:text-[#001D21] md:text-left md:font-sans md:text-[34px] md:font-medium md:leading-[42px] md:tracking-[-1.44px]
-sm:self-stretch sm:text-[#001D21] sm:text-left sm:font-sans sm:text-[34px] sm:font-medium sm:leading-[42px] sm:tracking-[-1.44px]
-">
-Unlock Business Potential with Our Core Capabilities
-</h1>
-
-
-<p className="
-2xl:self-stretch 2xl:text-[rgba(0,29,33,0.75)] 2xl:text-left 2xl:font-inter 2xl:text-[14px] 2xl:font-medium 2xl:leading-[23px]
-xl:self-stretch xl:text-[rgba(0,29,33,0.75)] xl:text-left xl:font-inter xl:text-[14px] xl:font-medium xl:leading-[23px]
-lg:self-stretch lg:text-[rgba(0,29,33,0.75)] lg:text-left lg:font-inter lg:text-[14px] lg:font-medium lg:leading-[23px]
-md:self-stretch md:text-[rgba(0,29,33,0.75)] md:text-left md:font-inter md:text-[14px] md:font-medium md:leading-[23px]
-sm:self-stretch sm:text-[rgba(0,29,33,0.75)] sm:text-left sm:font-inter sm:text-[14px] sm:font-medium sm:leading-[23px]
-">
-We invest in purpose-built systems and next-gen tools to help businesses like yours scale smarter, adapt faster, and operate more efficiently.
-</p>
-
-
-<OutlineServicesButton/>
-
-
-
-</div>
-  
- 
-</div>
-
-
-  {/* content holding div */}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    </div>
    </div>
-   {/* main outer hero section div */}
-
-  
+   {/* content holding div */}
+  </div>
+  {/* main outer hero section div */}
   </>
-  )
- 
- }
+ )
+}

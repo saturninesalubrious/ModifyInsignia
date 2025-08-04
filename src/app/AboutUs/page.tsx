@@ -5,6 +5,12 @@ import FillAboutUsSection from "@/FillComponents/FillAboutUsHeroSection"
 import FillAboutUsSecondSection from "@/FillComponents/FillAboutUsSecondSection"
 import FillAboutUsSeventhSection from "@/FillComponents/FillAboutUsSeventhSection"
 import FillAboutUsSixthSection from "@/FillComponents/FillAboutUsSixthSection"
+import GlobePointerSection from "@/FillComponents/GlobePointers"
+import InsigniaEngageSection from "@/FillComponents/InsigniaEngage"
+import OurCapabilitiesSection from "@/FillComponents/OurCapabilities"
+
+import FillReinventAIsection from "@/FillComponents/ReinventAI"
+import SpecificPropositionSection from "@/FillComponents/specifics"
 
 
   {/* image holding div
@@ -41,9 +47,17 @@ export default function () {
  
 
  <FillAboutUsSection/>
- <FillAboutUsSecondSection/>
 
+ <OurCapabilitiesSection/>
+ <SpecificPropositionSection/>
+ <FillReinventAIsection/>
+
+ <GlobePointerSection/>
+ 
  <FillAboutUsFourthSection/>
+ <FillAboutUsSecondSection/>
+ 
+<InsigniaEngageSection/>
  <FillAboutUsFifthSection/>
  <FillAboutUsSixthSection/>
  <FillAboutUsSeventhSection/>

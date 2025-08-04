@@ -12,6 +12,10 @@ import FillHomeNinthSection from "@/FillComponents/HomeNinthSection"
 import FillHomeTenthSection from "@/FillComponents/FillHomeTenthSection"
 import FillHomeEleventhSection from "@/FillComponents/FillHomeEleventhSection"
 import FillHomeTwvelthSection from "@/FillComponents/FillHomeTwvelthSection"
+import FillOurOfferingsection from "@/FillComponents/OurOfferings"
+import FillRandomTabletSection from "@/FillComponents/RandomTablet"
+import FillUniquePropositionssection from "@/FillComponents/Uniquepropositions"
+import FillRandomTabletSection2 from "@/FillComponents/RandomTablet2"
 
 export default function () {
 
@@ -32,14 +36,19 @@ sm:flex sm:flex-col sm:items-center sm:gap-[100px] sm:self-stretch sm:bg-white
 
 <FillHeroSection/>
 <FillHomeSecondSection/>
+<FillOurOfferingsection/>
 <FillHomeThirdSection/>
 <FillHomeFourthSection/>
 <FillHomeFifthSection/>
 <FillHomeSixthSection/>
 <FillHomeSeventhSection/>
 <FillHomeEigthSection/>
-<FillHomeNinthSection/>
+<FillRandomTabletSection/>
+<FillUniquePropositionssection/>
+<FillRandomTabletSection2/>
 <FillHomeTenthSection/>
+<FillHomeNinthSection/>
+
 <FillHomeEleventhSection/>
 <FillHomeTwvelthSection/>
 

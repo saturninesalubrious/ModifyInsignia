@@ -1,6 +1,6 @@
 import OutlineServicesButton from "@/ButtonVariants/OutlineOurServices";
 
-export default function FillHomeFourthSection() {
+export default function InsigniaEngageSection() {
   return (
     <>
       {/* main outer hero section div */}
@@ -37,7 +37,7 @@ export default function FillHomeFourthSection() {
               sm:text-[36px] sm:leading-[45px] sm:tracking-[-1.08px]
               md:text-[48px] md:leading-[59px] md:tracking-[-1.44px]
             ">
-              Build smart, scale fast, transform digitally
+            Precision Expertise for Any Enterprise
             </h1>
 
             <p className="
@@ -45,7 +45,7 @@ export default function FillHomeFourthSection() {
               text-[13px] leading-[20px] font-medium /* Base for smallest screens */
               sm:text-[14px] sm:leading-[23px]
             ">
-              Our platform offers cutting-edge digital products and intelligent solutions—from app development to AI and cloud integration—to help you scale smarter and innovate faster.
+        From Fortune 500 enterprises to mission-critical government programs, our cross-functional strategists bring deep technical mastery and strategic foresight to every facet of your digital journey.
             </p>
           </div>
           {/* top heading + sub-heading holding div */}
@@ -60,7 +60,7 @@ export default function FillHomeFourthSection() {
 
             {/* 1st div card */}
             <div className="
-              flex flex-col justify-start items-start gap-[138px] rounded-[24px] bg-[#0C2D32]
+              flex flex-col justify-center items-start gap-[138px] rounded-[24px] bg-[#0C2D32]
               py-[26px] px-[25px] flex-1 self-stretch w-full /* Base for smallest screens */
             ">
               {/* top tag */}
@@ -71,7 +71,7 @@ export default function FillHomeFourthSection() {
                   text-[#FAFAFA] text-center [font-feature-settings:'liga_off','clig_off'] font-sans
                   text-[15px] font-[550] leading-[24.011px] tracking-[0.45px] /* Base for smallest screens */
                 ">
-                  Strategy
+                 AI & Machine Learning
                 </span>
               </div>
               {/* top tag */}
@@ -85,14 +85,14 @@ export default function FillHomeFourthSection() {
                   text-[18px] leading-[30px] tracking-[-0.54px] /* Base size for h3 */
                   sm:text-[20px] sm:leading-[38px] sm:tracking-[-0.6px]
                 ">
-                  Tech transformation strategy
+                 Generative AI & MLOps
                 </h3>
                 <p className="
                   self-stretch text-[rgba(250,250,250,0.60)] font-medium font-sans
                   text-[16px] leading-[24px] tracking-[-0.48px] /* Base size for p */
                   sm:text-[20px] sm:leading-[30px] sm:tracking-[-0.6px]
                 ">
-                  A tech transformation strategy helps organizations embrace digital innovation by aligning technology with business goals for long-term.
+We architect, develop, and integrate cutting-edge AI systems designed for real-world impact. LLM integration, advanced embedding strategies, vector database optimization, and secure RAG architectures.
                 </p>
               </div>
               {/* bottom div */}
@@ -101,7 +101,7 @@ export default function FillHomeFourthSection() {
 
             {/* 2nd div card */}
             <div className="
-              flex flex-col justify-start items-start gap-[138px] rounded-[24px] bg-[#0C2D32]
+              flex flex-col justify-center items-start gap-[138px] rounded-[24px] bg-[#0C2D32]
               py-[26px] px-[25px] flex-1 self-stretch w-full /* Base for smallest screens */
             ">
               {/* top tag */}
@@ -112,7 +112,7 @@ export default function FillHomeFourthSection() {
                   text-[#FAFAFA] text-center [font-feature-settings:'liga_off','clig_off'] font-sans
                   text-[15px] font-[550] leading-[24.011px] tracking-[0.45px] /* Base for smallest screens */
                 ">
-                  Development
+                 Data & Cloud
                 </span>
               </div>
               {/* top tag */}
@@ -126,14 +126,14 @@ export default function FillHomeFourthSection() {
                   text-[18px] leading-[30px] tracking-[-0.54px] /* Base size for h3 */
                   sm:text-[20px] sm:leading-[38px] sm:tracking-[-0.6px]
                 ">
-                  Web & App development
+                 Cloud-Native Re-Architecture
                 </h3>
                 <p className="
                   self-stretch text-[rgba(250,250,250,0.60)] font-medium font-sans
                   text-[16px] leading-[24px] tracking-[-0.48px] /* Base size for p */
                   sm:text-[20px] sm:leading-[30px] sm:tracking-[-0.6px]
                 ">
-                  Bring your ideas to life with our custom website, mobile app, and web app development services designed for performance.
+We re-architect legacy sprawl into streamlined, scalable cloud-native platforms. Our approach aligns data strategy with real-world cost, performance, and agility outcomes, modernizing data platforms across industries
                 </p>
               </div>
               {/* bottom div */}
@@ -142,7 +142,7 @@ export default function FillHomeFourthSection() {
 
             {/* 3rd div card */}
             <div className="
-              flex flex-col justify-start items-start gap-[138px] rounded-[24px] bg-[#0C2D32]
+              flex flex-col justify-center items-start gap-[138px] rounded-[24px] bg-[#0C2D32]
               py-[26px] px-[25px] flex-1 self-stretch w-full /* Base for smallest screens */
             ">
               {/* top tag */}
@@ -153,7 +153,7 @@ export default function FillHomeFourthSection() {
                   text-[#FAFAFA] text-center [font-feature-settings:'liga_off','clig_off'] font-sans
                   text-[15px] font-[550] leading-[24.011px] tracking-[0.45px] /* Base for smallest screens */
                 ">
-                  AI & Data
+                Agile Transformation & DevOps
                 </span>
               </div>
               {/* top tag */}
@@ -167,14 +167,14 @@ export default function FillHomeFourthSection() {
                   text-[18px] leading-[30px] tracking-[-0.54px] /* Base size for h3 */
                   sm:text-[20px] sm:leading-[38px] sm:tracking-[-0.6px]
                 ">
-                  AI-powered automation
+                  Agile at Enterprise Scale
                 </h3>
                 <p className="
                   self-stretch text-[rgba(250,250,250,0.60)] font-medium font-sans
                   text-[16px] leading-[24px] tracking-[-0.48px] /* Base size for p */
                   sm:text-[20px] sm:leading-[30px] sm:tracking-[-0.6px]
                 ">
-                  Leverage our AI and data science services to automate operations, gain predictive insights, and build intelligent systems.
+We enable adaptive systems that deliver with speed, predictability, and strategic cohesion. From SAFe Release Trains and DevOps coaching to CI/CD acceleration, we embed agility not just in process, but in purpose and culture.
                 </p>
               </div>
               {/* bottom div */}
