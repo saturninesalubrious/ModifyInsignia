@@ -180,7 +180,7 @@ We led cloud-native modernization for critical fintech workloads, resulting in a
 
          {/* main icon holder div) */}
          <div className="
-                  flex self-stretch justify-center items-center rounded-[12px] bg-[#001D21]
+                  flex self-stretch justify-center items-center rounded-[12px]
                 ">
                   <div className="
                     flex w-[12px] h-[24px] justify-center items-center gap-[10px] shrink-0 
@@ -267,7 +267,7 @@ Our framework ensures every AI initiative and investment is directly aligned wit
 
          {/* main icon holder div) */}
          <div className="
-                  flex self-stretch justify-center items-center rounded-[12px] bg-[#001D21]
+                  flex self-stretch justify-center items-center rounded-[12px] 
                 ">
                   <div className="
                     flex w-[12px] h-[24px] justify-center items-center gap-[10px] shrink-0 
@@ -365,7 +365,7 @@ From advanced embedding strategies to secure RAG architectures, we engineer and 
 
          {/* main icon holder div) */}
          <div className="
-                  flex self-stretch justify-center items-center rounded-[12px] bg-[#001D21]
+                  flex self-stretch justify-center items-center rounded-[12px] 
                 ">
                   <div className="
                     flex w-[12px] h-[24px] justify-center items-center gap-[10px] shrink-0 
@@ -451,7 +451,7 @@ Our AI solutions are built to optimize operations and reduce overhead, ensuring 
 
          {/* main icon holder div) */}
          <div className="
-                  flex self-stretch justify-center items-center rounded-[12px] bg-[#001D21]
+                  flex self-stretch justify-center items-center rounded-[12px]
                 ">
                   <div className="
                     flex w-[12px] h-[24px] justify-center items-center gap-[10px] shrink-0 
