@@ -57,11 +57,9 @@ export default function FillAboutUsSeventhSection () {
 
 {/* 1st div card */}
 <div className="
-2xl:flex 2xl:flex-col 2xl:h-[403px] 2xl:items-end 2xl:gap-[25px] 2xl:flex-[1_0_0] bg-[url(https://res.cloudinary.com/dpxtrzlia/image/upload/v1753885678/1680231683505_1_nyy4bo.jpg)] bg-cover bg-center bg-no-repeat rounded-[24px]
-xl:flex xl:flex-col xl:h-[403px]  xl:items-start xl:gap-[25px] xl:flex-[1_0_0]
-lg:flex lg:flex-col lg:h-[403px]  lg:items-start lg:gap-[25px] lg:flex-[1_0_0]
-md:flex md:flex-col md:h-[403px]  md:items-start md:gap-[25px] md:shrink-0  md:w-full
-sm:flex sm:flex-col  sm:h-[403px]  sm:items-start sm:gap-[25px] sm:shrink-0  sm:w-full
+  flex flex-col h-[403px] items-end gap-[25px] flex-1 w-full rounded-[24px] 
+  bg-[url(https://res.cloudinary.com/dpxtrzlia/image/upload/v1753885678/1680231683505_1_nyy4bo.jpg)] rounded-[24px] bg-cover bg-center bg-no-repeat
+
 ">
   
 
